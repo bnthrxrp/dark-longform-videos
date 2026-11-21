@@ -7,6 +7,7 @@
 - `05` §4 Seleção de estrutura; §1 só se a escolha não for óbvia
 
 **Entregue** no dossiê, seções 1 e 2:
+- O que o público provavelmente já sabe do tema: a lacuna só existe para quem tem base para percebê-la (`11` §3, T1; teoria, não medido em vídeo).
 - Pergunta-mestra em uma frase, com a resposta esperada e a ressalva. "O que aconteceu em X?" não serve: a pergunta precisa de uma lacuna específica (quem, por quê, como foi possível).
 - No máximo uma pergunta secundária.
 - Estrutura narrativa escolhida, com o critério de `05` §4 que a justifica.

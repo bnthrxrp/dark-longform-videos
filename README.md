@@ -7,7 +7,8 @@ Skill para agentes (Claude Code e compatíveis) que conduz a produção de um v�
 Analytics.
 
 Ela nasceu de uma pesquisa multiagente sobre retenção, hooks, thumbnails, storytelling e o algoritmo
-do YouTube. Os dez documentos dessa pesquisa vêm junto, como base de consulta.
+do YouTube. Os dez documentos dessa pesquisa vêm junto, como base de consulta, com os mapas e as fichas de uma
+biblioteca de livros e artigos sobre histórias, atenção e persuasão.
 
 ## O que ela faz
 
@@ -46,7 +47,7 @@ skills/producing-dark-longform-videos/
   SKILL.md              fluxo, regras e erros comuns
   dossie-modelo.md      modelo do dossiê de um vídeo
   agents/               um briefing por papel
-  references/           os dez documentos da pesquisa + INDEX.md (índice por seção)
+  references/           os dez documentos da pesquisa, os mapas e fichas da biblioteca + INDEX.md (índice por seção)
   scripts/build_index.py  refaz o índice depois de editar uma referência
 ```
 
@@ -58,6 +59,8 @@ skills/producing-dark-longform-videos/
 - **Não há curvas de retenção de terceiros na base**: o YouTube não as publica. A engenharia reversa
   se apoia em transcrições, títulos, thumbnails e contagens públicas de 38 vídeos de alto desempenho,
   sem grupo de comparação.
+- **Os mapas e fichas da biblioteca são resumos em palavras próprias**, com citações curtas. Livro de autor entra como
+  relato de praticante; nenhuma das obras mede retenção em vídeo longo.
 - **A skill não pesquisa o caso do vídeo.** Sem fonte, os fatos entram como "a verificar" e o texto
   narrado não os afirma.
 - **Testes.** A skill foi escrita a partir de cenários de pressão rodados com e sem ela. Foram
@@ -78,6 +81,8 @@ skills/producing-dark-longform-videos/
 | `08_algoritmo_e_analytics.md` | Recomendação, métricas e roteiro de leitura do Analytics |
 | `09_sistema_avaliacao_pre_publicacao.md` | Portões, rubricas e testes práticos |
 | `10_framework_experimentacao.md` | Hipóteses testáveis e desenhos de experimento |
+| `11` a `16` (`*_mapa_*.md`) | Mapas temáticos de uma biblioteca de 15 livros e artigos: hook e curiosidade, estrutura narrativa, viralização, retenção e hábito, persuasão por narrativa, ofício de escrita |
+| `17_fichas_da_biblioteca.md` | Uma ficha por obra (McKee, Truby, Snyder, King, Heath, Berger, Kane, Eyal, Hall e quatro artigos científicos lidos na íntegra) |
 
 ## Licença
 

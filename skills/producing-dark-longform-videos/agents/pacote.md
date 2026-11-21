@@ -12,7 +12,7 @@
 - Thumbnail: elemento dominante, texto (se houver), o que fica de fora, e como fica em tamanho reduzido.
 - Registro de promessas: cada palavra-promessa do título e cada elemento da thumbnail, com o bloco e o minuto em que o vídeo paga. Antes do roteiro existir, o minuto é a meta que o roteirista terá de cumprir.
 
-**Só avança quando** toda promessa tem bloco e minuto, ou foi retirada; título e thumbnail não se contradizem em sujeito nem em escopo.
+**Só avança quando** toda promessa tem bloco e minuto, ou foi retirada; título e thumbnail não se contradizem em sujeito nem em escopo. Pista pode aparecer no pacote (indício, documento, personagem); a resposta, não (`11` §2, D4; regra provisória).
 
 **Armadilhas**
 - Superlativo sem critério ("o maior", "o mais cruel") e verbos que o vídeo não sustenta ("esquecido", "escondido", "ninguém sabe").

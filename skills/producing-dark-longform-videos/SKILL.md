@@ -7,7 +7,7 @@ description: Use when planning, titling, thumbnailing, scripting, auditing or di
 
 ## Princípio
 
-O vídeo é uma sequência de perguntas que o roteiro paga. Título e thumbnail prometem a primeira pergunta e nada além dela. A base é uma pesquisa em dez documentos (`references/`): nenhuma recomendação dela tem efeito medido sobre retenção, então tudo o que não é regra oficial da plataforma é aposta a testar - e deve ser dito assim.
+O vídeo é uma sequência de perguntas que o roteiro paga. Título e thumbnail prometem a primeira pergunta e nada além dela. A base é uma pesquisa em dez documentos (`references/01` a `10`), mais os mapas e fichas de uma biblioteca de livros e artigos (`11` a `17`). Nenhuma recomendação tem efeito medido sobre retenção, então tudo o que não é regra oficial da plataforma é aposta a testar - e deve ser dito assim.
 
 Não se aplica a Shorts.
 
@@ -39,6 +39,7 @@ Todo vídeo tem um dossiê (copie `dossie-modelo.md`). Cada etapa preenche uma p
 3. **Fato do caso só com fonte.** Sem pesquisa, o fato vai para a tabela de fatos como "a verificar" e o texto narrado não o afirma.
 4. **Promessa sem minuto de pagamento sai** do título, da thumbnail ou do hook.
 5. **Suspense não é o único motivo para ficar.** Cada bloco nomeia um motivo que não é a pergunta pendente (`04` §3).
+6. **Desfecho vizinho não é retenção.** Estudo de persuasão, transporte, curiosidade ou compartilhamento, e regra de livro de roteiro, entram como hipótese de ofício, com o que foi medido escrito ao lado. Nunca como dose nem como prova de permanência. Proporções de cinema e táticas de feed curto ficam de fora (`12` §5, `11` §5).
 
 ## Erros que acontecem sem esta skill
 

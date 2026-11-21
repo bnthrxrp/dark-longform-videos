@@ -14,6 +14,7 @@
 4. Audite a promessa: o que título e thumbnail prometem, e em que minuto o vídeo paga? Queda logo após a abertura costuma apontar para essa distância.
 5. Localize a queda na curva e associe a uma fronteira de bloco do dossiê.
 6. Proponha um experimento: uma variável, métrica primária, métricas de proteção, resultado que confirma e que derruba (`10` §3).
+7. Se a pergunta for "o público volta?", separe alcance de retorno e leia por origem de tráfego (`14` §3, T9). A base não tem métrica nem linha de base de retorno: defina as duas antes de ler e diga que não há referência.
 
 **Entregue** no dossiê, seções 7 e 8.
 

@@ -16,10 +16,12 @@
   - 60–90 s: recompensa parcial - um dado com fonte, um nome ou uma imagem que responde parte da pergunta. O contexto vem depois dela.
 - Contagem de palavras e as linhas do registro de promessas que o hook abre (cada pergunta instalada, com o bloco e o minuto em que será paga).
 
+- Teste de remoção: a surpresa ou o objeto do hook tem de ser parte da pergunta-mestra. **Passa** quando, sem ele, a pergunta deixa de fazer sentido. **Falha** quando dá para tirá-lo e a história segue igual: aí é enfeite - corte ou ligue à pergunta (`11` §3, T5; ofício).
+
 **Só avança quando** as três funções estão cumpridas e nenhum número ou superlativo do hook está sem fonte na tabela de fatos.
 
 **Armadilhas** (todas apareceram em hooks escritos sem esta skill)
-- Sumário: "nos próximos 30 minutos vamos ver quem, como e por quê". Promessa é uma pergunta, não um índice.
+- Sumário: "nos próximos 30 minutos vamos ver quem, como e por quê". Promessa é uma pergunta, não um índice. Qualquer frase que comece por "neste vídeo vamos..." ou "este vídeo vai..." e liste o que vem é sumário, mesmo curta: troque pela pergunta, dita como pergunta.
 - "Fique até o fim", "se você acha que conhece o caso", pedido de inscrição.
 - Pergunta de trivia para o espectador ("quantas pessoas você acha que...") no lugar da pergunta-mestra.
 - Superlativo sem fonte ("um dos maiores desastres").

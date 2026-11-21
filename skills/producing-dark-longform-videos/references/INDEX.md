@@ -305,7 +305,7 @@ Não leia um documento inteiro: procure aqui a seção e leia só ela.
   344    Adendo: reinvestigação da amostra (checagem por ID)
   358    Registro de revisão
 
-## 07_biblioteca_cientifica.md  (983 linhas)
+## 07_biblioteca_cientifica.md  (986 linhas)
     1  Biblioteca de estudos científicos
     3    2. Fichas de estudo
     7      2.1 Curiosidade
@@ -332,6 +332,7 @@ Não leia um documento inteiro: procure aqui a seção e leia só ela.
   970      5.8 Checagens antes de publicar
   977    Adendo da revisão
   980    Registro de revisão
+  985    Leituras integrais da biblioteca
 
 ## 08_algoritmo_e_analytics.md  (414 linhas)
     1  YouTube Algorithm & Analytics
@@ -462,4 +463,102 @@ Não leia um documento inteiro: procure aqui a seção e leia só ela.
   850      7.3 Regras de atualização
   858      7.4 Pendências que os experimentos devem fechar
   879      7.5 Lacunas e limites desta parte
+
+## 11_mapa_hook_e_curiosidade.md  (224 linhas)
+    1  Hook, abertura e curiosidade
+    5  Mapa temático: hook, abertura e curiosidade
+   13    1. O que as obras dizem em comum
+   48    2. Onde os autores divergem, e o que fazer enquanto isso não se resolve
+   70    3. Técnicas por etapa do pipeline
+  148    4. O que é evidência e o que é ofício
+  171    5. O que não transportar para vídeo longo
+  187    6. Relação com a base
+  210    7. Hipóteses a testar
+
+## 12_mapa_estrutura_narrativa.md  (208 linhas)
+    1  Estrutura narrativa
+    5  Mapa: Estrutura narrativa (cena, beat, virada, atos, desejo e oponente) em não ficção narrada
+   13    1. O que as obras dizem em comum
+   57    2. Onde os autores divergem
+   69    3. Técnicas por etapa do pipeline
+  132    4. O que é evidência e o que é ofício
+  148    5. O que não transportar para vídeo longo
+  166    6. Relação com a base
+  190    7. Hipóteses a testar
+
+## 13_mapa_viralizacao.md  (196 linhas)
+    1  Viralização e compartilhamento
+    5  Mapa: Viralização e compartilhamento
+   15    1. O que as obras dizem em comum
+   41    2. Onde os autores divergem, e o que fazer enquanto isso
+   60    3. Técnicas por etapa do pipeline
+  136    4. O que é evidência e o que é ofício
+  149    5. O que não transportar para vídeo longo
+  165    6. Relação com a base (documentos 01 a 10)
+  186    7. Hipóteses a testar com a curva do canal
+
+## 14_mapa_retencao_e_habito.md  (148 linhas)
+    1  Retenção e hábito
+    5  Mapa temático: Retenção e hábito (retorno ao canal e à série)
+   15    1. O que as obras dizem em comum
+   29    2. Onde os autores divergem
+   45    3. Técnicas por etapa do pipeline
+   96    4. O que é evidência e o que é ofício
+  110    5. O que não transportar
+  125    6. Relação com a base
+  137    7. Hipóteses a testar
+
+## 15_mapa_persuasao_por_narrativa.md  (217 linhas)
+    1  Persuasão por narrativa: a evidência
+    5  Mapa temático: Persuasão por narrativa, a evidência
+   17    1. O que as obras dizem em comum
+   49    2. Onde os autores divergem
+   86    3. Técnicas por etapa do pipeline
+  127    4. O que é evidência e o que é ofício
+  140    5. O que não transportar para vídeo longo de canal dark
+  154    6. Relação com a base (documentos 01 a 10)
+  178    7. Hipóteses a testar
+
+## 16_mapa_oficio_de_escrita.md  (148 linhas)
+    1  Ofício de escrita e revisão
+    5  Mapa: Ofício de escrita e revisão (texto narrado)
+   13    1. O que as obras dizem em comum
+   41    2. Onde os autores divergem
+   67    3. Técnicas por etapa do pipeline
+   94    4. O que é evidência e o que é ofício
+  107    5. O que não transportar para vídeo longo
+  122    6. Relação com a base
+  140    7. Hipóteses a testar
+
+## 17_fichas_da_biblioteca.md  (2023 linhas)
+    1  Fichas das obras da biblioteca
+    5    Ficha: The Psychology of Curiosity - George Loewenstein
+    6    Ficha de artigo científico: Loewenstein (1994)
+  119    Ficha: The Extended Transportation-Imagery Model - van Laer et al
+  120    Ficha: The Extended Transportation-Imagery Model (van Laer et al., 2014)
+  256    Ficha: Storytelling in the Digital Era - van Laer et al
+  257    Ficha: *Storytelling in the Digital Era* (van Laer, Feiereisen e Visconti, 2019)
+  366    Ficha: Impact of Narratives on Persuasion in Health Communication - Shen et al
+  367    Ficha: Shen, Sheer & Li (2015), *Impact of Narratives on Persuasion in Health Communication*
+  521    Ficha: Story - Robert McKee
+  522    Ficha: *Story*, Robert McKee
+  679    Ficha: The Anatomy of Story - John Truby
+  680    Ficha de livro: *The Anatomy of Story*, John Truby
+  813    Ficha: Save the Cat Strikes Back - Blake Snyder
+  814    Ficha de livro: *Save the Cat Strikes Back*, de Blake Snyder
+  997    Ficha: On Writing - Stephen King
+  998    Ficha de livro: *On Writing* (Stephen King)
+ 1136    Ficha: Made to Stick - Chip Heath
+ 1137    Ficha de livro: *Made to Stick* (Chip Heath)
+ 1253    Ficha: Contagious - Jonah Berger
+ 1254    Ficha de livro: *Contagious: Why Things Catch On*, Jonah Berger
+ 1447    Ficha: Hook Point - Brendan Kane
+ 1448    Ficha de livro: *Hook Point*, de Brendan Kane
+ 1612    Ficha: Hooked - Nir Eyal
+ 1750    Ficha: Stories That Stick - Kindra Hall
+ 1751    Ficha de livro: *Stories That Stick*, de Kindra Hall
+ 1918    Ficha: Invisible Ink - John A Nagy
+ 1919    Ficha de obra lida por amostragem: *Invisible Ink: Spycraft of the American Revolution*, John A. Nagy
+ 1958    Ficha: In the Blink of An Eye - Baggett, Jerry
+ 1959    Ficha de obra lida por amostragem: *In the Blink of An Eye*, de Jerry Baggett
 
