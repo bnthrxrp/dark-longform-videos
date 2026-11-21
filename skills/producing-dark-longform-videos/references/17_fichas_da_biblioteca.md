@@ -1,6 +1,552 @@
 # Fichas das obras da biblioteca
 
-> Uma ficha por obra, consolidada a partir das notas de leitura. As quatro primeiras são artigos científicos lidos na íntegra; as duas últimas foram lidas por amostragem. Citações literais são curtas e vêm das notas.
+> Uma ficha por obra (27), consolidada a partir das notas de leitura. Primeiro o documento oficial e os estudos com dados do YouTube; depois os artigos científicos; depois os livros. As duas últimas obras foram lidas por amostragem. Citações literais são curtas e vêm das notas.
+
+## Ficha: YouTube Help - Measure key moments for audience retention
+## Ficha: YouTube Help, "Measure key moments for audience retention"
+
+**Tipo de fonte:** documento oficial da plataforma. Todas as afirmações são [OFICIAL], salvo onde a ficha marca [INFERÊNCIA] ou [ADAPTAÇÃO].
+
+### 1. Referência
+
+- **Título:** Measure key moments for audience retention (Meça os momentos-chave da retenção de público)
+- **URL:** support.google.com/youtube/answer/9314415
+- **Autor:** YouTube, central de ajuda (documentação de produto)
+- **Data:** o texto não traz data. A data de acesso não consta nas notas, e a página pode estar desatualizada.
+- **Extensão:** trecho único de cerca de 1.110 palavras.
+
+### 2. Desenho e natureza da fonte
+
+Não é estudo, não tem amostra, não cita pesquisa e não traz números medidos. Descreve um relatório da interface e explica como lê-lo. As frases de comportamento ("generally taper off", "typically decrease", "could mean") são descrições genéricas, sem método. Por isso, não devem ser lidas como [ESTUDO] nem como [DADO].
+
+**Pedidos extras respondidos:**
+- **Estudo com dados do YouTube** (métrica, amostra por duração, categoria, ano): não consta.
+- **Vídeo de 30 minutos** (divisão em atos, loops abertos, ritmo): não consta. O texto não usa "ato", "loop aberto" nem "ritmo". Qualquer leitura sobre isso é [INFERÊNCIA] desta ficha.
+
+### 3. O que o documento descreve
+
+- O gráfico de retenção (audience retention) existe só no nível do vídeo e é processado em 1 a 2 dias ("typically").
+- Quatro tipos de momento são descritos: Intro, Top moments, Spikes e Dips.
+- Padrões de curva: flat line (linha plana), gradual decline (queda gradual).
+- Comparações: "typical retention" (contra os 10 vídeos mais recentes de duração semelhante) e SEE MORE (contra "all YouTube videos of similar length").
+- Segmentos: novos vs. recorrentes; inscritos vs. não inscritos; tráfego orgânico (busca, sugestão, navegação no canal) vs. pago (skippable video ads, display ads).
+- Detailed activity: número absoluto de views por segmento e pontos em que os viewers começam e param.
+- AVD e watch time.
+
+### 4. Definições
+
+| Termo | Definição no documento | Observação |
+|---|---|---|
+| Audience retention | Gráfico de retenção do vídeo, só no nível do vídeo | Processamento de 1 a 2 dias |
+| Flat line | Trecho assistido do início ao fim | O rótulo não aparece no texto; a primeira coluna da tabela ficou vazia na extração. O nome vem da descrição. |
+| Gradual decline | Perda de interesse ao longo do tempo | O documento diz que vídeos "generally taper off during the playback period" (tendem a cair ao longo do período de reprodução). |
+| Spikes | Trechos em que mais viewers assistem, reassistem ou compartilham | Duas leituras possíveis, sem critério para escolher |
+| Dips | Trechos em que viewers abandonam ou pulam | Junta "pulado" e "abandonado" no mesmo rótulo |
+| Top moments | Trechos em que "almost no one dropped off" (quase ninguém saiu) | Sem limiar numérico |
+| Intro | Porcentagem do público que ainda assistia após 30 segundos | É a única janela de tempo definida |
+| Typical retention | Comparação com os 10 vídeos mais recentes de "similar length" | "Similar length" não tem faixa definida |
+| SEE MORE | Comparação com "all YouTube videos of similar length" | Mesma indefinição de faixa |
+| Detailed activity | Views absolutas por segmento | Pode superar o total de views, porque o mesmo viewer reassiste trechos |
+| AVD | Média de minutos assistidos entre quem ficou, "calculated from engaged views and their corresponding watch time" | "Engaged views" não é definido |
+| Watch time | Tempo total assistido (em horas) | Sem definição adicional |
+
+### 5. Limiares e números
+
+| Item | O que o documento dá | Situação |
+|---|---|---|
+| Janela da Intro | 30 segundos | Definida |
+| Processamento | 1 a 2 dias ("typically") | Definido, com ressalva |
+| Requisitos para o relatório | Vídeo com pelo menos 60 s e 100 views (segundo as notas) | Definido |
+| Similar length | Faixa de duração | **Não consta** |
+| Limiar de Top moment, Spike e Dip | — | **Não consta** |
+| Limiar de Intro "alta" ou "baixa" | — | **Não consta** |
+| Denominador da Intro (views ou audiência?) | — | **Não consta** |
+| Cálculo de typical retention | — | **Não consta** |
+| Critérios do Advanced Mode | — | **Não consta** (apenas citado) |
+| Janelas de 60 s e 90 s | — | **Não consta** |
+
+### 6. Regras que o próprio documento dá
+
+Recomendações do documento, sem dados. Cada uma vem com o limite que o próprio texto impõe.
+
+1. **Se** o relatório for lido antes de 1 a 2 dias após a publicação, **então** espere o processamento. *Limite:* o documento diz "typically".
+2. **Se** a Intro estiver baixa, **então** revise miniatura e título para refletir o conteúdo, e/ou altere os primeiros 30 s e teste estilos. *Limite:* uma Intro alta "could mean" (pode significar) que a promessa foi cumprida. É hipótese, não causa comprovada.
+3. **Se** os Top moments estiverem no fim do vídeo, **então** traga o conteúdo mais forte para antes. *Limite:* a justificativa é que "audience sizes typically decrease over the length of the video" (os tamanhos de audiência tendem a diminuir ao longo do vídeo). Não há tamanho de efeito nem faixa de duração.
+4. **Se** houver um Top moment com bom desempenho, **então** crie conteúdo novo que expanda aquele trecho. *Limite:* o documento não diz em que tipo de vídeo isso funciona.
+5. **Se** houver um Spike, **então** revise. O documento dá duas leituras: maior interesse, ou "Your content isn't clear and your audience had to rewatch a section" (seu conteúdo não está claro e o público precisou reassistir uma seção; tradução minha). *Limite:* não consta critério para distinguir as duas.
+6. **Se** houver um Dip, **então** revise por que o público perdeu interesse naquele trecho. *Limite:* "pulado" e "abandonado" aparecem juntos.
+7. **Se** houver só queda gradual, **então** trate como linha de base esperada. O documento diz que a queda é normal.
+8. **Se** quiser saber se um Dip vem de um grupo específico, **então** use os segmentos. *Limite:* pode exigir o Advanced Mode, cujos critérios não são descritos.
+
+### 7. Exemplos e casos
+
+Não consta nenhum vídeo, canal ou caso nomeado.
+
+### 8. Condições e moderadores
+
+- **Tipo de vídeo:** o documento não restringe a formato nem duração. Não diz se vale para long-form nem se vale para Shorts. Tudo o que for transferido para vídeo de 10 a 60 min é [ADAPTAÇÃO].
+- **Tráfego:** os segmentos de origem existem, mas o documento não diz como comparar entre eles.
+- **Duração:** "similar length" é a única referência, e não tem faixa.
+- **Idioma e região:** não consta.
+
+### 9. O que autoriza
+
+- Descrever os quatro tipos de momento e seus nomes na interface, com a ressalva de que a leitura é do próprio documento.
+- Usar a Intro como leitura dos primeiros 30 segundos, sem extrapolá-la para outros pontos.
+- Afirmar que a queda contínua é o padrão descrito como normal pela plataforma.
+- Afirmar que o número de views por segmento pode superar o total de views, porque o mesmo viewer pode reassistir trechos [OFICIAL].
+- Afirmar que o relatório só existe no nível do vídeo e que leva 1 a 2 dias para processar [OFICIAL].
+
+### 10. O que não autoriza
+
+- Que intro alta prova que a promessa foi cumprida. O texto diz "could mean".
+- Que top moment no fim exige mover o conteúdo mais forte para o início. A justificativa é genérica e não mede efeito.
+- Que spike significa interesse. O documento dá duas leituras e não diz como escolher.
+- Que dip e "pulado" são a mesma coisa, ou que dip é sempre abandono.
+- Qualquer dose: quantos minutos antes de um top moment, quantos loops, quanto de densidade, qual posição do clímax.
+- Qualquer número de retenção de 60 ou 90 s.
+- Que AVD seja comparável entre vídeos sem conhecer "engaged views".
+- Que typical retention seja uma comparação de tema ou de tratamento. Os 10 vídeos recentes misturam tema, época e formato.
+
+### 11. Aplicação prática por etapa
+
+| Etapa | Uso permitido | Transferência | Cuidado |
+|---|---|---|---|
+| Ideia | Nenhum; o documento não orienta escolha de tema | — | — |
+| Título e miniatura | Usar a Intro como auditoria: a primeira fala e a primeira imagem entregam o que a miniatura prometeu? | [ADAPTAÇÃO] | A fonte não mede CTR. Não é teste de título. |
+| Hook (0 a 30 s) | Ler a Intro como porcentagem nos primeiros 30 s | [ADAPTAÇÃO] | Para 60 e 90 s, não há fonte. A janela de 30 s é cerca de 1,7% de um vídeo de 30 min (30 / 1.800; [INFERÊNCIA] de aritmética). |
+| Roteiro | Mapear flat, dips e spikes aos blocos do roteiro | [INFERÊNCIA] | Confirmar na interface o eixo do gráfico. O texto não o descreve. |
+| Retenção (diagnóstico) | Leitura de forma do gráfico: flat, queda gradual, spike, dip | [DIRETO] | Sem limiar para classificar. Spike é ambíguo. |
+| Payoff e final | Nenhuma | — | O documento não trata do final. |
+| Canal | Typical retention como linha de base interna, com os 10 vídeos recentes | [ADAPTAÇÃO] | "Similar length" não tem faixa. Os 10 vídeos recentes confundem tema com tratamento. |
+| Segmentos | Comparar novos vs. recorrentes, inscritos vs. não inscritos | [ADAPTAÇÃO] | Não há regra de interpretação. Tráfego pago pode distorcer a Intro (ver §12). |
+
+**Checklist de leitura (proposta de quem fez as notas, não validada).** Use como ponto de partida, não como procedimento comprovado:
+1. Registrar a Intro (%).
+2. Listar os Top moments e sua posição no vídeo.
+3. Listar os Dips e cruzar cada um com o trecho do roteiro.
+4. Listar os Spikes e registrar o texto do roteiro naquele ponto. Decidir manualmente entre as duas leituras.
+5. Comparar com a typical retention dos 10 vídeos recentes de duração semelhante.
+
+### 12. Inferências desta ficha (não estão no documento)
+
+- **[INFERÊNCIA]** Views pagos (skippable video ads, que podem ser pulados após 5 s, segundo a descrição do documento) podem entrar na base da Intro e distorcê-la. O documento não diz isso. Se o canal usa tráfego pago, comparar a Intro só dentro da mesma origem, como o playbook já faz com o CTR.
+- **[INFERÊNCIA]** A queda contínua é a linha de base. A decisão operacional está nos dips localizados, não na inclinação geral.
+
+### 13. Relação com a base do projeto
+
+- **Confirma:**
+  - A Intro é a única métrica oficial de abertura, sem limiar publicado (01 §1.3; 04 §2.1). Esta página confirma a janela de 30 s e a ausência de limiar.
+  - O relatório existe só no nível do vídeo (08 §4 glossário, para conferir a definição de cada métrica).
+  - A Intro liga a promessa de título e miniatura à retenção (01 §1.2 e §2.2–2.3; 03 §3.4 sobre promessa pagável). O documento faz essa ligação, mas não mede CTR.
+  - Dips e spikes exigem leitura manual, sem critério oficial. Isso é coerente com 04 §1.2 (formatos e diagnóstico diferencial). Confira se 04 §1.2 já trata da ambiguidade do spike. A fonte confirma a ambiguidade e não dá critério para resolvê-la.
+  - Os números de segmentos podem exceder o total de views, por reassistência. Isso reforça a instrução de anotar as quebras de contagem (01 §1.6 e 08 §7.3). O documento dá a explicação do fenômeno.
+- **Acrescenta:**
+  - A descrição de cada rótulo da curva, com a ressalva de que o documento junta "pulado" e "abandonado".
+  - A definição oficial de AVD como função de "engaged views", que não é definido. A base deve tratar o AVD como dependente de um denominador não especificado.
+- **Não sustenta, ou em tensão com a base:**
+  - A regra de "trazer o conteúdo mais forte para antes" aparece como recomendação da plataforma. O playbook trata a posição do clímax como **aposta a testar** (01 §1, item 7). A fonte dá a direção, mas sem medida, e não muda o status da aposta.
+  - A ordem de leitura do playbook (01 §1.6 e 08 §7.3) não vem deste documento. Ela é do projeto, não da plataforma. Não atribua essa ordem ao YouTube.
+  - APV não aparece no documento. Se a base usa APV, o cálculo deve ser tratado como cálculo do próprio projeto, e não como definição oficial.
+  - A comparação com typical retention tem confundidor de tema e época. Relacionar com 10 §1.5 (por que comparar vídeos diferentes confunde tema com tratamento).
+- **Sem relação:** 60 e 90 s do hook. A base já os trata como processo (01 §1.3). A fonte não os mede.
+
+### 14. Dúvidas e problemas do texto
+
+- **Sem data:** a página pode estar desatualizada. Os nomes das abas ("Overview", "Engagement") e o Advanced Mode podem ter mudado.
+- **Tabela com coluna vazia:** os ícones não foram reproduzidos. Flat e queda gradual não têm rótulo no texto.
+- **Links sem destino:** "Learn more", "Learn how to unlock advanced features" e "SEE MORE".
+- **Indefinidos:** "similar length", o cálculo de typical retention, o denominador da Intro, "engaged views" e os limiares de Top moment, Spike e Dip.
+- **Eixo do gráfico:** não descrito.
+- **Shorts:** o texto não diz se o relatório se aplica.
+- **Boilerplate:** "Was this helpful?", "Computer Android phone & tablet" e "More" não têm conteúdo analítico.
+
+### 15. O que verificar antes de usar em produção
+
+1. Abrir a página e confirmar que o texto é o mesmo das notas (sem data, pode ter sido alterado).
+2. Na interface do Studio, confirmar o eixo do gráfico e os nomes das abas.
+3. Verificar se a Intro tem denominador de views ou de audiência, medindo em um vídeo próprio antes de comparar canais.
+4. Se houver tráfego pago, separar a Intro por origem antes de qualquer leitura.
+
+## Ficha: Park, Naaman & Berger 2016 - View Duration on YouTube
+## Ficha de artigo científico: Park, Naaman & Berger (2016)
+
+**Fonte lida:** notas de leitura integral do trecho único (3.513 palavras). URL: não consta nas notas.
+
+#### 1. Referência
+
+Park, M.; Naaman, M.; Berger, J. (2016). "A Data-driven Study of View Duration on YouTube". *ICWSM'16*. [ESTUDO]
+
+#### 2. Desenho e amostra
+
+- **Desenho:** observacional, correlacional e transversal. Não há experimento. Os autores dizem que a direção causal não é evidente nos dados (citação 3).
+- **Dataset A, Random Videos:** 100.000 IDs obtidos do randomyoutube.net (os 10 vídeos mais recentes a cada 15 minutos). Desses, 44.766 tinham estatística agregada por scraping. Amostra final: 1.125 vídeos. O único filtro citado nas notas é ter pelo menos 5 comentários em inglês. [ESTUDO]
+- **Dataset B, Individual Logs:** extensão do Chrome instalada por participantes recrutados pelo TaskRabbit, com experiência prévia no YouTube. Notas: 189 participantes (77 homens, 112 mulheres), 17.599 sessões, 1.814 após filtros (vídeo ausente, privado ou removido; menos de 5 comentários em inglês; dwell time maior que a duração). [ESTUDO]
+- **Métrica do Random:** proporção assistida média, ou seja, AVD dividido pela duração do vídeo, somando a vida do vídeo. [INFERÊNCIA] É o que a base chama de APV, embora o artigo não use a sigla.
+- **Métrica do Individual:** dwell time dividido pela duração. Os autores o tratam como "uma aproximação do tempo real de visualização" (citação 2). Não é tempo de visualização medido.
+- **Duração da amostra:** máximo de 15.229 s (~4h14min) no Random e 7.267 s (~2h01min) no Individual. Mínimo zero. [INFERÊNCIA, conta a partir da Tabela 1]
+- **Não consta nas notas:** distribuição por faixa de duração, fração de vídeos entre 10 e 60 minutos, distribuição por categoria e data de coleta.
+
+#### 3. O que foi medido
+
+- **Variável dependente:** proporção assistida (Random) e proporção de dwell time (Individual).
+- **Preditores de popularidade e qualidade (H1):** view count, likes por visualização, dislikes, comentários por visualização, densidade de discussão e razão like-dislike.
+- **Sentimento dos comentários (H2):** calculado com VADER (Hutto & Gilbert, 2014) [ESTUDO citado pelo autor]. LIWC foi descartado por correlação alta com VADER: 0,83–0,84 no positivo e 0,58–0,83 no negativo, conforme a base.
+- **Modelo:** OLS com efeitos mistos. Efeito aleatório por categoria do vídeo (nos dois datasets) e por participante (só no Individual). Controles fixos: duração e idade (dias desde a publicação). Variáveis em log10 e depois padronizadas, exceto sentimentos e razão like-dislike.
+- **Conceito de "social traces"** (informação visível sobre outros espectadores): proposto como trabalho futuro, não testado.
+
+#### 4. Resultado (com tamanhos de efeito)
+
+Coeficientes padronizados, Tabela 2. **Atenção:** a tabela veio com OCR degradado. Os valores abaixo devem ser conferidos no PDF. Sinal e significância, citados no texto, são mais confiáveis que os números da tabela.
+
+| Variável | Random | Individual | Observação das notas |
+|---|---|---|---|
+| Duração do vídeo | −0,146 (p<0,001) | −0,123 (p<0,001) | "o controle mais forte" |
+| View count (log) | +0,026 (p<0,01) | +0,045 (p<0,01) | |
+| Likes por visualização (log) | +0,094 (p<0,01) | +0,048 (p<0,01) | |
+| Sentimento negativo | +0,019 (p<0,001) | +0,022 (p<0,05) | |
+| Sentimento positivo | −0,014 (p<0,01) | não significativo | |
+
+- **Associações que aparecem em só um dataset (não robustas):** comment_percentage (−0,029, Random), discussion_density (+0,015, Random), dislike_percentage (−0,042, Individual), elapsed_time (−0,034, Random).
+- **Interações:** sem tendência robusta, segundo os autores.
+- **Interceptos:** 49% (Random) e 66% (Individual), com todas as variáveis em zero. Não servem de benchmark (ver seção 9).
+- **R²:** 0,58 (Random) e 0,28 (Individual) no modelo completo.
+
+**Tamanho de efeito.** Os coeficientes estão em desvio-padrão de log10 da duração, e o desvio-padrão não consta. Não há conversão para pontos percentuais por minuto. [INFERÊNCIA] Em valor absoluto, a duração é a associação mais forte do conjunto e a maioria das outras é pequena. O autor não usa convenções de "pequeno" ou "médio", e eu também não as aplico.
+
+**Ressalvas numéricas, não resolvidas nas notas:**
+- **Número de participantes:** 158 na seção Individual Logs e 189 em Data Collection. A soma 77 + 112 bate com 189.
+- **R² sem controles:** as notas registram "0,13 e 0,18" sem os dois controles. Na seção 8, o texto citado diz "0.19 for both" sem o controle de duração. A leitura muda quanto da variância a duração explica. Conferir no PDF.
+- **Filtro de dwell time:** o funil por etapa não aparece. A nota 4 afirma que cortes de 1,5× a 3× não mudaram os achados. A afirmação "no impact" é dos autores e não foi verificada.
+- **Data de coleta:** não consta. A idade máxima é 3.059 dias (Random) e 3.140 dias (Individual), sem data de referência. [INFERÊNCIA] Pelas referências citadas, a coleta seria de 2015–2016. Não confirmado.
+- **Contradição no Random:** a amostra vem dos 10 vídeos mais recentes a cada 15 minutos, mas há vídeos com idade de anos. O texto não explica.
+
+**Citações literais (com tradução entre parênteses):**
+1. "shorter videos were watched much longer in terms of proportion" (vídeos mais curtos foram assistidos muito mais tempo em termos de proporção), seção Results.
+2. "as an approximation for the actual view time" (como aproximação do tempo real de visualização), seção Method.
+3. "the effect of the actual video quality, are not evident from the data" (o efeito da qualidade real do vídeo não é evidente nos dados), seção Discussion.
+
+#### 5. Moderadores
+
+- **Categoria do vídeo:** efeito aleatório. No Individual, Comedy, Entertainment, People & Blogs, Film & Animation e Gaming aparecem com tempo maior que Auto & Vehicle. Sem valores no trecho.
+- **Idioma:** só vídeos com comentários em inglês.
+- **Perfil dos participantes:** recrutados pelo TaskRabbit, com experiência prévia no YouTube. Não é amostra aleatória de espectadores.
+- **Popularidade:** o Individual tem vídeos mais populares que o Random (texto).
+- **Seleção:** de 44.766 IDs com estatística, 1.125 entraram no Random. As notas só citam o filtro de comentários em inglês. O efeito dessa seleção sobre o resultado não é conhecido.
+
+#### 6. Replicação e críticas
+
+- **Replicação independente:** não consta nas notas. Não pesquisei.
+- **Críticas:** não constam. O próprio artigo limita a causalidade.
+- **Problemas do texto** (seção 4 acima): OCR da Tabela 2, participantes 158/189, R² ambíguo, funil de filtros e data de coleta.
+- **Fontes citadas pelo autor e não verificadas:** Cisco (2015), YouTube (2012, 2015) e Facebook (2014, 2015). As afirmações sobre tráfego e uso dependem delas.
+- **Mecanismos citados, não testados:** arousal, ligado a compartilhamento (Berger & Milkman, 2012) e excitation transfer (Alhabash et al., 2015). São hipóteses dos autores. Nenhum mecanismo psicológico específico é demonstrado.
+
+#### 7. O que autoriza concluir para vídeo longo
+
+- [ESTUDO] Entre vídeos diferentes, quanto maior a duração, menor a proporção média assistida. A associação se mantém controlando popularidade, sentimento, categoria e idade. A amostra inclui vídeos de até ~4 horas.
+- [ESTUDO] Likes por visualização e view count associam-se positivamente à proporção assistida, com a direção causal não estabelecida.
+- [ESTUDO] Sentimento negativo nos comentários associa-se a proporção maior, com coeficiente pequeno.
+- [INFERÊNCIA] O artigo confirma que a proporção média assistida cai com a duração entre vídeos. Um vídeo de 30 minutos parte, em média, de uma proporção menor que um vídeo mais curto da mesma amostra.
+
+#### 8. O que não autoriza
+
+- **Qualquer conclusão dentro do vídeo.** Não há curva de retenção, ponto de queda, efeito de minuto nem de estrutura. A variável é a média do vídeo inteiro.
+- **Estimativa para a faixa de 10 a 60 minutos.** A duração entra como variável contínua em log, sem faixa separada.
+- **Proporção esperada para 30 minutos**, ou pontos percentuais por minuto. Faltam o desvio-padrão e as unidades reais.
+- **Que alguma duração seja boa ou ruim.** Não há evidência nesse sentido.
+- **Que título, thumbnail ou hook influenciem o resultado.** Não foram analisados. Views aparecem só como preditor.
+- **Que comentários positivos ou negativos causem retenção.** O estudo mede associação.
+- **Que o interceptos de 49% e 66% sejam referência** para um canal dark. Vêm de outra amostra, de outro momento e de outra definição de tempo.
+- **Que o estudo se aplique a vídeos de canal dark.** Gêneros típicos (documentário, narração, educação) não aparecem no trecho.
+- **Que o dwell time do Individual seja tempo de visualização.** É aproximação.
+
+#### 9. Aplicação prática
+
+Todas as recomendações abaixo são [ADAPTAÇÃO] ou [INFERÊNCIA], não regras.
+
+1. **Métrica de comparação.** Calcule, para cada vídeo do próprio canal, AVD dividido pela duração. Compare apenas vídeos de duração próxima e idade próxima. A base já prevê AVD em minutos e APV calculado (01 §1, item 6). Esta ficha não altera essa leitura.
+2. **Expectativa de base.** Use a queda média por duração como expectativa, não como meta. Não use os interceptos do artigo como benchmark (01 §6.5, que não está no resumo que recebi; confirmar se o caso está lá).
+3. **Sinais a monitorar, não a otimizar.** Razão de likes por visualização e sentimento dos comentários. A causalidade não foi resolvida. Otimizar por eles pode produzir o efeito que o artigo não sustenta.
+4. **Teste proposto pelas notas** [INFERÊNCIA, não validado]:
+   - marcar no roteiro o timestamp de cada ato, de cada loop aberto e de cada fechamento;
+   - ler a curva de retenção no Studio depois de algumas semanas (confirmar a funcionalidade na documentação oficial; a base 04 §1 trata do relatório de curva);
+   - comparar a queda nos fechamentos com a queda média do vídeo;
+   - critério de decisão definido antes da publicação: a queda nos fechamentos deve ser consistentemente menor que a média, em vários vídeos independentes.
+   - **Falta no teste:** tamanho de amostra. As notas não dão nenhum. Defina-o com a base 10 §4.5 (poder, tamanho de amostra e mínimo detectável) antes de rodar. Controle tema, título e thumbnail; sem isso, a comparação mistura estrutura com embalagem.
+
+#### 10. Relação com a base
+
+- **Não consigo confirmar** se a base cita Park et al. (2016) por fonte secundária. O resumo que recebi traz os títulos dos documentos, mas não o conteúdo de "Fontes" em 08 (linha 369 do índice). Verificar antes de atribuir o estudo à base.
+- **Pontos de contato prováveis** (pelos títulos do índice, não pelo texto): 08 §1 (recomendação), 08 §3 (satisfação), 08 §5 e §7 (CTR e leitura de Analytics) e 04 §1 (leitura de curvas).
+- **O que a leitura confirma:** 01 §1, item 7, diz que não há receita de duração. O artigo é compatível: associa duração a proporção média entre vídeos, sem dizer qual duração é boa.
+- **O que acrescenta:** uma definição explícita e reproduzível da proporção assistida (AVD ÷ duração), com a ressalva de que a associação é entre vídeos e não dentro deles.
+- **O que contradiz:** nada no resumo da base é contradito pelas notas.
+
+## Ficha: Wu, Rizoiu & Xie 2017 - Beyond Views (engagement in online videos)
+## Ficha de artigo científico: Wu, Rizoiu & Xie (2017/2018), *Beyond Views: Measuring and Predicting Engagement in Online Videos*
+
+### Referência
+
+Wu, Rizoiu & Xie, *Beyond Views: Measuring and Predicting Engagement in Online Videos*. Identificador: arXiv:1709.02541 (2017). As notas registram copyright de 2018 (AAAI) e citam o artigo como 2018. Convém citar "2017/2018" e conferir a versão usada. [ESTUDO]
+
+### Desenho e amostra
+
+- **Desenho:** observacional, em larga escala, com dados públicos do YouTube. Não há experimento. A previsão foi testada com treino nos primeiros 51 dias e teste nos últimos 11 dias. [ESTUDO]
+- **Amostra principal (TWEETED VIDEOS, §2.1):** 5.331.204 vídeos publicados entre 1º de julho e 31 de agosto de 2016, de 1.257.412 canais. Os vídeos foram coletados por menções a links do YouTube em tweets (Twitter Streaming API). **Não é amostra aleatória do YouTube.** [ESTUDO]
+  - 45,82% dos vídeos foram excluídos ou não tinham estatísticas públicas.
+  - Filtro: vídeos com menos de 100 views nos primeiros 30 dias foram removidos.
+  - **Contagem final: não consta.** O texto cita "19,5 milhões de vídeos utilizáveis" sem reconciliar esse número com os 5,3 milhões publicados no período.
+- **Duração:** de 1 segundo a 24 horas; média de 12 min; **mediana de 5 min**. A fração de vídeos entre 10 e 60 min **não consta**. [ESTUDO]
+- **Categorias:** declaradas pelo próprio uploader, 18 no total. Maiores: People (1.265.805), Gaming (1.079.434), Entertainment (775.941), News (459.728), Music (449.314). Education (182.849) e Science (110.635) são as mais próximas de conteúdo explicativo. [ESTUDO]
+- **Amostras de validação (só para checagem):** VEVO VIDEOS (67.649 clipes de 8.685 canais verificados, música); BILLBOARD VIDEOS (63 vídeos de 47 artistas, Hot 100 de 2016); TOP NEWS VIDEOS (28.685 vídeos de 91 canais de notícias). [ESTUDO]
+- **Teste:** 875.865 vídeos após 4.455.339 de treino. 66% dos canais do teste já apareciam no treino. [ESTUDO]
+
+### O que foi medido
+
+- **Average watch time, ω̄_t:** tempo total assistido dividido pelo número de views, até o dia t (Eq. 1). [ESTUDO]
+- **Average watch percentage, µ̄_t:** ω̄_t dividido pela duração D; varia de 0 a 1 (Eq. 2). Medido em 30 dias (µ̄30). [ESTUDO]
+- **Relative engagement, η̄_t:** percentil do vídeo dentro da sua faixa de duração no *engagement map*. Faixas de duração em escala log, 1.000 faixas; faixas com menos de 50 vídeos são fundidas com as vizinhas. Converte µ̄ em η̄ por uma função f (Eq. 3). [ESTUDO]
+- **Informatividade de tópico, H(Y|X=1):** entropia condicional da faixa de η̄ (20 faixas), dado que o tópico está presente (Eq. 4). Quanto menor, mais informativo o tópico, em qualquer direção. [ESTUDO]
+- **Previsão:** MAE e R², sobre η̄30 e µ̄30, com features de contexto (C), tópicos (T, Freebase, cerca de 405 mil), reputação do canal (R) e um modelo por canal (CSP). [ESTUDO]
+
+Todas as medidas são **agregadas por vídeo**. Não há dado por minuto do vídeo nem por usuário.
+
+### Resultado (com tamanhos de efeito)
+
+| Achado | Valor | Seção | Tag |
+|---|---|---|---|
+| Duração sozinha explica a variância de µ̄30 | mais de 58% | §3.2 | [ESTUDO] |
+| Concordância entre ranking por views e ranking por watch time (top-n, 30 dias) | Spearman ρ = 0,48 em n = 50; ρ = 0,08 em n = 500 | §3.1 | [ESTUDO] |
+| Mesma comparação, por categoria | Música: ρ = 0,80 (n = 100); notícias: ρ = −0,34 (n = 100) | Fig. 2 | [ESTUDO] |
+| Estabilidade de η̄ entre o dia 7 e o dia 30 | 92,7% dentro de ±0,1; 4,6% subiram mais de 0,1; 2,7% caíram mais de 0,1 | §3.4 | [ESTUDO] |
+| Ajuste temporal | lei de potência com erro absoluto médio de 0,033, melhor que reta e constante | §3.4 | [ESTUDO] |
+| Qualidade (Billboard, n = 63) | 44 vídeos (70%) com η̄30 acima de 0,9; os demais, média de 0,83 e mínimo de 0,54 | §3.3 | [ESTUDO] |
+| Previsão de η̄30 | R² = 0,04 (C); R² = 0,19 (T); R² = 0,42 (R); CSP parecido com o modelo de todas as features | §4.3 | [ESTUDO] |
+| Previsão de µ̄30 | R² de até 0,69 direto; 0,77 quando se prevê η̄30 e depois se converte | §4.3 | [ESTUDO] |
+
+Exemplos do próprio artigo, todos [ESTUDO] ou [CASO]:
+
+- **Fig. 1 (§1):** três canais, 128 vídeos, 30 dias. Um canal de culinária com cerca de 159 mil views tinha µ̄ médio de 18%. Um canal de entretenimento, com menos views, tinha µ̄ acima de 80%. Mostra que views e tempo assistido podem divergir muito. Não mostra que um canal é melhor.
+- **PBABowling (§3.3):** 25 vídeos de um canal de esportes. µ̄30 médio de 0,82 nos curtos e 0,21 nos longos. η̄ médio de 0,92 e 0,78. Média de η̄ do canal: 0,86. Um canal só.
+- **Exemplos de §3.2:** v1 (karatê infantil, cerca de 5 min): µ̄30 = 0,70, η̄30 = 0,96. v3 (show ao vivo de luta, 3h49): µ̄30 = 0,19, η̄30 = 0,99. Mostra que um µ̄ baixo pode ser alto dentro da própria faixa de duração.
+- **Smyth Radio (§4.3), [CASO]:** seis vídeos de treino de cerca de 3 horas sobre eleição americana, com η̄30 médio de 0,08. Dois vídeos de teste, com títulos que citam teorias conspiratórias, chegaram a η̄30 de cerca de 1,0. Os autores sugerem a conspiração no título como explicação possível, **sem testá-la**. Dois vídeos.
+- **Tópicos (§4.4, Fig. 9):** "obama" associado a engajamento alto; "bollywood", a engajamento baixo. Correlação, sem explicação causal. [ESTUDO]
+
+Citações literais do artigo (tradução minha):
+
+- "engagement is the watch pattern after clicking" ("engajamento é o padrão de assistir depois do clique") (§1). [ESTUDO]
+- "relative engagement is stable over time" ("o engajamento relativo é estável ao longo do tempo") (§3.4). [ESTUDO]
+
+### Moderadores
+
+- **Categoria:** a relação entre views e tempo assistido muda de sinal entre música (ρ = 0,80) e notícias (ρ = −0,34). Categoria é autodeclarada. [ESTUDO]
+- **Duração:** é o principal preditor de µ̄30 (mais de 58% da variância). [ESTUDO]
+- **Escala da comparação:** a concordância entre rankings cai de ρ = 0,48 (n = 50) para ρ = 0,08 (n = 500). [ESTUDO]
+- **Tópico:** os tópicos informativos aparecem sobretudo entre os frequentes (cerca de 10 mil vezes no treino). Há exceções: baseball é um contraexemplo. [ESTUDO]
+- **Histórico do canal:** a reputação do canal (R² = 0,42) prevê muito mais que o contexto (R² = 0,04). Para canal novo, o desempenho de fallback é menor. O texto diz que isso "usually results in a lower prediction performance", mas **não quantifica**. [ESTUDO]
+
+### Replicação e críticas
+
+- **Replicação:** não consta no trecho lido.
+- **Limitações declaradas pelos autores (§6):** só vídeos públicos; dados agregados; não se sabe se vídeos não tuitados, privados ou não listados se comportam igual. [ESTUDO]
+- **Limitações que eu vejo** [INFERÊNCIA]:
+  - Viés de seleção: vídeos compartilhados no Twitter, com 100 views ou mais em 30 dias. Um canal dark pequeno pode estar fora dessa população.
+  - Dependência do histórico do canal: a previsão mais forte usa métricas de canais com vídeos anteriores no treino.
+  - Dados de 2016. Em relação à data desta ficha (2026-11-21), são quase dez anos de distância. A plataforma e o público mudaram; o artigo não trata disso.
+  - Qualidade medida por proxy (rankings da indústria, lista de canais de notícias), não por avaliação de roteiro ou de experiência do espectador.
+  - Correlação, não causa. A relação entre η̄ e qualidade é descritiva.
+- **Problemas do texto** (notas, §8), a conferir antes de citar números:
+  - Ano: 2017 (arXiv) ou 2018 (versão publicada).
+  - Contagem final de vídeos: não consta; 19,5 milhões e 5,3 milhões aparecem sem reconciliação.
+  - R² de 0,45 na Introdução: a métrica a que se refere não fica explícita. O valor com todas as features para η̄ não aparece no texto.
+  - Legenda da Fig. 3 usa "η̄30" onde o texto usa µ̄30. Provavelmente erro de notação.
+  - Notação de R: §4.3 usa R², e uma passagem da Introdução usa "R=0,42". Tratar como R².
+  - Tópicos: "405K" em §4.2 e "4M x 405K" em §4.3. Confirmar.
+  - Referência cruzada: o texto remete a "Table 1 (bottom)" para categorias, que estão na Tabela 2.
+  - Calibração: o resumo diz "calibrated against video properties"; o método calibra só por duração.
+  - OCR: IDs de vídeos e equações estão corrompidos no trecho. Não reproduzir IDs sem conferir o PDF.
+- **Datasets e benchmarks:** citados como públicos no GitHub. **Não verificados** (não acessei o link).
+
+### O que autoriza concluir para vídeo longo
+
+- **Vídeos mais longos têm, em média, µ̄ menor.** [ESTUDO] para a direção do efeito, na amostra de mediana 5 min. Para 10–60 min: [NÃO VALIDADO EM LONG-FORM] para a magnitude, porque o artigo não reporta essa faixa.
+- **Views e tempo assistido medem coisas diferentes.** Um título ou miniatura que aumenta views não garante percentual assistido. [ESTUDO] (Fig. 1 e Spearman). Transferência: [ADAPTAÇÃO], porque o artigo não mede títulos nem CTR.
+- **Comparar vídeos de durações diferentes exige o percentil dentro da faixa (η̄), não o µ̄ bruto.** [ESTUDO] para o método. Para vídeo longo, a faixa de 10–60 min precisa de amostra suficiente; o artigo não diz quanto.
+- **Para um canal, a média de η̄ por faixa de duração é mais informativa que o µ̄ bruto médio.** [ESTUDO] (PBABowling, um canal) + [ADAPTAÇÃO].
+- **η̄ é relativamente estável entre o dia 7 e o dia 30 na população.** [ESTUDO]. Para vídeo longo, [NÃO VALIDADO EM LONG-FORM]: a população é majoritariamente curta.
+- **Agregado por vídeo não mostra onde o público sai.** Dois vídeos de 30 min com o mesmo µ̄ podem ter curvas totalmente diferentes. [INFERÊNCIA] a partir do argumento do próprio artigo sobre agregados (§3.1).
+
+### O que não autoriza
+
+- **Nada sobre atos, loops abertos, ritmo, hook, payoff, roteiro, título, thumbnail ou CTR.** Não consta no artigo.
+- **Nada sobre retenção ao longo do vídeo.** As séries são diárias (por dia de vida do vídeo), não por minuto. Não há curva. [NÃO VALIDADO EM LONG-FORM]
+- **Nenhum valor de µ̄ ou η̄ esperado para um vídeo de 30 min.** O texto não informa.
+- **Nada sobre canais dark ou narrados.** Não é categoria da amostra.
+- **Causa de engajamento por tópico ou por título.** Correlação. A hipótese da conspiração no título (Smyth Radio, n = 2) é [CASO] e não testada.
+- **Previsão para canal novo.** O desempenho sem histórico não é quantificado.
+- **Uso da previsão como ferramenta.** Os R² são de previsão sobre a população de 2016. Não há evidência de que se transferem para outro canal ou período.
+
+### Aplicação prática
+
+Processo proposto, a partir do que o artigo autoriza. Cada passo é [ADAPTAÇÃO]:
+
+1. **Por vídeo do próprio canal:** µ̄ = tempo médio assistido ÷ duração. A origem desses dados no Analytics está em `08`; conferir antes de usar.
+2. **Agrupar por faixa de duração.** O artigo funde faixas com menos de 50 vídeos. Use o mesmo mínimo como parâmetro inicial, não como regra validada para o seu canal.
+3. **Calcular η̄ como percentil dentro da faixa do próprio canal.** O artigo compara contra a própria população de referência. Para canal pequeno, a faixa pode não ter vídeos suficientes; nesse caso, não compare.
+4. **Ler o canal pela média de η̄, não pelo µ̄ bruto.** Mesmo quando a duração varia muito.
+5. **Sinal precoce:** a média de η̄ aos 7 dias é mais barata que a de 30 dias, com a ressalva de estabilidade acima.
+6. **Tópicos:** H(Y|X=1) só faz sentido com histórico grande. Com poucos vídeos por canal, não é confiável. [INFERÊNCIA]
+7. **O que muda o roteiro:** nada. O artigo não mede estrutura. Use a curva de retenção do próprio vídeo, que o artigo não fornece. [INFERÊNCIA]
+
+**Exemplo construído (por mim, não é dado):** um canal tem um vídeo de 8 min com µ̄ 0,60 e um de 40 min com µ̄ 0,30. A comparação direta sugere que o curto foi melhor. Mas o η̄ de cada um depende da distribuição de µ̄ na sua própria faixa de duração. Sem essa distribuição, não se sabe qual foi melhor dentro da própria faixa. [INFERÊNCIA]
+
+### Relação com a base
+
+A base não é verificável por este trecho: tenho o índice dos documentos 01 a 10 e a seção 1 do Master Playbook, não o texto das seções. Os apontamentos abaixo são por título de seção do índice e precisam ser conferidos.
+
+- **Confirma:**
+  - `08` §5 ("Por que CTR alto nem sempre é melhor"): views e tempo assistido divergem (Fig. 1; Spearman). [ESTUDO]
+  - Sistema, regra 4 (views não medem qualidade): o artigo mostra divergência entre views e tempo assistido. Não mede qualidade narrativa. [ESTUDO]
+  - `04` §1 (leitura de curvas) e `06` §9.3 (limites do corpus): o artigo confirma que uma média por vídeo não mostra o padrão interno. [ESTUDO] + [INFERÊNCIA]
+  - `10` §1.5 ("comparar vídeos diferentes confunde tema com tratamento"): o artigo mostra tópico associado a engajamento, sem explicação causal. [ESTUDO]
+- **Acrescenta:**
+  - Normalização por faixa de duração (η̄) como método de comparação. Pode complementar `01` §8 ("Adaptações por duração") ou `08` §6. Não consta se já está no documento.
+  - Estabilidade de η̄ entre dia 7 e dia 30. Não consta na base pelo índice; verificar em `08` §7.
+- **Contradiz:** nada identificado pelo índice. Conferir `01` §8.1 e §8.5 (o que muda com a duração), porque o artigo mostra efeito forte da duração sobre µ̄. [ESTUDO]
+- **Citação na base:** pelo índice da `07`, não há ficha desta obra. Se a base cita o artigo por fonte secundária, isso não consta no resumo que recebi.
+
+### O que não usar
+
+- **O caso Smyth Radio como prova de que título conspiratório aumenta engajamento.** São dois vídeos, com hipótese dos autores, sem teste.
+- **Os R² como precisão de previsão em canal dark.** Foram obtidos em 2016, em amostra de tweets, com histórico de canal.
+- **O valor de 0,45 de R² e a contagem de 19,5 milhões de vídeos** sem conferir a versão publicada.
+- **O ranking de tópicos** (obama, bollywood) para qualquer decisão de roteiro. É correlação, em amostra de 2016.
+- **Qualquer leitura de curva por minuto a partir deste artigo.** Ele não tem essa medida.
+
+## Ficha: Bassolas et al 2025 - Energy transition discourse on YouTube (retention)
+## Ficha de artigo científico: Bassolas et al. (2025), *Energy transition discourse on YouTube (retention)*
+
+**Referência.** Bassolas et al. (2025), arXiv:2511.16497, conforme o cabeçalho do PDF. O trecho não informa se houve revisão por pares, então trate como preprint. A lista completa de autores não aparece nas notas. Aparece "Pierlo Birello" em Author Contributions, mas o mesmo autor é "Piero Birello" em outros pontos do texto. Não há URL nas notas além do identificador arXiv.
+
+### Desenho e amostra
+
+O artigo tem dois componentes [ESTUDO].
+
+**(a) Observacional.** 2.108 vídeos em espanhol, coletados pela YouTube Data API com 13 palavras-chave (200 por conceito antes do filtro). Os autores afirmam que o algoritmo de busca não é público, então a amostra não é aleatória. Medidas: visualizações, curtidas, comentários, polaridade (VADER), categorias do General Inquirer, formalidade (XLM-RoBERTa-base treinado em X-FORMAL, frase a frase nas transcrições) e tópicos (LDA, 8 tópicos).
+- Ano: a maioria é recente, com aumento mais forte após 2020 (Fig. S1). O trecho não traz contagens por ano.
+- Duração: "ranging between 500 and 2000 seconds" (≈ 8 a 33 min), na descrição da Fig. S4. O trecho não diz se o intervalo vale para vídeos individuais ou para médias por conceito.
+- "Conceitos" são as 13 palavras-chave e "tópicos" são os 8 temas do LDA. Não são categorias oficiais do YouTube.
+
+**(b) Experimental.** Dois canais espelho com o mesmo roteiro-base:
+- "Euro al Joule" (academic): narração acadêmica, vídeos completos de ~2 min.
+- "eur2j" (conversational): estilo conversacional, vídeos completos de ~1 min.
+- Cada canal publicou desafios de compreensão, promovidos com Google Ads, com versões breves (~20 s, só narrador, resumo do completo) e uma versão vertical.
+- Retenção só foi medida nos vídeos completos promovidos (N = 15 por canal). Os completos não promovidos ficaram sem dados de retenção ("unavailable due to the limited visualisations").
+- Contagem de desafios: as seções de resultados falam em 15 por canal. A seção 7 das notas fala em "Os 20 desafios". Trate isso como inconsistência a checar no PDF, não como fato.
+
+### O que foi medido
+
+- **Watch ratio** (definição do autor): vezes que um trecho foi assistido dividido pelo total de visualizações do vídeo. Vem da YouTube Analytics API. Eixo x: **time ratio elapsed**, fração de 0 a 1 do vídeo.
+- **Relative retention performance** (definição do autor): retenção de um trecho comparada à de vídeos de duração semelhante. 0,5 = metade dos vídeos de duração semelhante retém melhor. O autor afirma que a métrica "lava" o efeito da duração. A definição vem de documentação do Google que não foi verificada aqui.
+- Engajamento (visualizações, curtidas, comentários), polaridade, formalidade e tópicos, no corpus observacional.
+- Taxa de visualização e de interação no público pago, nos vídeos promovidos.
+
+### Resultado (com tamanhos de efeito)
+
+**Não há tamanho de efeito.** O trecho traz só p-valores para a retenção, e o autor usa Mann-Whitney em cada ponto de tempo.
+
+**Retenção por fração do vídeo (texto do autor; as curvas não foram vistas):**
+- Canal conversacional: retenção significativamente maior entre time ratio **0,02 e 0,07** (p entre 0,011 e 0,033).
+- Canal acadêmico: retenção significativamente maior entre **0,23 e 0,70** (p entre 0,045 e 3,9×10⁻⁵).
+- Citação do Abstract: "retention rates are higher on the academic channel beyond the initial video segments".
+- Não há menção a correção para múltiplas comparações. [INFERÊNCIA] Com muitos pontos testados, p isolado pesa menos.
+
+**Conversão para segundos [INFERÊNCIA, cálculo meu].** Multipliquei as janelas pelas durações médias relatadas. São aproximações a partir de médias, não valores por vídeo.
+- Conversacional (~60 s): 0,02–0,07 ≈ 1–4 s.
+- Acadêmico (~120 s): 0,23–0,70 ≈ 28–84 s.
+
+**Taxa de audiência (valores citados pelo autor):** ~75% dos breves assistidos até o fim; ~15% dos completos.
+
+**Alcance e promoção:**
+- Vídeos não promovidos: menos de 100 visualizações. Promovidos: cerca de 100 (completos) e cerca de 1.000 (breves). Médias de 15 casos por canal.
+- Citação: "the type of promotion has a higher effect on the content outreach".
+- Taxa de visualização e de interação maiores no canal conversacional (p = 0,03 e 0,02). Mulheres e faixa de 25–34 anos tiveram taxas de visualização maiores. São dados de público pago.
+
+**Engajamento:** correlações fracas, "only a few reaching statistical significance" (autor). Maior valor absoluto: r = 0,11 (tom negativo, perda de poder e formalidade). Formalidade vs. comentários: r = −0,11. [INFERÊNCIA] r = 0,11 explica cerca de 1% da variância. O n dessas correlações não é informado.
+
+### Moderadores
+
+- **Tipo de promoção:** segundo o autor, teve efeito maior sobre alcance do que canal ou registro (vídeos de 1–2 min, Google Ads).
+- **Duração do vídeo:** completo (1–2 min) vs. breve (~20 s). Os resultados de retenção são só dos completos.
+- **Canal/registro:** a diferença de retenção aparece em janelas diferentes para cada canal.
+- **Demografia do público pago:** mulheres e 25–34 anos, com taxas de visualização maiores.
+- **Confundidor declarado no próprio texto:** o canal conversacional tem narrador com "well-developed interpretative and communication abilities". O autor não isola registro de habilidade de apresentação. Os canais diferiam "mainly in the speaker" (Fig. S8).
+
+### Replicação e críticas
+
+**Limites declarados pelos autores:** amostra pequena, variância alta de engajamento entre vídeos, e resultados que "might not be extrapolable to all social media". Não há replicação no trecho.
+
+**Problemas que encontrei no texto [INFERÊNCIA]:**
+- Sem tamanho de efeito e sem correção para múltiplas comparações nas janelas de retenção.
+- Amostra não aleatória, com algoritmo de busca não público.
+- n = 15 por canal, com variância alta. Pelo próprio texto, a potência é baixa para diferenças pequenas.
+- Inconsistências internas: data de coleta de 20 de fevereiro de 2024 citando vídeos publicados em agosto de 2024 (provável erro de ano); "three orders of magnitude" na Discussão, contra cerca de uma ordem na Tabela I e nos resultados; "Electricity Markets" (Fig. 4) e "Electric market" (Fig. 2, texto e Fig. S4); referência a "Fig. S11" duas vezes; Tabela I com colunas desalinhadas no OCR; Fig. 8 e Fig. S12 ilegíveis no texto extraído.
+- "Long-term retention" aparece numa citação, mas as janelas medidas são frações do vídeo, não prazo temporal. [INFERÊNCIA] O uso do termo é ambíguo.
+
+### O que autoriza concluir para vídeo longo
+
+**Nada sobre retenção em 10–60 min.** O corpus tem vídeos nessa faixa de duração, mas o trecho não relata retenção para eles. A única menção do autor a duração longa é a de que o YouTube "offers longer videos... which allows for the discussion of more complex subjects", citando uma revisão de escopo.
+
+O que o estudo autoriza, com condição:
+1. **Retenção normalizada por duração** como método de comparação entre vídeos de tamanhos diferentes. Condição: o canal precisa de histórico próprio com vídeos de duração semelhante. Limite: a definição depende de documentação do Google não verificada.
+2. **Desenho de canais espelho** como modelo de controle: mesmo tema, mesma data e mesma promoção nas duas versões. Limite: o próprio desenho deixou o narrador como confundidor.
+3. **Promoção paga domina o alcance** em vídeos de 1–2 min. Condição: promoção paga, dispositivos em catalão/espanhol, regiões espanholas. Não vale para alcance orgânico de vídeos longos.
+
+### O que não autoriza
+
+- Que o registro conversacional retém melhor nos primeiros 30 s de um vídeo de 30 min. A janela medida foi de 1–4 s num vídeo de ~1 min.
+- Que a janela de 28–84 s do acadêmico, convertida de um vídeo de ~2 min, valha para um vídeo de 30 min (1.800 s). A conversão é hipotética: não escala por construção e não há dado de 30 min.
+- Que um estilo mais formal reduz retenção. Os dados são de janelas específicas de dois canais de conteúdo educativo sobre energia.
+- Que formalidade afeta retenção. A correlação com formalidade é com comentários (r = −0,11).
+- Que tom, título, thumbnail, estrutura em atos, loops abertos, ritmo, payoff ou CTA foram testados. Não foram.
+- Qualquer dose de duração de bloco, número de ganchos ou posição de clímax. O trecho não traz nenhuma.
+- Que o efeito é causal para o tom. O narrador foi confundidor declarado e não isolado.
+
+### Aplicação prática
+
+Teste possível, como hipótese [ADAPTAÇÃO], não como regra:
+
+- **Pergunta:** a abertura de um vídeo dark de 30 min com registro coloquial retém mais nos primeiros 30 s do que a mesma abertura em registro formal?
+- **Desenho:** mesmo tema, mesma data de publicação e mesma promoção (se houver) nas duas versões. Se a comparação for entre dois vídeos, é um teste fraco, porque confunde tema com tratamento (10 §1.5). Para isolar, use duas aberturas do mesmo roteiro, ou duas versões de um vídeo em série.
+- **Controle do narrador [INFERÊNCIA]:** mesma voz, mesmo ritmo de locução e mesma faixa de edição nas duas versões. Assim o teste não repete a confusão de registro com habilidade de apresentação que o estudo deixou em aberto.
+- **Métrica primária, definida antes:** retenção relativa à duração nos primeiros 30 s, lida na curva do próprio canal (08 §7). Métrica secundária: a curva entre 30 e 90 s.
+- **Condição de leitura:** a janela do estudo (1–4 s de vídeo breve) não cobre 30 s. Qualquer efeito nos primeiros 30 s será um resultado novo, não confirmação. Nota sobre amostra: o estudo teve n = 15 por canal e não traz cálculo de potência. Para dimensionar, use 10 §4.5.
+- **Limite:** um único vídeo não basta. Mantenha uma variável por experimento (10 §1.1).
+
+### Relação com a base
+
+O resumo da base que recebi não cita este artigo, e não consigo confirmar a partir dele se algum documento 01 a 10 o cita por fonte secundária. Se a biblioteca (07) o listou como lido em parte ou não lido, a seção a atualizar é **07 §5.6, "Fontes lidas em parte ou não lidas"** (linha 941). Verifique isso antes de integrar a ficha.
+
+Pontos de contato com as seções da base que aparecem no índice:
+
+- **Confirma (no que é compatível):**
+  - **10 §1.5 (linha 63):** comparar vídeos diferentes confunde tema com tratamento. O desenho espelhado é uma tentativa de controlar esse problema, e o próprio estudo mostra que o controle é parcial, já que o narrador variou.
+  - **10 §1.4 (linha 47) e 10 §4.5 (linha 671):** amostra pequena e variância alta limitam a leitura. O estudo declara isso.
+  - **01 §6.5 (linha 584):** números de correlação não entram no playbook. O r = 0,11 de engajamento é o caso exato: não serve de proxy de retenção.
+- **Acrescenta:**
+  - **08 §7 (linha 238) e 04 §1 (linha 11):** a retenção normalizada por duração é um método de leitura de curva que o índice não destaca. Se essa normalização não estiver em 08 §7.3 ou 04 §1.3, é um acréscimo.
+  - **06 §8 (linha 309):** um caso em espanhol, de nicho educativo sobre energia, com dados de retenção por fração do vídeo. Só que para vídeos de 1–2 min, o que não estende o corpus de 06 para a faixa de 10–60 min.
+  - **08 §2 (linha 56):** a promoção paga é uma origem de tráfego própria. O estudo mostra que ela domina o alcance em vídeos curtos, o que reforça que comparações devem ser feitas dentro da mesma origem.
+- **Contradiz:** nada nas seções que tenho acesso é diretamente contrariado. O risco é de leitura: o hook de 90 s em 02 trabalha com outra escala de tempo, e o estudo não a toca.
+
+### O que não usar
+
+- **"Vídeos com registro acadêmico retêm mais"** como regra geral. Os dados são de janelas de vídeos de 1–2 min, com p-valores sem tamanho de efeito e sem correção, em dois canais com narradores diferentes.
+- **r = −0,11 entre formalidade e comentários** como proxy de retenção. A correlação é com comentários.
+- **"Três ordens de magnitude"** de aumento de visualizações. O próprio texto se contradiz, e as tabelas dão cerca de uma ordem.
+- **Janelas convertidas em segundos** como dose para vídeo de 30 min. A conversão é construção minha, feita a partir de médias.
+- **Os 75% e 15% de audiência** como referência de retenção de vídeo longo. São de vídeos de 20 s e de 1–2 min, com público pago.
 
 ## Ficha: The Psychology of Curiosity - George Loewenstein
 ## Ficha de artigo científico: Loewenstein (1994)
@@ -115,6 +661,312 @@ Esses são pontos de partida para hipóteses a testar com a curva do próprio ca
 - Nomes e datas têm erros de OCR nas notas. Conferir na fonte original antes de citar.
 - Trecho teórico e anterior a plataformas de vídeo. Não há base para dose ou número de retenção.
 - A feedback-palpite sem fonte primária identificada precisa ser localizada antes de ser usada como achado.
+
+## Ficha: Golman, Loewenstein et al 2021 - Demand for and Avoidance of Information
+## Ficha de artigo científico: Golman, Loewenstein, Molnar & Saccardo (2021), "Demand for and Avoidance of Information"
+
+**Referência.** Golman, R., Loewenstein, G., Molnar, A., & Saccardo, S. (2021). *Demand for and Avoidance of Information*. Working paper, CMU (versão de abril de 2021, segundo as notas). [ESTUDO, própria obra]. A versão publicada não foi verificada. URL: não consta nas notas.
+
+**Cobertura de leitura.** Trecho 1: front matter, abstract, seções 1 a 5 e Apêndice A. O Apêndice B tem só o título. Trecho 2: experimentos 1A, 1B, 2A, 2B e 2C, e os apêndices C (poder), D (análises suplementares) e E (aplicação a testes genéticos). Não foram lidos os apêndices de tabelas de regressão e distribuições de cliques completos. As figuras 1, 3 e 4 têm OCR corrompido, e a leitura dos estímulos ficou parcial.
+
+---
+
+### Desenho e amostra
+
+Cinco experimentos online com trabalhadores pagos (MTurk), com tratamentos entre participantes. Total de participantes nos cinco experimentos: 2.361 (838 + 157 + 470 + 398 + 498). [ESTUDO]
+
+| Exp. | Manipulação | n planejado | n analisado (notas) | Observação nas notas |
+|---|---|---|---|---|
+| 1A | Importância da pergunta (High vs. Low), com quebra-cabeça "moral support" | 840 (420 por grupo) | 838 no total; regressões com 475 e 472 | Regra de exclusão não consta |
+| 1B | Revelação imediata vs. atrasada (24 h) | 200 | 157 no total (trecho 1); regressão com 108 | 98 completaram a etapa 1 no imediato; 77 (79%) voltaram |
+| 2A | Bônus alto vs. baixo; teste de reconhecimento de expressão facial (FER) | 450 | 470 | Valores do bônus ilegíveis no OCR; não é claro qual valor vai com cada tratamento |
+| 2B | E-mail enviado 15 min vs. 24 h após o teste FER | 400 | 398 | Diferença geral não significativa |
+| 2C | Valência esperada da resposta (dificuldade das fotos alterada) | 500 | 498 | Poder a priori de 0,99 |
+
+**Tarefa do FER (2A a 2C).** 40 fotos de olhos por participante, sorteadas de um banco de 73. Acurácia por foto entre 10,2% e 97,1%. Fontes das imagens: CFD, RaFD, CK+ e Google. [ESTUDO]
+
+**Tarefa de revelação (1A e 1B).** Quebra-cabeça não resolvido; o participante pode revelar a solução com até 10 cliques. Evitação é a ausência de clique. Não há vídeo, canal ou conteúdo de mídia. [ESTUDO]
+
+---
+
+### O que foi medido
+
+- **Demanda por informação:** número de cliques para revelar (1A, 1B) e proporção que inicia a tarefa de revelação (2A a 2C).
+- **Evitação:** proporção que não clica em nenhuma revelação. Ex.: 70,0% dos que resolveram o quebra-cabeça no Exp. 1A não clicaram nenhuma vez (Apêndice D). [ESTUDO]
+- **Mecanismos testados por mediação:** desvio-padrão da utilidade subjetiva, SD(U), no 2A; pontuação esperada no 2C.
+- **Não medido:** consumo de conteúdo, tempo assistido, retenção, clique em miniatura ou título.
+
+---
+
+### Resultado (com tamanhos de efeito)
+
+As notas trazem tamanhos de efeito (d) só para 1A e 1B. Para os demais, consta a diferença bruta, o coeficiente ou a estatística de teste.
+
+**Exp. 1A (importância, n = 838 no total).** [ESTUDO]
+- Cliques: 5,68 (High) vs. 4,34 (Low), **d = 0,44**.
+- Início da busca: 97,9% vs. 88,7%.
+- Regressão, sem controles: +1,339 cliques (p < 0,001). Com controles: +1,279.
+- Com clique 10 vezes: +0,112 (p < 0,01) sem controles; +0,092 (p < 0,05) com controles.
+
+**Exp. 1B (revelação imediata vs. atrasada, 24 h, n = 157 no total).** [ESTUDO]
+- Cliques: 4,27 (imediata) vs. 3,23 (atrasada), **d = 0,72**.
+- Revelação: 63,6% vs. 37,7%.
+- Regressão: +1,046 cliques (p < 0,001) sem controles; +0,949 (p < 0,001) com controles.
+- Entre os que resolveram o quebra-cabeça, a diferença de médias (2,09 vs. 1,44) não é significativa: t(44) = 1,221, p = 0,229.
+
+**Exp. 2A (bônus e importância, n = 470).** [ESTUDO]
+- Início da tarefa: 46,6% vs. 33,6%.
+- Regressão: +0,131 (p < 0,01) sem controles; cai para +0,050 (não significativo) ao controlar SD(U), com coeficiente de SD(U) de 0,003 (p < 0,01).
+- O autor reporta mediação totalmente pela SD(U) (β = 0,080). Os dois coeficientes aparecem nas notas de forma distinta (ver Replicação e críticas).
+
+**Exp. 2B (saliência temporal, n = 398).** [ESTUDO]
+- Início geral: 45,7% vs. 37,2% (p = 0,104, não significativo).
+- Janela de até 1 h: 29,7% vs. 19,1% (χ² = 5,453, p = 0,020). Após 1 h, sem diferença.
+- Até 48 h, alguma vez: coeficiente 0,085 (p < 0,10) sem controles; 0,062 (não significativo) com controles.
+
+**Exp. 2C (valência, n = 498).** [ESTUDO]
+- Início: 63,4% vs. 50,0% (p = 0,003).
+- Regressão: +0,134 (p < 0,01) sem controles; cai para +0,014 (não significativo) ao controlar a pontuação esperada.
+- Conclusão da tarefa: −0,002 (não significativo) com controles.
+
+---
+
+### Moderadores
+
+- **Importância** (1A, 2A): a pergunta ter consequência para o participante aumenta a demanda, mesmo sem utilidade prática. A manipulação de importância no 1A não tem racional descrito nas notas.
+- **Saliência e tempo desde a abertura da lacuna** (1B, 2B): o efeito aparece em janelas de minutos a horas e some depois de 1 h no 2B.
+- **Valência** (2C): respostas com valência positiva aumentam a demanda; negativas, a evitação (a evitação aparece no Apêndice E como previsão, não como medida de vídeo). [ESTUDO; mediação pela pontuação esperada]
+- **Adaptação**: o autor assume no 1A que a importância não cai com a adaptação, e admite que essa suposição é fraca. [ESTUDO, limite declarado]
+- **Crença negativa** (Apêndice E, modelo conceitual): atenção motivada, que evita informação que gera crença desagradável. Não testado no trecho. [ESTUDO citado pelo autor, sem teste empírico no trecho]
+
+---
+
+### Replicação e críticas
+
+- **Replicação independente:** nenhuma nas notas.
+- **Limites declarados pelo próprio autor:** amostra de trabalhadores pagos; tarefa de clique com custo; o desfecho é esforço para obter a resposta, não consumo de conteúdo; Exp. 1B com n pequeno; possível seleção no Exp. 2B; o limite de 1 h na janela de saliência é "somewhat subjective" (nota do trecho 1).
+- **Ajuste post hoc:** o efeito do Exp. 2B aparece só em janela curta, e a diferença geral não é significativa (p = 0,104).
+- **Inconsistências a conferir na fonte** (das notas do trecho 2):
+  - Graus de liberdade t(13) e t(19) não batem com os n da Figura D3 (solucionaram: 22 + 9; não solucionaram: 55 + 12).
+  - A legenda da Figura D3 diz "Experiment 2A", mas a seção está sob o 1B; provável erro de rótulo.
+  - Exp. 1A: 838 no total, mas regressões com 475 e 472, sem regra de exclusão nas notas.
+  - Exp. 1B: 157 no total (trecho 1), regressão com 108 (trecho 2), e 98 no ramo imediato; a relação entre esses números não está explicada.
+  - Exp. 2A: a mediação é reportada como β = 0,080 (trecho 1) e o coeficiente de SD(U) como 0,003 (trecho 2). São quantidades diferentes? Confirmar na tabela.
+  - Valores do bônus no 2A: OCR perdeu valores; a tela 11 cita $1,00, a tela 14 cita $0,05 e a Tabela D3 cita "High ($1.70)" como pagamento fixo.
+  - Tela 4 do 2B traz "higher than 0%" repetido; possivelmente placeholder de template, não confirmado.
+  - Tabela D4: colunas lidas como 0–15, 0–30, 0–60, 0–120 min e 48 h; conferir na imagem.
+- **Versão:** working paper. A versão final pode diferir.
+- **Estudos citados (não verificados por nós):** Loewenstein (1994); Law et al. (2016); Wright et al. (2018); Kang et al. (2009); Kupor & Tormala (2015); Karlsson et al. (2009); Oster et al. (2013); Brunnermeier & Parker (2005); Faul et al. (2009). Todos aparecem como [ESTUDO citado pelo autor].
+
+---
+
+### O que autoriza concluir para vídeo longo
+
+Nada sobre vídeo longo diretamente. O que o estudo autoriza, em laboratório com tarefa de clique:
+
+1. Com outras condições iguais, uma pergunta que o participante considera importante gera mais esforço para obter a resposta (1A: d = 0,44; 2A: início 46,6% vs. 33,6%). [ESTUDO]
+2. Uma revelação imediata gera mais demanda do que uma atrasada por 24 h (1B: d = 0,72). A diferença some em 2B após 1 h. [ESTUDO]
+3. Respostas esperadas como positivas geram mais demanda do que negativas (2C: 63,4% vs. 50,0%). [ESTUDO]
+
+Esses resultados sustentam a lacuna de informação como mecanismo com efeito medido, com a ressalva de que a medida é esforço de clique.
+
+---
+
+### O que não autoriza
+
+- **Retenção, AVD, APV ou curva de qualquer vídeo.** [NÃO VALIDADO EM LONG-FORM] O estudo não mede consumo.
+- **Qualquer dose de tempo dentro de um vídeo.** As janelas medidas são de minutos a horas entre tarefas, não entre minutos de um vídeo. Não autoriza dizer em que minuto reativar uma lacuna.
+- **Título ou miniatura.** Não há medida de clique em título nem em imagem. [NÃO VALIDADO EM LONG-FORM] para miniatura.
+- **Que a resolução gera satisfação duradoura, ou que a satisfação de conhecimento cai com o tempo.** O declínio da atenção após a resposta (4.3 das notas, "belief resolution effect") é uma previsão do autor, sem teste no trecho. [INFERÊNCIA do autor, não medido]
+- **Que o suspense seja o único motivo para ficar.** O estudo mede demanda por uma pergunta pendente. Não compara com outros motivos de permanência.
+- **Qualquer métrica ou amostra de vídeos do YouTube.** O trecho não tem dados de plataforma.
+- **Generalização para canal de temas sombrios.** A única extensão é a inferência de que lacunas negativas podem gerar evitação. [INFERÊNCIA]
+
+---
+
+### Aplicação prática
+
+Cada item tem a etiqueta de transferência e a condição de validade.
+
+1. **Pergunta com consequência explícita no hook** (aplicação de 1A). [ADAPTAÇÃO] Condição: a consequência tem de ser real para o espectador do canal, não criada pelo roteiro. Limitação: medido com quebra-cabeça em MTurk.
+2. **Título como pergunta específica, não como promessa vaga** (aplicação de 1A e 1B). [ADAPTAÇÃO] Condição: a pergunta deve ser respondida no vídeo, o que liga ao registro de promessas (`01` §2.2; checar no pacote). Limitação: o efeito de importância foi medido com pergunta específica; não há medida de clique.
+3. **Respostas de valência negativa exigem cuidado na promessa** (2C). [INFERÊNCIA] Condição: o canal promete uma resposta ruim (ex.: morte, crime). Limitação: a evitação medida é de esforço para obter a resposta, não de abandono de vídeo.
+4. **Teste sugerido (hipótese, não executado):** dois hooks de 90 s, um com pergunta específica e consequência explícita, outro com abertura de contexto, para o mesmo tema, com hipótese escrita antes (regra de `10` §1.2). Métrica primária: retenção aos 30 s (Intro), a única métrica oficial de abertura [OFICIAL, 9314415]. Métricas de proteção: APV e AVD. Um vídeo por variante não compara tema com tratamento; é preciso repetir em vídeos do mesmo formato (`10` §1.5). [INFERÊNCIA sobre desenho]
+5. **Reativação da lacuna ao longo do vídeo** (Apêndice E e notas do trecho 1, inferência). [INFERÊNCIA] Hipótese a testar: a curva deve mostrar menos queda perto de pontos de reativação. Não há número de intervalo no estudo.
+
+---
+
+### Relação com a base (documentos 01 a 10 e 07)
+
+O material desta chamada inclui o índice dos documentos 01 a 10, o Playbook §1 e a skill, mas não o conteúdo de `07` nem da ficha de Golman em `17`. Por isso, o que segue confronta a leitura com o que a base afirma no resumo fornecido. Não é possível dizer, a partir deste material, se a base já cita Golman por fonte secundária.
+
+- **Playbook §1, ponto 1 (Kang et al., 2009, Exp. 1, n = 19, curiosidade maior com confiança perto de 50%).** [NÃO CONFIRMADO] As notas citam Kang et al. (2009) apenas como "memória para respostas com curiosidade", sem o detalhe de confiança nem o n. A informação de 50% e de n = 19 não pode ser atribuída a Golman; deve ser checada em Kang (2009) diretamente. Se for confirmada, o ponto de laboratório fica como está; se não, é preciso corrigir o Playbook.
+- **Playbook §1, ponto 2 (título e miniatura prometem a pergunta, não a resposta).** [CONFIRMA, em parte] Golman sustenta que pergunta específica e importante gera mais demanda (1A), mas a medida é de clique em tarefa, não de título. A direção é compatível, sem dose.
+- **Playbook §1, ponto 5 (toda promessa tem minuto de pagamento).** [ACRESCENTA] O efeito de resolução que cai rápido (4.3) sugere pagar e reabrir lacuna. É previsão não testada, e não deve virar regra.
+- **Skill, regra 5 e `04` §3 (suspense não é o único motivo para ficar).** [CONFIRMA, sem expandir] Golman mede só a pergunta pendente. Não sustenta nem refuta os outros motivos. O estudo é evidência para um dos mecanismos, não para a ordem de prioridade entre eles.
+- **Playbook §1, pontos 3 e 4 (90 s e blocos de cerca de 5 min).** [NÃO APLICÁVEL] As janelas medidas são horas, não minutos de vídeo.
+- **`07` §2.1 (Curiosidade) e §2.7 (Recompensa e expectativa), conforme o índice.** [A VERIFICAR] Se `07` já cita Golman, esta leitura acrescenta: a valência da resposta (2C), a mediação pela utilidade subjetiva (2A) e a janela de 1 h (2B), que não estão no resumo fornecido. Também corrige qualquer uso do estudo como medida de retenção, o que a leitura integral não autoriza.
+
+---
+
+### O que não usar
+
+- **O d = 0,44 e o d = 0,72 como tamanho de efeito de vídeo.** São de tarefa de clique em MTurk, com medida de esforço. Usar como dose de retenção seria erro.
+- **O dado de 1 h (Exp. 2B) como janela de atenção dentro do vídeo.** A janela é entre tarefas, não entre minutos.
+- **Os resultados de 2B como efeito confirmado.** A diferença geral não é significativa (p = 0,104) e a janela é post hoc.
+- **O efeito de 2A como efeito de importância limpo.** A mediação e os coeficientes têm inconsistência nas notas, e o racional da manipulação não consta.
+- **Atribuir a Golman o dado de Kang (2009) sobre confiança de 50%.** Não consta nas notas.
+- **Os estudos citados (Loewenstein 1994, Law 2016, Wright 2018, Kang 2009 etc.) como verificados.** Só aparecem como citados no artigo; não foram lidos nesta leitura.
+- **A previsão de declínio da atenção após a resolução (4.3) como fato.** É hipótese do autor sem teste no trecho.
+- **Qualquer dose de minutos, frequência ou percentual de retenção** derivada deste artigo.
+
+## Ficha: Green & Brock 2000 - Transportation in the Persuasiveness of Public Narratives
+## Ficha de artigo científico: Green & Brock (2000), transporte narrativo e persuasão
+
+**Referência.** Green, M. C., & Brock, T. C. (2000). The role of transportation in the persuasiveness of public narratives. *Journal of Personality and Social Psychology*, 79(5), 701-721. [ESTUDO] Leitura integral, pelas notas de 1 de 1 trecho. Contagem de palavras (19.773) não verificada. Não houve checagem externa dos números: tudo o que segue é o que o próprio artigo reporta.
+
+### Desenho e amostra
+
+Todos os estudos são do próprio artigo. Nenhum é dado de vídeo, de plataforma ou de canal.
+
+| Estudo | N | Desenho | Tipo de texto |
+|---|---|---|---|
+| Escala de transporte | 274 | Validação psicométrica; alfa de Cronbach = .76 | Textos de validação |
+| Exp. 1 | 97 (95 analisados) | Correlacional, com divisão pela mediana de transporte; 7 participantes do ponto mediano excluídos | "Murder at the Mall" (adaptado de Nuland, 1994, cerca de 9 páginas) |
+| Exp. 2 | 69 | Correlacional, com técnica "Pinocchio circling" (marcar trechos que "não soam verdadeiros") | Texto narrativo |
+| Exp. 3 | 274 | Replicação de Exp. 1; rótulo "sonho" acrescentado | Texto narrativo |
+| Exp. 4 | 258 | Único com manipulação externa do transporte: instrução de "fourth-grade" (atenção à forma) | "Two Were Left" (Cave, in Berger, 1956, cerca de 3 páginas) |
+| Pré/pós-teste | 50 | Ancilar | Não detalhado nas notas |
+| Need for cognition | 272 | Correlação | n/a |
+| Absorção (Tellegen) | 59 | Correlação | n/a |
+
+**Amostra:** estudantes de graduação da Ohio State University. [ESTUDO]
+
+**Desenho do grupo controle do Exp. 4:** as notas não detalham o que cada controle recebia. Não descrevo o controle além do que consta: "Controles (N=135 combinados)".
+
+### O que foi medido
+
+- **Transporte** (variável principal): escala de 7 pontos com 11 itens gerais e 4 de imagem, faixa observada de 31 a 99 (teórica de 15 a 105). A análise fatorial exploratória deu três fatores intercorrelacionados (r de .21 a .41). As subescalas quase não previram desfechos, e os autores usaram a escala total. [ESTUDO]
+- **Crenças-alvo** (implicadas pela história, nunca enunciadas): violência, pacientes psiquiátricos, mundo justo; no Exp. 4, índice de crença em escala de 1 a 7. [ESTUDO]
+- **Avaliação dos protagonistas** (ex.: Katie, Exp. 1). [ESTUDO]
+- **Rejeição durante a leitura** (Exp. 2): número de linhas circuladas como "não soam verdadeiros". [ESTUDO]
+- **Rótulo ficção/fato** e checagem de quem o percebeu. [ESTUDO]
+
+**Limite de medida:** o transporte e as crenças foram medidos por autorrelato logo após a leitura. Persistência não foi testada. [ESTUDO, admitido pelos autores]
+
+### Resultado (com tamanhos de efeito)
+
+Os tamanhos de efeito padronizados (d) não são reportados nas notas, e o cálculo de d exige desvios-padrão que não estão lá. Onde há F com graus de liberdade, calculei η² parcial a partir do F, como `F / (F + gl_erro)`. Esses valores são [INFERÊNCIA] minha, a partir dos números das notas, e não aparecem no artigo.
+
+**Exp. 1:**
+- Transporte alto associado a crenças consistentes com a história. Violência: p = .025 unilateral (Tabela 2). Pacientes psiquiátricos: p = .03 unilateral. [ESTUDO]
+- Avaliação de Katie: 47,96 vs 43,04, F(1,83) = 10,52, p < .01. η² parcial ≈ .11 [INFERÊNCIA]. A escala dessa avaliação não está nas notas.
+- Rótulo ficção/fato não alterou transporte: F(1,94) < 1, η² parcial < .011 [INFERÊNCIA].
+
+**Exp. 2:**
+- Transporte alto associado a menos linhas circuladas como "não soam verdadeiros": 6,71 vs 17,22, F(1,53) = 4,92, p < .05. η² parcial ≈ .08 [INFERÊNCIA]. Pela direção relatada, 6,71 é o grupo de transporte alto; as notas não deixam isso explícito.
+- Absorção (Tellegen) não explicou crença: sem efeito. Need for cognition não se associou a crenças nem às linhas circuladas.
+
+**Exp. 3 (replicação):**
+- Rótulo "sonho" não alterou transporte.
+- Crença sobre violência: 11,56 vs 10,78, p = .003 unilateral. Diferença de 0,78; escala não informada nas notas, então não calculo d.
+
+**Exp. 4 (único com manipulação externa do transporte):**
+- Instrução de "fourth-grade" reduziu transporte: 58,97 vs 63,81, F(1,164) = 6,34, p = .01. η² parcial ≈ .04 [INFERÊNCIA]. Diferença de 4,84 pontos na escala de transporte.
+- Índice de crença: 4,65 vs 4,86 (escala 1 a 7), p = .02 unilateral. Diferença de 0,21 ponto. Este é o único desenho do artigo que sustenta uma relação com manipulação, não só correlação, mas o efeito sobre a crença é pequeno.
+- Avaliação do cão: p = .001 unilateral.
+- Controles (N=135 combinados) tiveram crença menor que a condição narrativa: F(1,299) = 12,34, p < .01. η² parcial ≈ .04 [INFERÊNCIA].
+
+**Correlações** (r² calculado por mim [INFERÊNCIA]):
+- Need for cognition: r = .09, n.s. (r² ≈ .01).
+- Absorção (Tellegen): r = .24, p < .05, N = 59 (r² ≈ .06).
+- Relevância pessoal: r = .26 (r² ≈ .07). Impacto na vida: r = .28 (r² ≈ .08). Envolvimento de tarefa: r = −.20 (r² ≈ .04). [ESTUDO]
+
+**Pré/pós-teste (N=50):** crença inicial não previu transporte; transporte previu mudança de crença. Resultados completos estão em Green (1996), não consultado. [ESTUDO]
+
+**Ponto de atenção nas notas:** há comparação de 62,31 vs 73,94 (Bubbles in the Mall, F(1,36) = 7,36, p < .01, N = 38; η² parcial ≈ .17 [INFERÊNCIA]), mas a Tabela 4 indica 72,44 para "Murder at the Mall". As notas não deixam claro qual das médias de 73,94 ou 72,44 corresponde ao texto de maior transporte. Não use esse número sem checar o original.
+
+### Moderadores
+
+- **Rótulo ficção/fato:** não alterou o transporte médio nos Exp. 1 a 4. Houve efeitos pontuais em subamostras. Muitos participantes erraram o rótulo (Exp. 1: 19 e 13 em grupos de cerca de 50). Os autores atribuem o erro ao realismo descritivo, citando *source monitoring* (Johnson et al., 1993). [ESTUDO]
+- **Need for cognition:** não moderou nem previu. [ESTUDO]
+- **Absorção (Tellegen):** correlaciona com transporte (r = .24), mas não explicou crença. [ESTUDO]
+- **Envolvimento tradicional e relevância pessoal:** correlacionam com transporte (Exp. 4). [ESTUDO]
+- **Simpatia pelos protagonistas:** mediação testada só em nota de rodapé (Exp. 3), e só para a mensagem "crime doesn't pay". A Figura 1 (mediação, Exp. 4) tem coeficientes ilegíveis na extração; não os reporto. [ESTUDO + limite de extração]
+- **Qualidade do texto:** a hipótese de "hegemonia do texto" (Bloom, 1994) é controversa; os autores a testam e, no essencial, a rejeitam: transporte não depende só de instruções ou rótulos. [ESTUDO]
+- **Crença inicial:** não previu transporte no pré-teste. [ESTUDO]
+
+### Replicação e críticas
+
+- **Replicação interna:** o Exp. 3 replica o Exp. 1 com rótulo "sonho". Não há replicação externa nas notas.
+- **Limites admitidos pelos autores:** correlacional nos Exp. 1 a 3 (sem causalidade); crenças medidas só logo após a leitura; amostra de estudantes de graduação; um texto nos Exp. 1 a 3; mediação só em nota de rodapé. [ESTUDO]
+- **Críticas identificadas nas notas (não dos autores):**
+  - Os valores de p do artigo são unilaterais, mas o texto corrido mistura unilaterais e bicaudais. Exemplo: violência no Exp. 1 aparece como F = 3,85, p = .05 no texto e p = .025 na Tabela 2.
+  - r = .24 com N = 59 dá p bicaudal de cerca de .07 (cálculo meu, t(57) ≈ 1,87). O artigo reporta p < .05. Isso só fecha se o teste for unilateral. [INFERÊNCIA]
+  - Tabela 3, Exp. 1: desvio-padrão de 29,99 (Joan Mason), anômalo. Pode ser erro de extração ou do original; não verificado.
+  - Índice "just world" com alfa de .28 (notas 3 e 4), que o texto não discute.
+  - N do Exp. 1 é 97 no texto e 95 nas análises; as tabelas usam outros Ns.
+- **Replicações e críticas externas:** não constam nas notas. Não as afirmo.
+
+### O que autoriza concluir para vídeo longo
+
+Autoriza, como hipótese para testar, o que foi medido em texto:
+- [ESTUDO] Narrativas com personagem, conflito e questões em aberto produziram absorção (transporte) medida por autorrelato logo após a leitura de textos de 3 a 9 páginas. A definição operacional de narrativa do artigo (questões sem resposta, conflitos não resolvidos, personagens que enfrentam e resolvem crises, início-meio-fim) é a parte mais reutilizável. Uso como critério de ofício, não como dose.
+- [ESTUDO] Crenças implicadas pela história, não enunciadas, foram medidas (Exp. 1 a 4). Para roteiro, isso sugere que a tese pode ser sustentada pela cena, não pela frase-resumo. [ADAPTAÇÃO]
+- [ESTUDO, Exp. 4] Reduzir a absorção por tarefa de atenção à forma reduziu o transporte em 4,84 pontos e a crença em 0,21 ponto (escala 1 a 7). A associação transporte → crença aparece com manipulação, mas com efeito pequeno.
+
+**Condição:** texto curto, leitura inteira, amostra universitária, medida imediata. Nenhuma dessas condições é a de um vídeo de 30 minutos no YouTube.
+
+### O que não autoriza
+
+- **Qualquer efeito sobre retenção, AVD, APV, CTR, abertura ou duração.** O artigo não mede comportamento de assistir. Pelo que as notas trazem, não há dado de vídeo.
+- **Payoff e retenção.** O Exp. 4 mostra que um desfecho positivo e um negativo produziram transporte, mas o artigo não mede como o payoff afeta a permanência. [NÃO VALIDADO EM LONG-FORM]
+- **Ritmo, atos, loops abertos e intervalo entre loops.** As notas dizem explicitamente que o trecho não sustenta divisão em atos nem intervalos; a aplicação a 30 minutos é minha, [INFERÊNCIA], e não tem validação.
+- **Persistência.** Os autores propõem que o transporte pode ser "mais persistente" que a persuasão retórica, mas não mediram persistência. É hipótese, não achado.
+- **Causalidade transporte → crença** fora do Exp. 4. Nos Exp. 1 a 3, é correlação.
+- **Generalização para públicos fora de estudantes universitários** e para formato de vídeo, de áudio ou de canal.
+- **Que histórias "fazem as pessoas ficarem".** O artigo fala de absorção e crença, não de permanência.
+
+### Aplicação prática
+
+Todas as recomendações abaixo são hipóteses de ofício. Nenhuma é dose.
+
+1. **Checklist de qualificação de bloco narrativo** [ADAPTAÇÃO da definição de narrativa do artigo]. Para cada bloco, marque: há uma questão em aberto? Há conflito não resolvido? Há personagem que enfrenta uma crise? Há início, meio e fim no bloco? Se o bloco não marca nenhum item, ele é exposição de informação, não narrativa, e o roteiro deve justificar por que está ali.
+   - *Condição:* vale para blocos de caso ou de personagem. Não vale para blocos de contexto técnico, onde o formato expositivo é o adequado.
+   - *Limitação:* a definição é do autor, não foi testada contra retenção, e não há nas notas uma medida de quanto cada item pesa.
+
+2. **Tese pela cena, não pelo resumo** [ADAPTAÇÃO do Exp. 1 a 3]. Hipótese: a crença que o canal quer instalar se sustenta melhor quando a cena a implica do que quando o narrador a enuncia. Não há como medir crença pelas métricas públicas do YouTube. Não use isso como métrica de desempenho.
+
+3. **Rótulo não compra absorção.** O Exp. 1 a 4 mostra que rotular a história como "ficção" ou "fato" pouco mudou o transporte. Para canal dark, isso significa que o rótulo não é uma alavanca de envolvimento. Também significa que o realismo da narração leva parte do público a confundir ficção com fato (Johnson et al., 1993, citado pelos autores). **Isso não autoriza inventar.** A regra de fato com fonte da skill continua valendo: a narração realista sem fonte é justamente o caso em que o público erra a classificação.
+
+4. **Teste possível, com custo.** Medir transporte exige uma pergunta pós-vídeo fora da plataforma (pesquisa, formulário). Os itens da escala não estão nas notas (a Tabela 1 não foi transcrita), então não há como aplicar a escala validada. Se for feito, usar a escala original do artigo, não um substituto.
+
+### Relação com a base
+
+**Ponto a verificar antes de atribuir.** O resumo da base que recebi não cita Green & Brock (2000) diretamente, e as notas não dizem se algum documento o cita por fonte secundária. Pelo índice, os pontos prováveis de contato são:
+- `07_biblioteca_cientifica.md`, §3.3 ("Final, suspense e transporte") e §5.6 ("Fontes lidas em parte ou não lidas").
+- `15_mapa_persuasao_por_narrativa.md`, §1 e §4 (o índice não mostra o conteúdo das seções).
+- `17_fichas_da_biblioteca.md`, ficha de van Laer et al. (2014), *Extended Transportation-Imagery Model*.
+
+Não li essas seções. Antes de registrar uma correção, rode `grep -n "Green" references/07_biblioteca_cientifica.md references/15_mapa_persuasao_por_narrativa.md` e compare com o que está lá.
+
+**O que a leitura integral confirma:**
+- A Regra 6 da SKILL (desfecho vizinho não é retenção; transporte entra como hipótese de ofício, com o que foi medido escrito ao lado). O artigo mede absorção por autorrelato pós-leitura de textos curtos, e nada disso é permanência.
+- A distinção entre transporte e elaboração (processo convergente contra divergente), se a base a usa. O artigo trata as duas como processos distintos.
+
+**O que a leitura acrescenta:**
+- Os números que a base não tinha: efeitos medidos no Exp. 4 (manipulação externa), tamanho do efeito pequeno sobre crença, e a assimetria entre transporte e crença.
+- O achado de que a hegemonia do texto foi rejeitada no essencial. Isso enfraquece a ideia de que "o texto faz tudo" e reforça que a construção da cena importa mais que o rótulo.
+
+**O que não consigo confirmar:** se a base atribuiu a este artigo algum efeito sobre retenção. Se atribuiu, esse uso precisa ser corrigido: o artigo não mede retenção.
+
+### Citações literais
+
+Mantidas no original; tradução minha entre parênteses.
+
+1. "transportation is a convergent mental process" (transporte é um processo mental convergente). Seção *Overview*.
+2. "Public narratives often imply certain beliefs, but without stating them outright." (Narrativas públicas frequentemente implicam certas crenças, mas sem enunciá-las explicitamente.) Seção *Fiction and Belief Change*.
+3. "Character is the driving force in fiction" (O personagem é a força motriz na ficção), citação de Surmelian (1969), na seção *Role of Protagonists*.
 
 ## Ficha: The Extended Transportation-Imagery Model - van Laer et al
 ## Ficha: The Extended Transportation-Imagery Model (van Laer et al., 2014)
@@ -363,6 +1215,148 @@ Estas correções mudam a aplicação e devem ser usadas no lugar das notas:
 - **Confirma ou acrescenta:** cabe checar se a base já separa "persuasão" de "retenção" e se reconhece o limite de duração e plataforma. Se a base não o fizer, este estudo acrescenta essa distinção.
 - **Contradição a verificar:** qualquer trecho da base que trate transportação como causa de retenção está além da evidência deste artigo.
 
+## Ficha: Green & Appel 2024 - Narrative Transportation (review)
+## Ficha de artigo científico: Green & Appel (2024), *Narrative Transportation* (revisão)
+
+**Cobertura da leitura.** O trecho 1 traz o texto da revisão, da introdução à conclusão. O trecho 2 traz a bibliografia (p. 78 a 133 do original), a legenda da Figura 1 (recuperada por OCR, com a figura ilegível) e a Tabela 1 (estímulo de literariedade de Koopman, 2016, sem página indicada). Não há tamanhos de efeito em nenhum dos dois trechos.
+
+---
+
+### Referência
+
+Green, M. C., & Appel, M. (2024). *Narrative Transportation* [artigo de revisão]. Periódico, volume, páginas e DOI não constam nas notas. Verificar na fonte antes de citar.
+
+Conceito-base: transporte narrativo, "experiência em que todos os processos mentais (atenção, emoção e imagética) se concentram nos eventos da narrativa" (Gerrig, 1993; Green & Brock, 2000), citado pelo autor.
+
+### Desenho e amostra
+
+- **Tipo:** revisão de literatura. Não é estudo original, então não tem amostra própria.
+- **Método:** o trecho não descreve busca, critérios de inclusão nem número de estudos revisados.
+- **Amostras dos estudos citados, como o autor as descreve (não verificadas):**
+  - van Laer et al. (2014): meta-análise de 76 artigos. [ESTUDO citado pelo autor]
+  - Laurino Dos Santos & Berger (2022): 40.000 roteiros de filmes e 10.000 legendas de episódios de TV. [ESTUDO citado pelo autor]
+  - Isberner et al. (2018 ou 2019; o ano é inconsistente no texto): excertos de filmes Disney de cerca de 10 minutos comparados com texto de cerca de 1.000 palavras. [ESTUDO citado pelo autor]
+  - Murphy et al. (2011): seis episódios de *Desperate Housewives*. [ESTUDO citado pelo autor]
+  - Ratcliff & Sun (2020): meta-análise, número de estudos não consta. [ESTUDO citado pelo autor]
+- **Dados do YouTube:** nenhum estudo citado no trecho usa dados do YouTube. A única referência ao YouTube é van Kessel, Toor e Smith (2019), citada só pelo título, sem métrica nem amostra descritas.
+
+### O que foi medido (nos estudos citados)
+
+Como revisão, o artigo não mede nada. Descreve as medidas usadas nos estudos citados:
+
+- Escalas de transporte, com componente de estado e componente de traço (Gnambs et al., 2014). [ESTUDO citado pelo autor]
+- Medida contínua de atenção e presença ao longo do tempo (Tchernev et al., 2023). [ESTUDO citado pelo autor]
+- Tempo de reação e memória em trechos de filme (Bezdek & Gerrig, 2017). [ESTUDO citado pelo autor]
+- Atitudes, crenças, conhecimento e intenção de parar de fumar (Kim et al., 2012; Williams et al., 2011; Dunlop et al., 2010; Murphy et al., 2011). [ESTUDO citado pelo autor]
+- Preocupação com o clima após um filme (Leiserowitz, 2004). [ESTUDO citado pelo autor]
+- Desejo de ler o próximo capítulo (Schibler et al., em publicação; não verificado). [ESTUDO citado pelo autor]
+
+**Nenhuma das medidas acima é de retenção, tempo assistido ou permanência em vídeo.**
+
+### Resultado (com tamanhos de efeito)
+
+**Tamanhos de efeito: não constam no trecho para nenhum estudo.** Não completei com valores de outras fontes. Os achados, em forma qualitativa e como o autor os apresenta:
+
+1. **Narrativa como processo dinâmico.** O foco de transporte varia ao longo da história (seção 1.2.1). [ESTUDO citado pelo autor — teoria]
+2. **Estrutura causal.** Eventos embaralhados aleatoriamente reduzem o transporte (Appel et al., 2015; Wang & Calder, 2006; Schreiner et al., 2018). [ESTUDO citado pelo autor]. Quebras de tempo, espaço ou causalidade sem sinalização fazem o leitor desacelerar (Zwaan et al., 1995). [ESTUDO citado pelo autor]
+3. **Fluxo emocional.** Mudanças de emoção ao longo da história podem sustentar o interesse (Nabi & Green, 2015). O autor diz que as variáveis "devem" se associar, sem tamanho de efeito informado. [ESTUDO citado pelo autor]
+4. **Distração concorrente.** Carga cognitiva ou distrações durante a leitura reduzem o transporte. Carga depois da história não afeta (Hamby et al., 2017; Zwarum & Hall, 2012). [ESTUDO citado pelo autor]
+5. **Expectativa.** Avaliações positivas prévias aumentam o transporte (Tiede & Appel, 2020, e outros). [ESTUDO citado pelo autor]
+6. **Rótulo de fato ou ficção.** Em geral, rotular como fato ou ficção não altera o transporte. [ESTUDO citado pelo autor]
+7. **Asserção em posição causal.** Afirmações em posição causal são percebidas como mais verdadeiras, e o efeito persistiu por duas semanas (Dahlstrom, 2012). [ESTUDO citado pelo autor]
+8. **Cliffhanger.** Aumenta o desejo de ler o próximo capítulo sem reduzir o prazer. Estudo com textos escritos, em publicação. [ESTUDO citado pelo autor]
+9. **Narrativas geram menos resistência que não narrativas** (Ratcliff & Sun, 2020). [ESTUDO citado pelo autor]
+10. **Estudos correlacionais de roteiros.** Progressão semântica lenta no início e rápida no fim está associada a notas maiores no IMDB (Laurino Dos Santos & Berger, 2022). Os autores não separaram conteúdo (fábula) de edição (syuzhet). [ESTUDO citado pelo autor]
+
+**Divergência interna das notas (não resolvida):** a nota do trecho 1 (seção 7) atribui a Hamby & Brinberg (2016) a conclusão de que finais positivos aumentam crenças consistentes com a história. O trecho 2 lista o mesmo estudo só pelo título e diz que o trecho não traz nenhum achado dele. Não é possível saber se a afirmação vem do artigo de revisão ou de uma leitura de terceiros. Não usar até conferir na fonte.
+
+### Moderadores
+
+Pela legenda da Figura 1 (reconstruída a partir de OCR; conferir no PDF):
+
+- **Traços do destinatário:** propensão geral ao transporte, necessidades e personalidade, experiência com o tema. Imagética visual: pessoas com baixa imagética foram mais transportadas pelo filme do que pelo texto (Isberner et al.). [ESTUDO citado pelo autor]
+- **Estado versus traço:** o componente de traço existe, mas é menor que o de estado (Gnambs et al., 2014). [ESTUDO citado pelo autor] Isso sugere que o que acontece dentro do vídeo pesa mais que o perfil fixo do espectador. [INFERÊNCIA]
+- **Características da história:** narratividade, literariedade, mídia e modalidade. Estrutura não cronológica aumentou suspense e transporte em *Memento* e *Pulp Fiction* (Huang & Grizzard, 2022). [ESTUDO citado pelo autor]
+- **Situação:** paratexto, avaliações, objetivo de leitura, tarefas secundárias, ambiente. [ESTUDO citado pelo autor] Tan (1996) mostra que avaliações prévias mudam a expectativa e, com ela, o transporte.
+- **Momento da carga:** o efeito depende de a carga ocorrer durante a história, e não depois. [ESTUDO citado pelo autor]
+
+### Replicação e críticas
+
+- O trecho não discute replicação nem críticas sistemáticas a nenhum dos estudos.
+- Vários estudos citados estão "em publicação" ou "no prelo" (Schibler et al.; Lu et al.; Huang & Green; Andreeva & Green; Fitzgerald et al.). Não verificados. [PRATICANTE — nota de leitura]
+- Quase todos os resultados citados são de laboratório, com textos de até cerca de 1.000 palavras ou excertos de minutos.
+- Limitação do estudo de Laurino Dos Santos & Berger (2022): correlacional, sem separação entre fábula e edição. [ESTUDO citado pelo autor]
+- Erros no texto: Isberner com ano inconsistente; "Hofner" por Hoffner; Ballard, Davis e Hoffner (2021) aparece duas vezes. Figura 1 e Tabela 1 com conteúdo ausente ou ilegível. Numeração duplicada de seção 4.5.
+
+### O que autoriza concluir para vídeo longo
+
+Pouca coisa diretamente. Autoriza:
+
+1. **Transporte é um estado que varia dentro da narrativa**, não um traço fixo do espectador (seção 1.2.1). Isso é compatível com a leitura de curvas, em que queda e pico podem ter causas diferentes. [INFERÊNCIA — a confirmar com 04 §1]
+2. **Eventos sem conexão causal não são lidos como narrativa**, e saltos sem sinalização desaceleram a compreensão. Teoria e estudos de texto e excerto. [ESTUDO citado pelo autor]
+3. **Distrações concorrentes durante a exposição reduzem o transporte.** Estudos de até cerca de 10 minutos, em laboratório. [NÃO VALIDADO EM LONG-FORM]
+
+### O que não autoriza
+
+- **Qualquer relação com retenção em 30, 60 ou 90 segundos, AVD ou APV.** Os desfechos são atitudes, crença, comportamento, self, cognição social, pertencimento e conhecimento. Nenhum é retenção. A skill já proíbe usar desfecho vizinho como dose ou prova (`SKILL.md`, "Regras em todas as etapas", item 4; ver também `15` §5, `12` §5, `11` §5).
+- **Qualquer dose** de hook, número de blocos, duração de bloco, frequência de loop ou posição de clímax.
+- **Efeito de CTR**, de miniatura ou de título. A revisão cita expectativa e paratexto, mas não mede clique.
+- **Que expectativa ou transporte levam à inscrição, à recomendação ou ao hábito** em canal.
+- **Que o YouTube recompensa narrativas com maior ritmo semântico.** Laurino Dos Santos & Berger (2022) usam IMDB como desfecho, e nota de filme não é retenção.
+- **Que cliffhanger funciona dentro de um vídeo único.** O estudo é de capítulos escritos, em publicação.
+- **Que rotular fato como fato não importa**, para justificar a omissão de fontes. O resultado é de laboratório e não mede credibilidade ao longo de um canal. Pela skill, a checagem de fato continua obrigatória.
+
+### Aplicação prática
+
+Cada achado fica como hipótese de ofício, com o que foi medido escrito ao lado. Nada disso vira dose.
+
+| Etapa | Achado | Transferência | Cuidado |
+|---|---|---|---|
+| Ideia | A história precisa de eventos causalmente conectados, com protagonista, meta e conflito. [ESTUDO citado pelo autor — teoria] | [ADAPTAÇÃO] Usar como checklist: cada evento liga-se ao anterior por causa ou consequência. | Validado com textos curtos, não com vídeos de 30 minutos. |
+| Título e miniatura (paratexto) | Avaliações e paratexto mudam a expectativa e o transporte. [ESTUDO citado pelo autor] | [ADAPTAÇÃO] A relação com a promessa do pacote é [INFERÊNCIA]: expectativa moldada pela embalagem, e o estudo não mede se a promessa foi paga. | O estudo mede avaliações, não título nem CTR. Ver `08` §5 e `03` §3. |
+| Hook (0 a 90 s) | Atenção focada aumenta em pontos de suspense (Bezdek & Gerrig, 2017). [ESTUDO citado pelo autor] | [ADAPTAÇÃO] A medida foi tempo de reação e memória em trechos curtos de filme. | Não há janela de 30 s nem dose. Não usar para fixar duração do hook. |
+| Roteiro: clareza | Saltos de tempo, espaço, agente ou causa sem sinalização desaceleram a leitura (Zwaan et al., 1995). [ESTUDO citado pelo autor] | [DIRETO] como princípio de checagem: cada salto tem sinal explícito. | O estudo é de texto escrito. Não dá tempo de vídeo. |
+| Ritmo e emoção | Mudança de emoção ao longo da história sustenta o interesse. [ESTUDO citado pelo autor] | [ADAPTAÇÃO] Hipótese para a curva própria do canal. | Sem tamanho de efeito e sem intervalo em minutos. Não há curva de vídeo de terceiros. |
+| Ritmo semântico | Progressão lenta no início e rápida no fim, associada a IMDB. [ESTUDO citado pelo autor] | [NÃO VALIDADO EM LONG-FORM] | Correlacional. IMDB não é retenção. |
+| Distrações e ambiente | Carga concorrente reduz o transporte. [ESTUDO citado pelo autor] | [NÃO VALIDADO EM LONG-FORM] Possível analogia: muitos nomes, datas e números no mesmo trecho podem funcionar como carga concorrente. [INFERÊNCIA] | Lab, até cerca de 10 minutos. Testar antes de assumir. Relacionar com `04` §8 (fadiga cognitiva). |
+| Caso real (checagem) | Afirmações em posição causal parecem mais verdadeiras por até duas semanas (Dahlstrom, 2012). [ESTUDO citado pelo autor] | [INFERÊNCIA] Isso torna a checagem de fato mais importante, não menos. | Não é argumento para omitir fonte. |
+| Série (ligação entre episódios) | Cliffhanger aumenta o desejo de continuar. [ESTUDO citado pelo autor, em publicação] | [ADAPTAÇÃO] Para ponte entre vídeos de uma série, não para dentro de um vídeo. | Estudo de texto escrito, não verificado. |
+| Payoff | Final positivo e crença consistente (Hamby & Brinberg, 2016). | Suspenso até conferir a fonte. | Ver divergência interna acima. |
+
+Itens que não entram: o resultado de Appel & Mengelkamp (2022), sobre telas pequenas, e o de Schmälzle et al. (2022), sobre picos de engajamento, aparecem só pelo título. Antes de usá-los, é preciso ler os textos.
+
+### Relação com a base
+
+Limite desta relação: nesta chamada recebi o índice da base e o resumo dos documentos, não o texto das seções citadas abaixo. A comparação é, portanto, pelo título e pela regra explícita na skill. Antes de fechar, conferir cada seção.
+
+**Confirma:**
+- **Skill, "Regras em todas as etapas", item 4, e `15` §5 ("O que não transportar para vídeo longo de canal dark").** A revisão mede atitudes, crença, comportamento e self. Nenhum desfecho é retenção. Isso confirma que transporte entra só como hipótese de ofício.
+- **Padrão da base de não transportar evidência de laboratório.** Compare com o Master Playbook, `01` §1, item 4, sobre segmentação: o efeito de laboratório não autoriza dose em narrativa de canal. Mesma lógica aqui.
+
+**Acrescenta (a conferir):**
+- **`04` §3 ("Mecanismos de sustentação que não são suspense").** A revisão dá mais mecanismos não ligados a suspense: fluxo emocional, expectativa e carga concorrente. Verificar se a seção já os cobre.
+- **`04` §1 (leitura de curvas).** Transporte como estado dinâmico pode servir de hipótese para quedas e picos, sem ser prova.
+- **`05` §2.4 (escalada) e `05` §2.5 (reviravoltas).** O fluxo emocional pode ser a hipótese de ritmo. Conferir antes de ligar.
+
+**Pendências de verificação:**
+- **`07` §3.3 ("Final, suspense e transporte") e `07` §5.4 (força de evidência).** O índice mostra que a biblioteca já trata de transporte. Não sei se `07` cita este artigo por fonte secundária, nem o que diz. A ficha de artigo exige dizer se a leitura integral confirma, corrige ou acrescenta. Não consigo dizer isso sem o texto de `07`.
+- **`17` (ficha de van Laer et al., 2014, linhas 119 a 255).** Esta revisão cita a meta-análise de 76 artigos sem tamanho de efeito. A ficha 17 deve ser consultada para o número. Não preencher daqui.
+- **`06` §7 (picos de "most replayed").** Schmälzle et al. (2022) pode ser relevante, mas só o título foi lido. Verificar antes de relacionar.
+
+**Contradiz:** nada diretamente. A divergência sobre Hamby & Brinberg está dentro das notas, não entre a revisão e a base.
+
+### O que não usar
+
+1. **Desfechos de transporte como proxy de retenção, AVD ou inscrição.** Não medidos. Ver `15` §5 e a skill.
+2. **Laurino Dos Santos & Berger (2022) como regra de ritmo.** Correlacional, IMDB como desfecho, fábula e edição não separadas.
+3. **Hamby & Brinberg (2016) sobre finais positivos.** A fonte da afirmação está em conflito nas notas. Usar só depois de conferir na fonte.
+4. **Cliffhanger "em publicação" como regra para vídeo único.** Estudo de texto escrito, não verificado, e fora do formato.
+5. **Isberner et al. como prova de que filme prende mais que narração.** Compara filme com texto, não narração com imagem de apoio. A diferença é de meio e de amostra.
+6. **Figura 1 como evidência.** É um esquema, reconstruído por OCR a partir de fragmentos. Serve de checklist de variáveis, não de achado.
+7. **Metáfora de *Infinite Jest* na conclusão.** Ilustração do autor, sem dado. [CASO]
+8. **"Fato ou ficção não altera transporte" para justificar conteúdo não checado.** A skill exige checagem de fato em todo caso, independentemente do efeito sobre transporte.
+9. **Van Kessel, Toor & Smith (2019)** sobre o YouTube. Citado só pelo título, sem métrica nem amostra no trecho.
+
 ## Ficha: Impact of Narratives on Persuasion in Health Communication - Shen et al
 ## Ficha: Shen, Sheer & Li (2015), *Impact of Narratives on Persuasion in Health Communication*
 
@@ -517,6 +1511,267 @@ Quase nada diretamente. O que o trecho sustenta, com a ressalva de que o desfech
 - **Segmentação por gênero** ou por população. Diferenças não significativas.
 - **Os exemplos de Murphy, Moran e Hopfer como molde de roteiro.** Servem para mostrar a variância entre estudos, não como modelo de estrutura. Não há descrição do conteúdo das narrativas.
 - **As conclusões de Allen & Preiss e de outras meta-análises citadas**, sem leitura própria. [ESTUDO citado pelo autor]
+
+## Ficha: Berger & Milkman 2012 - What Makes Online Content Viral
+## Ficha de artigo científico: Berger & Milkman (2012)
+
+**Referência.** Berger, J., & Milkman, K. L. (2012). What makes online content viral? *Journal of Marketing Research*, 49(2). O cabeçalho traz "© 2011"; a citação aceita é 2012. DOI e URL não constam nas notas.
+
+**Status da leitura.** Texto integral, em trecho único (abstract, introdução, três estudos, discussão geral, referências e Web Appendix). Lacunas: a Figura 1 (mapa da home page) e a matriz de correlações do Apêndice estão ilegíveis no OCR. Parte das tabelas foi lida com ressalvas (ver "Replicação e críticas").
+
+---
+
+### Desenho e amostra
+
+- **Estudo 1 (campo, dados do *New York Times*):** 6.956 artigos que passaram pela home page entre 30/08/2008 e 30/11/2008, coletados por crawler a cada 15 minutos. Regressão logística com efeitos fixos por dia e erros-padrão agrupados por dia. Dois mil quinhentos e sessenta e seis artigos foram codificados à mão. [ESTUDO citado pelo autor; desenho próprio dos autores]
+- **Estudo 2a (N = 49), 2b (N = 45) e Estudo 3 (N = 47):** experimentos com manipulação de emoção em um mesmo conteúdo. Estímulos: campanha Jimmy Dean (humor alto e baixo, adaptado de McGraw & Warren, 2010), incidente United "Smashes/Dents" Guitars (raiva alta e baixa) e artigo sobre ferimentos do 11/9 (tristeza alta e baixa). [ESTUDO citado pelo autor]
+
+**Dados fora do YouTube.** Os dados são de artigos de texto do NYT. O YouTube aparece só na introdução, como exemplo de conteúdo compartilhado. Não há vídeo na amostra.
+
+---
+
+### O que foi medido
+
+- **Desfecho de campo ("viralidade" operacional):** entrar (sim/não) na lista *most e-mailed* do NYT nas últimas 24 horas. Os autores não têm contagem real de e-mails. Entraram 20% dos artigos. [INFERÊNCIA: o desfecho é uma categoria de exposição, não visualização nem tempo assistido.]
+- **Desfecho experimental:** intenção de compartilhar, autorreportada, em escala de 1 a 7.
+- **Preditores de texto:** valência e emocionalidade por LIWC, com dicionário de 7.630 palavras; awe, raiva, ansiedade, tristeza, utilidade, interesse e surpresa, codificados por três avaliadores cegos à hipótese, em escala de 1 a 5. Confiabilidade "all α's > .70" (o coeficiente não é nomeado no texto).
+- **Controles externos:** posição e tempo na home page, seção, horário, fama do autor (hits no Google, em log), gênero do autor, complexidade (SMOG), contagem de palavras e efeito-dia.
+- **Mediador:** ativação (*arousal*), por três escalas de 7 pontos (passivo/ativo, calmo/animado, pouca/muita energia). α = .82.
+
+---
+
+### Resultado (com tamanhos de efeito)
+
+**Estudo 1: efeitos com controles (Tabela 4, Modelo 4; leitura do OCR).** Coeficientes como reportados nas notas:
+
+| Preditor | Coeficiente | Efeito padronizado (Figura 2, lido do texto) |
+|---|---|---|
+| Raiva | .38*** | +34% (+1 DP) |
+| Awe | .34*** | +30% |
+| Utilidade | .34*** | +30% |
+| Interesse | .29*** | +25% |
+| Ansiedade | .24*** | +21% |
+| Emocionalidade | .22*** | +18% |
+| Positividade | .16*** | +13% |
+| Tristeza | −.17* | −16% |
+| Tempo no topo da home | — | +20% |
+
+- **Comparação de magnitude (texto):** +1 DP de raiva equivale a "2.9 hours as the lead story", quase quatro vezes a média de horas nessa posição.
+- **Robustez (Modelo 6, só os 2.566 codificados):** positividade .23***, awe .36***, raiva .37***, ansiedade .27***, tristeza −.16*. Os autores relatam robustez a efeitos de dia, controle por seção e oito checagens do Apêndice.
+- **Desfechos alternativos (Tabela WA3):** maior posição alcançada (ordered logit) e horas na lista (OLS). Os efeitos de ativação se repetem na posição; em horas, são mais fracos e quase todos não significativos.
+
+**Estudos experimentais.** Médias, teste e tamanho de efeito. O η²p é meu cálculo a partir de F e graus de liberdade reportados; não é valor publicado.
+
+| Estudo | N | Contraste | Médias | Teste | η²p [INFERÊNCIA] | Mediação por ativação (Sobel) |
+|---|---|---|---|---|---|---|
+| 2a (humor) | 49 | alto vs. baixo | 3,97 vs. 2,92 | F(1,47) = 10,89; p < .005 | ≈ 0,19 | z = 2,02; p < .05 |
+| 2b (raiva) | 45 | alta vs. baixa | 5,71 vs. 3,37 | F(1,43) = 18,06; p < .001 | ≈ 0,30 | z = 1,95; p = .05 (limítrofe) |
+| 3 (tristeza) | 47 | alta vs. baixa | 2,39 vs. 3,80 | F(1,46) = 10,78; p < .005 | ≈ 0,19 | z = −2,32; p < .05 |
+
+Diferença bruta (intenção, escala 1–7): 2a = 1,05; 2b = 2,34; 3 = 1,41 (na tristeza, a intenção é menor). Não há d de Cohen, porque as notas não trazem desvios-padrão.
+
+---
+
+### Moderadores
+
+O estudo não testa moderação formal. O que existe:
+
+- **Mediação** por ativação, em cada experimento (Sobel, amostra pequena).
+- **Controles** de posição na home page, seção e fama do autor. Fama associou-se a entrar na lista (.17***). A autora mulher também aparece (.36***). Ambos são controles, não achados.
+- **Pesquisa futura citada pelos autores, não testada:** tamanho da audiência (*narrowcasting* vs. *broadcasting*), clima e *priming*.
+
+---
+
+### Replicação e críticas
+
+**Replicação.** As notas não registram replicação deste estudo.
+
+**Limites declarados pelos autores:**
+- Não há dados de envio real de e-mails.
+- A lista é binária e de 24 horas.
+- Artigos no topo da lista ganham exposição extra.
+- O efeito de tempo na home page não é separado do efeito do conteúdo com clareza causal.
+- Intenção de compartilhar é autorreportada, não compartilhamento real. O Estudo 3 muda também o tema junto com a emoção.
+
+**Limites que a leitura adiciona [INFERÊNCIA]:**
+- Um único veículo, um único período (2008).
+- A emoção é codificada sobre o artigo inteiro, sem dimensão temporal.
+- O desfecho é entrada em lista, não visualização, retenção ou AVD.
+- Os experimentos têm N entre 45 e 49, e a mediação por Sobel é frágil nessa faixa.
+
+**Problemas do texto (registrados nas notas):**
+- **Odds vs. probabilidade:** o texto diz que +1 DP de raiva "increases the odds … by 34%"; a Figura 2 diz "% Change in Fitted Probability". São medidas diferentes, e não é possível saber qual está certa.
+- **OCR da Tabela 4:** raiva no Modelo 3 aparece como "..44***" e emocionalidade como "..27***". O sinal positivo vem do texto ("positively linked"), mas o valor exato não se confirma. Raiva no Modelo 4 ("..38***") precisa ser conferida no PDF original.
+- **Estudo 2b:** p = .05 na mediação, tratado no texto como significativo.
+- **Texto × Tabela WA3:** o texto diz que tempo assistido cresce com conteúdo mais afetivo e mais interessante. A tabela só mostra significância para interesse (1,85†, p < .10) e emocionalidade (2,25**). Não há significância para awe, raiva ou ansiedade em horas.
+- **Número de artigos:** o texto diz "nearly 7000"; a tabela diz 6956. Usei 6956.
+
+---
+
+### O que autoriza concluir para vídeo longo
+
+Nada diretamente. O estudo não cobre vídeo, duração, retenção, estrutura temporal nem thumbnail.
+
+Autoriza apenas a direção do efeito, em texto de notícia, para intenção ou entrada em lista de compartilhamento: conteúdo de alta ativação (raiva, ansiedade, awe) associa-se mais a compartilhamento do que conteúdo de baixa ativação de mesma valência; tristeza reduz compartilhamento.
+
+Contagem de palavras associou-se a entrar na lista (.52***). É medida de texto, não de duração de vídeo. Não transferir.
+
+---
+
+### O que não autoriza
+
+- Qualquer dose de duração, de minuto ou de frequência de emoção para vídeo de 10 a 60 minutos.
+- Que emoção alta **aumenta retenção** ou AVD. O desfecho não é retenção.
+- Que "viral" (lista de 24 horas) equivale a alcance, a visualização ou a permanência.
+- Que o resultado vale para títulos ou thumbnails de vídeo. Não houve análise separada de título.
+- Que a associação com fama do autor se aplique a canal faceless. Não há dado para isso.
+- Que compartilhamento indique satisfação do espectador. O índice do doc. 08 trata satisfação como dimensão separada (§3); conferir antes de usar.
+
+---
+
+### Aplicação prática
+
+Transferência por etapa, como indicado nas notas:
+
+| Etapa | Transferência | Observação |
+|---|---|---|
+| Ideia | [ADAPTAÇÃO] preferir temas de alta ativação a tristeza | O critério do estudo é compartilhar, não permanecer. AVD sem evidência aqui. |
+| Título | [NÃO VALIDADO EM LONG-FORM] | Não houve efeito separado do título. Regra sobre palavras emocionais é inferência. |
+| Thumbnail | não consta | Não há análise de imagem nem de capa. |
+| Hook (30/60/90 s) | não consta | O estudo não tem unidade temporal. Qualquer regra é [INFERÊNCIA]. |
+| Roteiro | não consta | Não há atos, blocos nem alternância de emoção no tempo. |
+| Retenção | [NÃO VALIDADO EM LONG-FORM] | Desfecho é entrada em lista. Sem curva, sem AVD, sem APV. |
+| Payoff | não consta | — |
+| Canal | [ADAPTAÇÃO] análogo de fama = reconhecimento da marca | Sem dado para medir. |
+
+**Teste que o canal pode executar** (hipótese a refutar, não achado):
+1. Codificar 30 a 40 vídeos próprios, ou de faixa comparável, em blocos de 60 segundos. Usar três avaliadores e definir antes o critério de concordância (ex.: α ≥ .70, como no estudo).
+2. Para cada bloco, codificar ativação (alta/baixa) e a presença de pergunta ou promessa aberta.
+3. Cruzar com a curva de retenção do próprio canal (dado do YouTube Analytics, [DADO] quando disponível) e verificar se blocos de alta ativação retêm mais que blocos de baixa.
+4. Limites: correlação, amostra pequena, nenhum controle de tema ou posição. Só serve para refutar a hipótese.
+
+---
+
+### Relação com a base
+
+O resumo da base que recebi não mostra Berger & Milkman (2012) em nenhuma seção listada, e o índice de `17_fichas_da_biblioteca` lista só *Contagious* (Berger, livro). Por isso **não afirmo** que a base cita este artigo por fonte secundária.
+
+Se o documento `13_mapa_viralizacao.md` (§1, §2 ou §5) usar este estudo para sustentar que emoção de alta ativação aumenta o compartilhamento de conteúdo, a leitura integral **confirma** essa direção para texto de notícia. Ela **não sustenta** a extensão para retenção, AVD ou duração de vídeo. Se o doc. 13 fizer essa extensão, a leitura **corrige**. Conferir também §7, que propõe hipóteses a testar com a curva do canal, e alinhar o teste da seção "Aplicação prática" a ela.
+
+---
+
+### Citações literais (das notas)
+
+1. "Virality is partially driven by physiological arousal." (Abstract) [tradução: "A viralidade é parcialmente impulsionada pela ativação fisiológica."]
+2. "Arousal is a state of mobilization." (Seção "The Role of Activation in Social Transmission") [tradução: "A ativação é um estado de mobilização."]
+3. "regardless of their valence, is more viral." (Resultados, "How do specific emotions affect virality?") [tradução: "independentemente de sua valência, é mais viral." Fragmento: a frase completa não consta nas notas.]
+
+## Ficha: Documentary Storytelling - Sheila Curran Bernard
+## Ficha de livro: *Documentary Storytelling*, Sheila Curran Bernard
+
+**Base das notas:** seis trechos de leitura (trechos 1 a 6). Todas as notas registram que a obra não trata de YouTube, canais dark nem vídeos de 10 a 60 min.
+
+### 1. Identificação
+
+- **Obra:** *Documentary Storytelling* (segunda edição, segundo o prefácio), de Sheila Curran Bernard.
+- **Do que trata:** construção de narrativa em documentário de cinema e TV: escolha da ideia, pesquisa, casting, propostas, roteiro, filmagem, edição, narração e ética com material de arquivo. Inclui entrevistas com editores e realizadores (Ascher e Jordan, Pollard, Rabin, Saari, Wambu, Bruce, Hayes, Ric Burns, Else, Fraser, Froemke).
+- **Limite de escopo:** longas de 45 a 90 min, com equipe de produção e edição, emissoras e festivais [CASO, citado nas notas].
+- **Cobertura:** o trecho 3 termina no meio do Cap. 12 (*Shooting*). Nenhuma nota cobre o restante desse capítulo (aprox. p. 192 em diante). Esse trecho não foi lido.
+
+### 2. Tese em três frases
+
+1. Documentário é uma narrativa factual construída pela seleção e pelo arranjo de achados (Barnouw, 1974, citado pela autora), e a estrutura se decide em pesquisa, roteiro e edição, não só na captação.
+2. A história precisa de um eixo (*train*), de personagens com objetivos concretos e de cenas com função declarada; sem eles, desvios e exposição tomam o filme.
+3. O que é verdadeiro limita o que pode ser dramatizado: não se fabrica oponente, não se presume o que alguém sente, não se sugere incerteza sobre um desfecho já conhecido.
+
+### 3. Framework principal
+
+Não há um modelo único. A obra oferece três camadas:
+
+- **Elementos da história (Cap. 2, trecho 1):** exposição "quando a audiência precisa dela"; *train* ("the present-day narrative spine that drives the story forward", trecho 2); tema, distinto do assunto; personagem com objetivo tangível; conflito com antagonista "digno"; escalada de stakes.
+- **Estrutura (Cap. 5 do livro, trecho 2):** shot → cena (com *beats* e *turning point*) → sequência → ato. Inciting incident (o que põe o *train* em movimento) e point of attack (onde o realizador entra) são conceitos separados. Proporções de referência 1/4–1/2–1/4, dadas como "a very rough guide", "rarely this simple" [PRATICANTE, citado; derivadas de filmes de 78–95 min].
+- **Ciclo de edição (trecho 4):** assembly → rough cut → fine cut → picture lock → script lock. Definições da autora: rough cut é "significantly longer" que o final; picture lock é "all of the images are in place and to time" [PRATICANTE].
+
+### 4. Conceitos centrais
+
+- **Train (trilho):** eixo narrativo presente. Desvios para exposição ou personagens são permitidos se o trilho for forte e se houver retorno "em um período razoável" (trecho 1). Sem trilho, o desvio parece sem foco.
+- **Função de cena (Froemke, trecho 5):** cada cena recebe uma função declarada, e a edição é refeita quando a função muda.
+- **Parte versus todo (Burns, trecho 5):** "The part is always seductive and the whole is very elusive." O protagonista precisa ser o assunto.
+- **Anticipate confusion (trecho 4):** a plateia aceita trabalhar para entender, mas desiste quando se perde; a informação entra "where and when it's needed and not before".
+- **Exposição no momento certo (trecho 1):** não é para ser evitada, mas não deve ser despejada no começo.
+- **Resolução (trecho 4):** "Resolution does not mean things are resolved; it means that you've reached a conclusion…" (resolução não significa que tudo foi resolvido; significa chegar a uma conclusão que responde às perguntas levantadas). [PRATICANTE]
+
+### 5. Regras acionáveis
+
+1. **Se** você não consegue contar a história em uma ou duas frases, **então** não roteirize ainda. Apoio: [PRATICANTE] (teste de frase da autora, trecho 4). Transferência: [ADAPTAÇÃO].
+2. **Se** o pitch apresenta o tema mas não a história, **então** ele não gera perguntas de acompanhamento e a história não está definida. Apoio: [PRATICANTE] (trecho 3, p. 136). Transferência: [DIRETO] como teste qualitativo.
+3. **Se** a ideia não tem tema escrito, **então** escreva o tema e depois a história que o transmite, antes de escrever a narração. Apoio: [PRATICANTE] (Pollard, trecho 6, p. 318). Transferência: [DIRETO].
+4. **Se** o desfecho é conhecido, **então** não sugira incerteza. Apoio: [PRATICANTE] (regra da autora, trecho 1). Transferência: [DIRETO].
+5. **Se** o gancho revela um desfecho forte, **então** confira o retorno ao ponto de partida: Pollard diz que a morte antecipada de Langston Hughes "underwhelmed the whole film" (p. 317). Apoio: [CASO]. Transferência: [ADAPTAÇÃO]; o caso não é medido.
+6. **Se** uma informação será usada depois, **então** plante-a cedo, quando ela "won't think it matters", e relembre-a depois. Apoio: [PRATICANTE] e [CASO] (trecho 4). Transferência: [ADAPTAÇÃO].
+7. **Se** você não sabe a finalidade de um trecho de material, **então** não o use ainda. Apoio: [PRATICANTE] (Else, trecho 5). Transferência: [DIRETO].
+8. **Se** cada cena não tem função declarada ("esta cena vai mostrar X"), **então** defina a função antes de editar. Apoio: [PRATICANTE] (Froemke, trecho 5). Transferência: [DIRETO].
+9. **Se** a história tem dois começos, **então** escolha a principal e subordine o outro tema a ela. Apoio: [PRATICANTE] (trecho 4). Transferência: [ADAPTAÇÃO].
+10. **Se** a narração diz o que a imagem já mostra, **então** corte a narração. Apoio: [PRATICANTE] ("know when to stop narrating", trecho 4). Transferência: [DIRETO].
+11. **Se** um dado é central para a tese, **então** confirme em duas fontes independentes; se a estatística veio de intermediário, volte à fonte primária. Apoio: [PRATICANTE] (trecho 2 e trecho 4). Transferência: [DIRETO].
+12. **Se** a informação é importante, **então** dê contexto comparativo ("nearly twice as many as the club could legally hold"). Apoio: [PRATICANTE] (trecho 4). Transferência: [ADAPTAÇÃO].
+13. **Se** o Ato Dois arrasta, **então** insira uma cena com energia própria (Froemke, pep rally em *Lalee's Kin*). Apoio: [PRATICANTE] e [CASO]. Transferência: [ADAPTAÇÃO]. Divergência: Else diz que "the middle part's easy" (trecho 5); Froemke diz o contrário.
+14. **Se** a emoção está sendo forçada, **então** corte a parte que não é honesta (Hayes, trecho 5). Apoio: [PRATICANTE]. Transferência: [ADAPTAÇÃO].
+
+### 6. Exemplos mais úteis
+
+- ***Daughter from Danang*** (trecho 2): três atos com o Ato 1 terminando por volta de 25% da duração; pergunta sobre os pais abre e permanece aberta ("the growing number of questions that remain unanswered", p. 91). Apoio: [CASO, análise do autor, tempos aproximados].
+- ***The Kidnapping of Ingrid Betancourt / Missing Peace*** (trecho 5): sequestro revelado no início; no fim do Ato 1 a história volta ao sequestro. Apoio: [CASO]. Dado de desempenho: não consta.
+- ***Super Size Me*** (trecho 2): compressão de uma refeição de cerca de 45 min em cerca de 2,5 min, com cartões "X minutes later"; títulos de capítulo em torno de 12, 23 e 28 min. Apoio: [CASO, tempos aproximados da análise do autor].
+- ***When the Levees Broke*** (trecho 6): quatro horas em quatro atos, cada hora com começo, meio e fim. Apoio: [CASO].
+- ***Born into Brothels*** (trecho 2): cena do ônibus com início, meio, fim e *turning point* que motiva a cena seguinte. Apoio: [CASO].
+- ***Why He Skied*** (trecho 6): abre com texto na tela e volta seis semanas no tempo; duração final "hovered around 45, 47 minutes". Apoio: [CASO].
+
+Exemplo construído pelo autor (trecho 4, "mãe e filha com bife"): ilustração, não caso real.
+
+### 7. Evidência e limites
+
+- **Estudo citado:** nenhum. Nenhuma das seis notas registra estudo com amostra, desenho ou tamanho de efeito. Não há [ESTUDO citado pelo autor].
+- **Praticante e caso:** quase tudo é [PRATICANTE] ou [CASO].
+- **Números que aparecem na obra e não servem como dose:**
+  - Razão 70:1 de material para cada hora de filme em *Lalee's Kin* [PRATICANTE].
+  - "80 percent of your effort on the first 10 percent and the last 10 percent" (Else; 80% do esforço nos 10% iniciais e 10% finais), sem medição [PRATICANTE].
+  - "roughly 8–12 [sequences] per hour-long film, but there's no hard-and-fast rule" [PRATICANTE].
+  - Audiência de *Cadillac Desert* "cerca de 9 milhões" na noite da exibição, sem fonte citada [PRATICANTE, não verificado].
+  - US$ 32 bilhões de remessas, estimativa do FMI citada por Wambu [PRATICANTE, não verificado].
+  - 130 entrevistas e 200 horas em *Levees* [CASO].
+- **Onde o autor generaliza além do que mostra:** a proporção 1/4–1/2–1/4 vem de filmes de 78–95 min; o autor a chama de "very rough guide". Os exemplos de sucesso são escolhidos pelo próprio autor, sem denominador. Ascher diz "Act structure? No." (trecho 4), e Pollard diz "I apply three-act structure to everything" (trecho 6): os entrevistados divergem.
+
+### 8. Uso por etapa do pipeline
+
+| Etapa | O que usar | Transferência | Cuidado |
+|---|---|---|---|
+| 1. Ideia | Teste de frase (regra 1); pitch que gera pergunta (regra 2); tema antes da história (regra 3); critérios de ideia (acesso, custo, audiência, hook, atualidade) | [DIRETO] para os testes; [ADAPTAÇÃO] para os critérios, trocando "acesso" por fontes públicas e arquivos | Não há medida de audiência; é critério de ofício |
+| 2. Pacote (título e miniatura) | Nada encontrado nas notas | [NÃO VALIDADO EM LONG-FORM]; o trecho não trata de título nem de thumbnail | Não atribuir à obra nenhuma regra de embalagem |
+| 3. Hook | Revelar a tensão, não o fato (Pollard, regras 5 e 6); pergunta explícita no começo (Burns); teste de desfecho revelado | [ADAPTAÇÃO] | Não há dado de retenção; o caso Hughes é relato de um editor |
+| 4. Roteiro | Trilho; função de cena; um ponto de vista por bloco de narração (trecho 4); writing to picture; plantar e relembrar | [DIRETO] para função e trilho; [ADAPTAÇÃO] para o resto | Proporções de atos são de filmes de 78–95 min; a divisão de 30 min é inferência |
+| 5. Auditoria (corte) | Revisar com "fresh eyes" e "first audience"; checar se o payoff responde às perguntas da abertura; duas fontes para fato | [DIRETO] para checagem; [ADAPTAÇÃO] para a revisão | Não há rubrica nem limiar; as perguntas são de checklist |
+| 6. Pós-publicação | Nada de métrica. Só a sugestão de comparar variantes de Ato 1 | [NÃO VALIDADO EM LONG-FORM] | A obra não mede retenção; qualquer leitura de curva vem de outra fonte |
+
+### 9. Relação com a base do projeto
+
+Observação: para os documentos 01 a 10 e os mapas 11 a 16, o que consta aqui é a seção do índice (títulos). Não li o conteúdo dessas seções nesta chamada. As comparações abaixo devem ser conferidas antes de virar regra.
+
+- **Confirma:** a base assume que o vídeo é uma sequência de perguntas que o roteiro paga, com promessa e minuto de pagamento (01 §1, itens 4 e 5). A obra descreve o mesmo mecanismo com trilho, função de cena e resolução que responde às perguntas levantadas (trecho 4). A base também separa suspense de outros motivos para ficar; Bernard não trata disso, mas o princípio de que um bloco precisa de algo além da pergunta pendente não aparece como regra dela.
+- **Confirma (estrutura):** o índice do 12 (estrutura narrativa: cena, beat, virada, atos) e o 05 (modelos de 30 min, §3) tratam dos mesmos conceitos de cena, sequência e ato. Bernard os define com citações de McKee (praticante citado). Não há evidência de retenção em nenhum dos dois.
+- **Acrescenta:** teste de frase e de pitch antes do roteiro (não aparece no índice da base como etapa separada); função declarada por cena; alerta sobre revelar o desfecho no gancho (Hughes). Para a base, esse último ponto liga-se ao 02 §4 (erros de abertura) e ao 02 (H-07, "Flash-forward do desfecho antes do mecanismo", e H-28, "Veredito antecipado com teste").
+- **Contradiz ou tensiona:** o 02 lista como estruturas válidas o flash-forward do desfecho (H-07), o veredito antecipado (H-28) e o resultado invertido (H-19). Bernard tem um caso negativo de flash-forward (Hughes, [CASO]) e um caso positivo com o sequestro revelado (Nevins, via Bruce, [PRATICANTE]). Nenhum dos dois é medido. A divergência é de ofício e deve ser resolvida por teste no próprio canal, na curva, não por autoridade.
+- **Limite de transferência:** o 04 §4 trabalha com blocos de 2, 5 e 10 min. Bernard não dá minutos por bloco. Ela dá 8–12 sequências por hora [PRATICANTE]. Não se deve cruzar as duas coisas como se fossem a mesma medida.
+
+### 10. O que não usar
+
+- **Qualquer proporção de atos como dose para 30 min.** A única proporção do livro (1/4–1/2–1/4) é [PRATICANTE] e vem de filmes de 78–95 min. As inferências de divisão em minutos feitas nas notas (7,5/15/7,5; 5–8/12–15/7–10; 20/60/20) são construídas e não têm base no livro. Se for testar, use a proporção do próprio autor, marcada como hipótese.
+- **Números de audiência e de remessas** (9 milhões; US$ 32 bi): não verificados.
+- **"Os 80% do esforço":** é opinião de Else, sem medição, e não serve para planejar tempo.
+- **Loops abertos como conceito da obra:** o termo não aparece. Usar como análogo é inferência.
+- **Atribuir à obra qualquer regra de título, thumbnail, CTR, AVD ou retenção:** nada disso consta.
+- **Caso Ingrid Betancourt como prova de que revelar o desfecho aumenta engajamento:** é relato de executiva de TV, sem medição (Nevins, via Bruce, trecho 5).
+- **Padrão de "ponto de vista por bloco" como regra fixa:** é orientação de ofício para narração e vale só para canais que alternam narrador e personagens.
 
 ## Ficha: Story - Robert McKee
 ## Ficha: *Story*, Robert McKee
@@ -810,6 +2065,327 @@ Ordenados pela utilidade como molde. Todos são de origem do autor ou relato del
 - **"Chekhov: os últimos 90 segundos"** como regra de fechamento. Atribuição sem fonte.
 - **"Hollywood vende pelo fim de semana" e "high concept"** como argumento sobre CTR. Não se aplicam a YouTube.
 
+## Ficha: Into the Woods - John Yorke
+## Ficha de livro: *Into the Woods*, John Yorke
+
+Esta ficha usa só as notas dos trechos 1 a 5. Quando as notas registram dúvida ou divergência, ela é mantida. Não há dados de vídeo, de YouTube nem de retenção em nenhum trecho.
+
+### 1. Identificação
+
+- **Obra:** *Into the Woods*, de John Yorke.
+- **Do que trata:** estrutura narrativa, com foco em ficção (cinema, teatro e TV). Cobre ato, cena, beat, personagem (desejo e necessidade, façade e flaw), diálogo, exposição, subtexto, séries e minisséries. O capítulo final, "Why?", discute por que contamos histórias.
+- **Não ficção:** aparece só de passagem. O cap. 22 afirma que livros de não ficção seguem o mesmo padrão, sem dados que sustentem a afirmação.
+- **Cobertura das notas:** cobertas quase todas as partes. Lacunas: o trecho 1 termina antes da lista de doze estágios de Vogler, e o trecho 2 começa no meio dessa discussão. Os diagramas citados no texto não estão nas notas. Os apêndices I–VII estão no trecho 4. Os capítulos 9–22 aparecem no corpo (trechos 2 a 4) e em notas (trecho 5).
+
+### 2. Tese em três frases
+
+1. "Storytelling has a shape." (Introduction) A estrutura é constante, na visão do autor. [PRATICANTE]
+2. Cada ato é "a unit of action bound by a character's desire" (Cap. 2): a unidade do ato é o desejo do personagem, e a história avança quando o protagonista muda de estado de conhecimento sobre o próprio defeito. [PRATICANTE]
+3. O mesmo padrão se repete em cena, ato e obra (estrutura fractal). O autor aplica isso a ficção e afirma a extensão a não ficção sem dados. [PRATICANTE]
+
+### 3. Framework principal
+
+**Componentes (trechos 1 e 4):**
+- Protagonista e antagonista. O antagonista é "a coisa ou pessoa que o protagonista deve vencer para atingir seu objetivo", interna, externa ou ambas. [PRATICANTE]
+- **Want** (desejo consciente e tangível) e **need** (necessidade ou defeito interno). Yorke usa "lack" de Propp para a falta inicial. [PRATICANTE]
+- **Incidente incitante**, que desequilibra o mundo do protagonista.
+- **Midpoint**, a virada central.
+- **Crise**, o ponto de maior perigo, com uma escolha.
+- **Clímax** (*obligatory scene*), o confronto direto.
+- **Resolução** (*denouement*), que fecha as pontas soltas. Cada set-up precisa de um pay-off. [PRATICANTE]
+
+**Estruturas de atos:**
+- Três atos como tese, antítese e síntese, descritos como "dialética em forma simplificada". O autor atribui a ideia a Mamet, sem estudo citado. [PRATICANTE]
+- Cinco atos: dois cortes extras no segundo ato do modelo de três. Freytag (1863) e Booker são citados. [ESTUDO citado pelo autor, teórico]
+- *Roadmap of change* (cap. 4): trajetória do conhecimento do defeito em cinco atos. Ato 1: *No knowledge → Growing knowledge → Awakening*. Ato 2: *Doubt → Overcoming reluctance → Acceptance*. Ato 3: experimentação, midpoint, conhecimento-chave. Ato 4: *Doubt → Growing reluctance → Regression*. Ato 5: *Reawakening → Re-acceptance → Total mastery*.
+
+**Divergências internas (não resolvidas nas notas):**
+- **Incidente incitante:** no cap. 1 é uma "explosão" que desperta um desejo. No cap. 8 (trecho 2) é "o crisis point do primeiro ato, não uma 'explosão' necessariamente".
+- **Crise:** no cap. 1 é o máximo de perigo e a escolha final. No cap. 7 (trecho 2) é "a pior consequência" da decisão.
+- **Midpoint:** é "grande escalada" (trecho 1), "grande mudança" que aumenta a pressão e não é necessariamente o mais dramático (trecho 2), o momento em que a *need* supera a *want* pela primeira vez (trecho 3, [PRATICANTE]), e o "BIG CHANGE" de conhecimento (trecho 4).
+- **Contagem de atos:** o livro fala em cinco atos para *Raiders*, mas também cita "cinco possíveis estruturas" e "sete estágios" (trecho 2).
+- **Syd Field:** o cap. 2 diz que ele "first articulated" o modelo de três atos e também que o modelo "wasn't invented by Field". As notas tratam como distinção entre articular e inventar.
+
+**Fractal (cap. 6 e trecho 3):** cena, ato, episódio e temporada compartilham a forma incidente, midpoint e pior momento. [PRATICANTE]
+
+### 4. Conceitos centrais
+
+Só os que mudam decisão de roteiro:
+
+- **Want x need.** Quando o desejo consciente é trocado pela necessidade, a história muda de direção. Decisão: defina o objetivo visível e o defeito que o contradiz. [PRATICANTE]
+- **Mudança de conhecimento por cena.** Cada cena "builds from the endpoint of the last" (cap. 22, nota das notas de trecho 4). Decisão: um bloco que não muda o que o público sabe não avança a estrutura. [PRATICANTE]
+- **Come in late, get out early.** Entrar tarde e sair cedo, no ponto de pior consequência. [PRATICANTE]
+- **Set-up e pay-off.** Todo elemento plantado precisa ser pago. [PRATICANTE]
+- **Mostrar, não dizer.** O efeito Kuleshov (relato de Pudovkin e Kuleshov, com divergências de descrição) sustenta a justaposição de imagens. [CASO]
+- **Subtexto e exposição.** Sem subtexto, "tudo é literal". Exposição é informação que personagens sabem e público não, ou o contrário. [PRATICANTE]
+- **Rubber ducky.** Explicação psicológica dada ao público como causa do comportamento. Lumet a rejeita (cap. 14, nota 4). [PRATICANTE]
+- **Dark inversion.** Termo de Booker para arco do bem ao mal. O autor discorda da leitura moral. [PRATICANTE]
+- **Pergunta por ato e por cena.** Cada ato e cena apresenta uma pergunta que uma virada posterior responde. [PRATICANTE]
+
+### 5. Regras acionáveis
+
+| # | Se | Então | Apoio |
+|---|---|---|---|
+| 1 | o protagonista não quer nada | dê um objetivo concreto e um obstáculo (Sorkin, citado, cap. 1) | [PRATICANTE] |
+| 2 | você planta um elemento | pague-o antes do fim | [PRATICANTE] |
+| 3 | um ato termina | a virada muda a direção da busca, não só aumenta a tensão | [PRATICANTE] |
+| 4 | a obra dura uma hora ou mais | tenha viradas regulares. O autor diz que isso "garante" ganchos, sem dado de retenção | [PRATICANTE] |
+| 5 | o segundo ato arrasta | insira um midpoint que eleve a aposta e torne a volta impossível (exemplo: *Macbeth*) | [PRATICANTE] |
+| 6 | a cena não muda o conhecimento de quem está na tela | ela não avança a estrutura (síntese das notas do trecho 4) | [PRATICANTE] |
+| 7 | a cena tem conflito | corte o set-up e a resolução e termine no ponto de crise | [PRATICANTE] |
+| 8 | quer mostrar um estado interno | mostre uma ação que o revele; não explique | [PRATICANTE] |
+| 9 | o personagem explica o próprio comportamento | reescreva para que as ações mostrem a motivação (Lumet) | [PRATICANTE] |
+| 10 | a história tem uma pergunta central | responda em duas partes: parcial no midpoint, final no fim (síntese a partir de *Hamlet*) | [CASO] + síntese das notas |
+| 11 | a crise de um ato é um dilema entre ficar e mudar | as consequências de não mudar devem ser "as piores possíveis" | [PRATICANTE] |
+| 12 | a obra tem temas ou argumentos | eles não aparecem antes do fim (McGovern, cap. 21, nota 10) | [PRATICANTE] |
+| 13 | o narrador explica tudo | o subtexto morre e o público perde o que fazer | [CASO] |
+| 14 | a série perde o motor de história | use "esquecimento seletivo" ou uma mudança pequena e temporária | [PRATICANTE] |
+
+Cada regra vale para ficção com personagem. Para narração factual, a transferência é [ADAPTAÇÃO], como indicado na seção 8.
+
+### 6. Exemplos mais úteis (molde)
+
+- ***Hamlet*** (Apêndice II). A pergunta central, "Did Claudius murder the king?", respondida em duas partes. É o molde mais direto para a pergunta-mestra de um vídeo. [CASO]. Cuidado: o autor admite que Ofélia não encaixa.
+- ***Thelma & Louise*** (cap. 4). Tabela de cinco atos, com a trajetória de cada personagem por ato. É molde de tabela de atos. Não há medida de público. O autor diz que o terceiro ato "dura quarenta minutos" e os demais "vinte", sem runtime no texto. [CASO/PRATICANTE]
+- ***Life on Mars*** (cap. 12, nota 6). Trinta e cinco rascunhos e a troca de um par de personagens de visões opostas. É molde para decidir o que fazer quando o formato não funciona. [CASO]. Cuidado: é anedota.
+- ***Being John Malkovich*** (Apêndice III). O midpoint "at fifty-four minutes in" de um filme de 108 minutos. É afirmação do autor, não verificada. [CASO]
+- ***Breaking Bad* mapeado em *Macbeth*** (cap. 19, nota 3). Cinco passos de correspondência. É molde para mapear paralelos. Análise do autor, sem dados. [INFERÊNCIA do autor]
+- **Mortes nos pontos de crise** (*The Godfather*, *Apocalypse Now*, *Thelma & Louise*, *Macbeth*; cap. 10, nota 3). Lista de exemplos sem contagem. O autor diz que a observação é "fascinante (embora não científica)". [CASO]
+- **Cena do EastEnders com beats marcados** (trecho 2). Molde de anotação de beats (ação e reação). [CASO]
+
+### 7. Evidência e limites
+
+**Estudos citados pelo autor, sem medida de público:**
+- Freytag (1863), modelo de cinco partes. Teórico. [ESTUDO citado pelo autor]
+- Booker, *The Seven Basic Plots*. Teórico. [ESTUDO citado pelo autor]
+- Baldwin, análise textual de cinco atos em Terêncio e Shakespeare. Análise literária. [ESTUDO citado pelo autor]
+- Maslow (1943), base da hierarquia de necessidades. Teórico; o autor admite críticos. [ESTUDO citado pelo autor]
+- Anna Freud (1937) e Vaillant (1977), categorias de defesa. Descritas como "atalho útil"; a lista não consta nas notas. [ESTUDO citado pelo autor]
+- Kahneman, "Bananas Vomit"; Kahneman (2011); Pinker (1997); Keysers (2011); Greenfield; Taleb. Citados sem método, amostra ou achado nas notas. Não verificados. [ESTUDO citado pelo autor, sem detalhes]
+- Jewkes (1958) e Greg (1928). Contagens históricas de peças elisabetanas: 236 peças, cerca de metade em cinco atos (Jewkes); 102 peças, cerca de 19% em atos (Greg). São contagens de forma, não de desempenho. [ESTUDO citado pelo autor]
+- Stefanik (2001), *The Megahit Movies*. Observação de livro, sem método descrito. [PRATICANTE]
+
+**Generalizações do autor além do que mostra:**
+- A extensão de ficção para não ficção é afirmada sem dados (cap. 22).
+- "Viradas regulares garantem ganchos": afirmação sem dado de retenção. [PRATICANTE]
+- O público "gobble up" estrutura arquetípica, com comparação de bilheteria sem números. [CASO]
+- Os exemplos são escolhidos pelo autor. A ubiquidade do padrão é contagem de seleção. [INFERÊNCIA]
+- "Symmetry matters more to writers of fiction than readers consciously perceive" (Lodge, citado). [PRATICANTE]
+
+**Números sem fonte: não usar.**
+- "90 per cent" de intercambiabilidade de equipes (cap. 22).
+- "Reached over 20 million viewers" (autor, sobre a própria carreira). [PRATICANTE]
+- Cerca de 20 milhões de mortos por Stalin (exemplo). [CASO]
+- O público de 300.000 de *The Killing* contra 56 milhões de habitantes (cap. 12, nota 2). A fonte não consta.
+
+**Dados de vídeo:** nenhum. Não há métrica, amostra, duração, categoria, ano de vídeo, retenção, CTR, AVD ou APV em nenhum trecho.
+
+### 8. Uso por etapa do pipeline
+
+| Etapa | O que usar | Transferência | Cuidado |
+|---|---|---|---|
+| Ideia | Pergunta central com desejo e obstáculo; incidente como evento específico (trecho 5, item 5) | [ADAPTAÇÃO] | Yorke pensa em personagem. Em documentário, o "desejo" é a investigação ou a pergunta sobre o caso |
+| Título | Nada | [NÃO VALIDADO EM LONG-FORM] | O livro não trata de título |
+| Thumbnail | Kuleshov: duas imagens juntas geram um sentido que nenhuma tem sozinha | [ADAPTAÇÃO], hipótese | Relato de cinema da década de 1920, com divergências. Teste no canal, não usar como regra |
+| Hook | Pergunta central cedo (*Hamlet*); incidente como ruptura; "come in late" | [ADAPTAÇÃO] | Sem dado de retenção em 30, 60 ou 90 s. Não transformar em dose |
+| Roteiro | Cada bloco muda o conhecimento de quem assiste; dilema na crise; motivação por ação | [ADAPTAÇÃO] | Sem fonte, não afirme motivação de pessoa real |
+| Retenção | "Viradas regulares" e "come in late, get out early" | [PRATICANTE] | Não há medida. A afirmação de "garantir ganchos" não é dado |
+| Payoff | Duas partes para a pergunta central; set-up e pay-off | [DIRETO] como princípio narrativo | Não há estudo de efeito sobre retenção |
+| Canal (séries) | Série e minissérie (caps. 18–21): "motor de história" renovável e personagem recorrente | [ADAPTAÇÃO] | O autor fala de TV britânica. Não é YouTube |
+
+**Extração de 30 minutos (construção das notas, não do livro):**
+- O mapa de trecho 1 (viradas em 5, 10, 15, 20 e 25 min) usa a proporção de *Thelma & Louise* com runtime inferido (120 min). O trecho 1 diz que esse runtime não está no texto. Trate como hipótese do extrator.
+- O midpoint em 15 min vem da regra de que o midpoint fica "na metade" (exemplos de cinema). Não é medida.
+- O trecho 3 não define percentuais. O trecho 4 propõe ato 4 entre 22 e 27 min, também inferido.
+- Os trechos 3 e 5 não definem loops abertos nem ritmo. O trecho 5 cita *cliff hangers* e *Come in Late, Get out Early* só no índice.
+- Teste proposto pelas notas (hipótese, não resultado): dois roteiros de 30 minutos com viradas em posições diferentes, comparados por retenção nos primeiros 30 s e por APV. Use a curva do próprio canal, nunca a curva de outro vídeo.
+
+### 9. Relação com a base do projeto
+
+*Limite desta comparação:* só tenho o índice dos documentos 01 a 17 e o trecho de §1 do Master Playbook. As seções citadas abaixo precisam ser conferidas no arquivo antes de qualquer edição.
+
+- **Confirma o vocabulário de 12 (Estrutura narrativa):** cena, beat, virada, atos, desejo e oponente são os mesmos termos de Yorke. A comparação de conteúdo com 12 §1 a §3 precisa de leitura direta.
+- **Confirma 04 §3 (mecanismos de sustentação que não são suspense) e a regra 5 da SKILL:** Yorke sustenta o motivo para ficar pela mudança de conhecimento e pela necessidade do personagem, não só pela pergunta pendente.
+- **Acrescenta a 04 §4 (blocos de 2, 5 e 10 min) um critério de bloco:** cada bloco deve mudar o estado de conhecimento de quem assiste. Isso acrescenta critério de checagem, não dose.
+- **Acrescenta a 09 (rubrica do roteiro, RR) e a 10 (experimentação):** o critério de mudança de conhecimento pode entrar na rubrica do roteiro. As posições de virada entram como hipóteses em 10, não como regras.
+- **Tensiona 05 §3.1 (modelo de 30 min) e 01 §8.1 (parâmetros de 30 min):** o mapa de Yorke é construção das notas. Compare com os modelos da base antes de usar. Não os substitua por ele.
+- **Relaciona-se com 02 (hooks):** a pergunta central de *Hamlet* é próxima de H-05 (pergunta de virada de capítulo) e H-15 (pergunta explícita com mistério secundário). O uso proposto é hipótese, porque o trecho não mede abertura.
+- **Relaciona-se com 06 §4.3 (posição do clímax) e §4.4 (viradas):** o midpoint de Malkovich é um exemplo do autor, não amostra. Não confirma nem contradiz a base.
+- **Relaciona-se com 14 (retenção e hábito), séries:** caps. 18–21 falam de motor de história. A transferência para canal é [ADAPTAÇÃO].
+- **Contradiz o padrão de evidência da SKILL (regra 1, "dose não é fato"):** "viradas regulares garantem ganchos" é afirmação sem dado. Não deve virar dose.
+- **Consistente com 01 §1, item 7** (não há receita de duração): as proporções de atos de Yorke são todas inferidas de exemplos.
+
+### 10. O que não usar, e por quê
+
+- **As proporções de ato para 30 minutos** (5/10/15/20/25) como regra. São construção das notas, com runtime inferido e midpoint por regra de exemplos.
+- **"Viradas regulares garantem ganchos".** Sem dado de retenção. Usar só como hipótese de ofício.
+- **Os estudos de Kahneman, Pinker, Keysers, Greenfield e Taleb** como explicação de retenção. Não há método nem achado nas notas, e são de outro contexto (neurociência e cognição).
+- **Maslow, Freud, Jung, Erikson e Adler** como mecanismo de atenção ou de retenção. Teorias sem medida em vídeo, e explicações psicológicas sem mecanismo específico aplicável ao caso.
+- **"90 per cent", "20 million viewers", o público de *The Killing*, os 20 milhões de Stalin.** Sem fonte.
+- **Contagens de peças elisabetanas (Jewkes, Greg)** como prova de estrutura que funciona. São contagens de forma histórica, não de desempenho.
+- **A frase "cada frase deve levar à próxima" (Cooke)** como citação literal. É paráfrase do extrator, não texto do livro. A única citação do trecho 3 é "Broadcasting is the control of suspense" (cap. 21, citando Cooke).
+- **"Bad writing explains; good writing shows"** como fato. É afirmação do autor, sem medida.
+- **Transferência direta de ficção para narração factual** sem marcação de [ADAPTAÇÃO]. O próprio autor não trata não ficção.
+
+**Citações-chave (texto original, com tradução):**
+- "Storytelling has a shape." (O armazenamento da estrutura é constante. Introduction)
+- "Somebody's got to want something" (Alguém precisa querer alguma coisa. Cap. 1)
+- "Acts are a unit of action bound by a character's desire" (Atos são uma unidade de ação ligada ao desejo do personagem. Cap. 2)
+- "Good storytelling never gives you four, it gives you two plus two" (Boa narrativa não dá quatro, dá dois mais dois. Cap. 11, citando Andrew Stanton)
+- "Characters have only one story" (Personagens têm apenas uma história. Cap. 20)
+- "Storytelling, then, is born from our need to order everything outside ourselves." (A narrativa nasce da nossa necessidade de ordenar tudo fora de nós. Cap. 22)
+- "A character should be clear from his present actions" (Um personagem deve ser claro pelas suas ações presentes. Cap. 14, nota 4, citando Lumet)
+
+## Ficha: The Story Grid - Shawn Coyne
+### Ficha de livro: *The Story Grid: What Good Editors Know*, Shawn Coyne (2015)
+
+#### 1. Identificação
+
+- **Obra:** *The Story Grid: What Good Editors Know*, Shawn Coyne (2015). Introdução de Steven Pressfield. Notas em quatro trechos, cobrindo prefácio, introdução, partes 1 a 8 e epílogo.
+- **Do que trata:** método de edição de ficção (romances, thrillers, roteiros). O autor organiza a história em unidades (beat, cena, sequência, ato, subtrama, história global) e em uma grade de gênero, valores e cenas.
+- **Lacunas de cobertura nas notas:** o trecho 2 termina no meio do cap. 37 e o trecho 3 termina no meio do cap. 52. O trecho 4 começa no cap. 53. O restante desses capítulos pode não ter sido lido.
+- **Ligação com vídeo:** nenhuma. A obra não trata de YouTube, vídeo, retenção, CTR, AVD ou APV. Tudo o que se segue para vídeo é transferência, não achado do livro.
+
+#### 2. Tese em três frases
+
+Um gênero é uma promessa de expectativa ao público, e a história precisa cumprir essa promessa com convenções e cenas obrigatórias. [PRATICANTE] Cada cena precisa virar um valor (positivo para negativo, ou o inverso); sem essa virada, "não é cena". [PRATICANTE] A mesma estrutura de cinco fundamentos (incidente incitante, complicações progressivas, crise, clímax, resolução) se aplica do beat à história global. [PRATICANTE]
+
+#### 3. Framework principal
+
+**Cinco fundamentos** (definição do autor, aplicada a beat, cena, sequência, ato, subtrama e história global):
+- **Incidente incitante:** evento que perturba o equilíbrio do protagonista. Pode ser causal (resultado de uma escolha) ou coincidental (acaso). [PRATICANTE]
+- **Complicação progressiva:** escalada de conflito; cada dilema é mais difícil que o anterior. "Progressive complications move stories forward, never backward." (cap. 41) [PRATICANTE]
+- **Crise:** pergunta de escolha entre duas opções: "o melhor dos maus" ou "bens irreconciliáveis". [PRATICANTE]
+- **Clímax:** resposta ativa à crise, a escolha em ação. O protagonista age em cena. [PRATICANTE]
+- **Resolução:** o "fallout" da escolha, que mostra o que o clímax significa. [PRATICANTE]
+
+**Ferramentas de planejamento:**
+- **Foolscap Global Story Grid:** uma folha dividida em partes (ato 1 no topo, ato 2 no meio, ato 3 embaixo), com gênero externo e interno, valor em jogo, convenções, POV e ideia controladora. [CASO + PRATICANTE]
+- **Story Grid Spreadsheet** (caps. 53 a 58): planilha de cenas com evento, valor, polaridade, ponto de virada, POV, tempo, duração, local e personagens. [PRATICANTE]
+- **Beginning Hook / Middle Build / Ending Payoff:** o autor propõe 25/50/25, mas o livro analisado dá 19/57/24 por contagem de palavras. [DADO do próprio autor, sobre o livro, não sobre audiência]
+
+#### 4. Conceitos centrais
+
+Só os que mudam decisão de roteiro:
+
+- **Gênero como promessa.** "A Genre is a label that tells the reader/audience what to expect." Define expectativas de duração, suspensão da descrença, estilo, estrutura e conteúdo (cinco expectativas, citando McKee e El-Wakil). [PRATICANTE citado]
+- **Objeto de desejo consciente e subconsciente.** O consciente é o que o protagonista persegue a partir do incidente incitante. O subconsciente é o que ele precisa e define o gênero interno. [PRATICANTE]
+- **Valor e mudança de valor.** Toda cena muda um valor da experiência humana. "Every scene must turn a Story value or it is not a scene." [PRATICANTE]
+- **Ponto de virada por ação ou revelação.** Só há dois modos de virar uma cena. Usar só um deles em todas as cenas é um problema que o autor descreve (ação excessiva cansa; revelação excessiva vira melodrama). [PRATICANTE]
+- **Reversibilidade (escala 1 a 10).** Mede quanto custa o personagem voltar atrás. O autor propõe medir cada cena nessa escala. A escala é do autor, sem medição. [PRATICANTE]
+- **Ponto de não retorno.** Momento em que nenhuma escolha devolve o personagem ao estado anterior. [PRATICANTE]
+- **Gêneros externo e interno.** O externo define o tipo de conflito. O interno define a transformação do protagonista (arco). Quando o externo é positivo, o interno pode ser negativo, para criar ironia. [PRATICANTE]
+- **Taxonomias de gênero interno** (Friedman, 1955; Worldview, Morality, Status), com adaptação do autor. [ESTUDO citado pelo autor, taxonomia conceitual sem medida]
+
+#### 5. Regras acionáveis
+
+| # | Se… | então… | Apoio |
+|---|---|---|---|
+| 1 | o gênero externo e o interno não estão definidos | não escreva o roteiro ainda | [PRATICANTE] |
+| 2 | o objeto de desejo externo não aparece nas primeiras cenas | a história corre o risco de perder o público (afirmação do autor, sem dado) | [PRATICANTE] |
+| 3 | a cena não muda valor | ela não é cena: reescreva ou corte | [PRATICANTE] |
+| 4 | o incidente inicial promete um fim | entregue esse fim: "Don't promise something and then not deliver it." (cap. 40) | [PRATICANTE] |
+| 5 | uma pergunta de crise fica aberta | feche-a antes do fim da história global; todas as tramas devem ser pagas | [PRATICANTE] |
+| 6 | a crise tem saída óbvia | reconstrua o dilema até as duas opções serem ruins ou irreconciliáveis | [PRATICANTE] |
+| 7 | o clímax do protagonista é relatado por outra pessoa | mostre-o em cena (personagens secundários podem agir fora de cena) | [PRATICANTE] |
+| 8 | todas as cenas usam só ação, ou só revelação | misture os dois tipos de ponto de virada | [PRATICANTE] |
+| 9 | a complicação seguinte não é mais difícil que a anterior | reescreva a escalada; complicações não voltam para trás | [PRATICANTE] |
+| 10 | a planilha de cenas não está completa | não corrija um problema óbvio antes de completar a passada inteira | [PRATICANTE] |
+| 11 | a cena não tem conflito e ninguém vence ou perde | corte o "stage business" | [PRATICANTE] |
+| 12 | a primeira ideia que vem à cabeça é um clichê | escreva como rascunho e reescreva na edição: "The first thing that comes into your mind has been written before." (cap. 49) | [PRATICANTE] |
+| 13 | o POV muda com frequência no início | não mude: "Big caution: Too many POV shifts are irritating." (cap. 32) | [PRATICANTE] |
+| 14 | o gênero externo termina positivo | faça o gênero interno terminar negativo, para ironia | [PRATICANTE] |
+| 15 | a história tem final aberto e conflito interno | considere o mini-plot; se o protagonista age e o final é fechado, o arch-plot | [PRATICANTE, sem teste empírico] |
+
+**Transferência** (ver seção 8): a regra 3 vira [DIRETO] para o critério de cena; as regras 4 e 5 viram [DIRETO] para o critério de promessa e pagamento; as demais são [ADAPTAÇÃO].
+
+#### 6. Exemplos mais úteis (como molde de forma)
+
+Os exemplos são de ficção. Servem para ver a forma, não o conteúdo. O autor analisa cada um com a grade.
+
+- ***Chinatown*** (cap. 46, 51, notas do trecho 3): A Story (encontrar a garota) e B Story (redenção de Gittes). A revelação mais forte é guardada para o penúltimo clímax. [CASO, leitura do autor] Molde: pagar a revelação mais tarde, não cedo. Nota: as notas sinalizam que a análise sobre o penúltimo clímax é hipótese do autor.
+- ***Rocky*** (cap. 36-37 e trecho 3): incidente por coincidência; crise "entre humilhação e vergonha", apresentada como "o melhor dos maus". [CASO] Molde: a crise como escolha entre duas opções ruins.
+- ***Kramer vs. Kramer*** (trecho 3): crise inicial entre dois males; depois escolhas entre bens irreconciliáveis (carreira ou presença). [CASO] Molde: a escalada de dilema.
+- ***The Silence of the Lambs*, cena 12** (trecho 4, cap. 10): fim do Beginning Hook; morte fora de cena e corpo no rio; o valor externo cai e o interno sobe. [CASO, leitura do autor] Molde: a virada em dois eixos ao mesmo tempo.
+- ***The Silence of the Lambs*, cena 59** (trecho 4, cap. 56): "hero at the mercy of the villain"; o cheiro de cabra paga uma pista plantada antes. [CASO] Molde: pista plantada e paga depois.
+- ***The Silence of the Lambs*, cena 17** (trecho 4, cap. 15): sequestro com introdução do relógio (clock). [CASO] Molde: prazo como tensão.
+
+**Aviso de numeração:** as notas do trecho 4 apontam inconsistência entre números de cena e de capítulo (cena 50 aparece como caps. 47 e 48; cena 51 como cap. 48; cena 52 como cap. 49). Conferir na fonte antes de citar um número de cena.
+
+#### 7. Evidência e limites
+
+**Estudo citado pelo autor (apenas taxonomia ou modelo, sem medida de narrativa ou audiência):**
+- Friedman (1955), "Forms of the Plot", *Journal of General Education*: taxonomia de gênero interno. [ESTUDO citado pelo autor]
+- Kübler-Ross (1969), *On Death and Dying*: modelo clínico sobre luto. Sem medição de narrativa. O autor adapta para a curva de mudança. [ESTUDO citado pelo autor]
+- Mark R. Brent via "P. Scire": aplicação a mudança organizacional. Não verificado nas notas. [ESTUDO citado pelo autor]
+
+**Autoridade de terceiros, sem estudo descrito:**
+- McKee e El-Wakil, estrutura dos cinco gêneros. [PRATICANTE citado]
+- Mamet: "They start with a simple premise and proceed logically, and inevitably, toward a conclusion both surprising and inevitable." (*Bambi vs. Godzilla*, cap. 10). [PRATICANTE citado]
+- Stephen Grosz, caso das torres (cap. 19), com citação "We are vehemently faithful to our own view of the world, our Story." [CASO citado; não verificado]
+- Malcolm Gladwell, regra das 10.000 horas (cap. 49). [PRATICANTE]
+
+**Afirmações sem fonte (tratar como [PRATICANTE] ou não usar):**
+- "Estimates reach as high as 70%" de compradores de livros serem mulheres (cap. 5). Não verificado.
+- "Three hundred thousand books coming out every year" (cap. 9). Sem fonte.
+- Média de 25/50/25 para "every Story ever told" (cap. 16 e 27). Sem dado.
+- Romances de 80 mil a 100 mil palavras (cap. 28-29), "ballpark". Sem fonte.
+- Cerca de 2.000 palavras por cena/capítulo (cap. 32). Sem dado.
+- Tempos de cenas de *Misery* (1 min 05 s a 2 min 45 s), citados como "ritmo visual". Do autor, não verificados; são de roteiro, não de vídeo.
+
+**Dados do próprio autor sobre o livro** (não sobre audiência): contagem de 96.299 palavras e 18.152 no BH (trecho 4). [DADO, sobre o livro]
+
+**Ausente nas quatro partes:** nenhum estudo empírico com medida; nenhuma métrica de audiência, de tempo assistido, de retenção ou de compartilhamento; nenhuma referência a vídeo.
+
+**Onde o autor generaliza além do que mostra:** a proporção 25/50/25 e o número de cenas obrigatórias são afirmados como médias de "todas as histórias", sem dado. A escala de valor de 1 a 11 e a de reversibilidade de 1 a 10 são invenções do autor, sem medição. As afirmações sobre o que o público "fica irritado" com (cliffhanger em excesso) são opinião.
+
+#### 8. Uso por etapa do pipeline
+
+| Etapa | O que usar | Transferência | Cuidado |
+|---|---|---|---|
+| **Ideia** | Gênero externo e interno como checagem da pergunta-mestra; objeto de desejo da figura central; "What if?" como incidente incitante | [ADAPTAÇÃO] | Em caso real, o objeto de desejo vem do registro, não de invenção. Não atribuir motivação sem fonte (regra 2 de fatos da skill). |
+| **Pacote (título e thumbnail)** | Ideia controladora em uma frase como checagem de promessa | [INFERÊNCIA] | O livro não trata de título nem de thumbnail. Não há base para afirmar nada de CTR. [NÃO VALIDADO EM LONG-FORM] |
+| **Hook (0 a 90 s)** | Incidente incitante e objeto de desejo cedo, com promessa que o roteiro vai pagar | [ADAPTAÇÃO] | Sem curva de retenção. Não há prova de que isso melhora retenção. Usar o minuto de pagamento da base (06 §6.1; 04 §6), não o do livro. |
+| **Roteiro** | Critério de cena (valor muda); escalada; crise como escolha entre duas opções ruins; pista plantada e paga; mistura de ação e revelação | [DIRETO] para critério de valor e de pagamento; [ADAPTAÇÃO] para o resto | "Cena" de livro não é bloco de narração. A regra de valor vale para cada bloco da base, mas o tamanho do bloco é da base (04 §4). |
+| **Auditoria** | Lista de regras da seção 5 como checklist; reversibilidade (1 a 10) como hipótese de medida por bloco | [ADAPTAÇÃO] | Escala do autor sem medição. Aplicar por quem não escreveu o roteiro (09 §5). |
+| **Pós-publicação** | Não há leitura de analytics no livro. Usar a curva e o APV de 08 §7 e 04 §1 | [NÃO VALIDADO EM LONG-FORM] | Não atribuir mudança de retenção ao critério do livro sem experimento (10 §4). |
+
+**Dois pontos de risco que a obra não trata:**
+- **Falso final em caso real.** O autor recomenda o recurso para ficção. [PRATICANTE] Em documentário ou caso real, um falso final pode distorcer fato. [INFERÊNCIA] Não usar sem checagem da regra de fatos da skill.
+- **Ironia entre gêneros.** Em caso real, a ironia precisa estar nos fatos documentados, não ser criada. [INFERÊNCIA]
+
+#### 9. Relação com a base do projeto
+
+**Nota de método:** a base foi fornecida como índice, resumo da skill, seção 1 do Master Playbook e os títulos de seção dos documentos 01 a 10. A relação abaixo é por título de seção. Cada ponto que depende do texto integral está marcado como **a verificar**. A obra não aparece no índice da biblioteca de fichas (17), então esta é uma ficha nova.
+
+**Confirma ou alinha:**
+- **Promessa com pagamento.** "Don't promise something and then not deliver it." ↔ 01 §1 item 5 (toda promessa tem minuto de pagamento) e 09 §3.5 (teste de promessa). O livro dá o princípio, mas nenhum prazo. O prazo continua sendo o de 06 §6.1 (cerca de 2 a 17 min no corpus).
+- **Escalada.** Complicações progressivas ↔ 05 §2.4 (Escalada) e 05 §2.5 (Reviravoltas).
+- **Clímax e resolução.** Crise, clímax e resolução ↔ 05 §2.6 e §2.7; posição do clímax em 06 §4.3 (a verificar se a base usa o mesmo critério).
+- **Abertura com incidente.** Incidente incitante cedo ↔ 02 §1 (anatomia dos 90 s) e 05 §2.1 (Abertura).
+
+**Acrescenta:**
+- **Critério de cena como mudança de valor.** Não aparece como critério explícito nos índices lidos. Pode complementar 04 §4 (recompensa parcial por bloco) e 09 §3.4 (auditoria de blocos). **A verificar** em 04 §4 e 09 §3.4.
+- **Planilha de cena com colunas de valor e polaridade.** Pode alimentar o dossiê (skill, etapa 4). **A verificar** em 01 §3.4 (checklist antes do roteiro).
+- **Reversibilidade como hipótese de medida.** Candidato a critério em 09 §3.4. Sem dado, então é hipótese a testar (10 §3).
+
+**Contradiz ou tensiona:**
+- **Crise como cliffhanger no fim de unidades.** O trecho 3 propõe a crise como gancho de fim de bloco. A skill rejeita isso no erro "Termine cada bloco com suspense" e 04 §3 diz que suspense não é o único motivo para ficar. **Decisão:** não adotar o cliffhanger como fechamento de bloco. A crise pode ser a pergunta dentro do bloco, mas o bloco fecha com recompensa e ponte (skill, regra 5).
+- **Proporção de atos.** O 25/50/25 e o 19/57/24 do autor divergem entre si. A base tem modelo de 30 minutos em 05 §3.1 e mapa minuto a minuto em 01 §3.3. **A verificar** qual proporção esses documentos usam. Enquanto isso, a proporção do livro não entra como dose (skill, regra 1).
+
+#### 10. O que não usar, e por quê
+
+- **Proporções e contagens como dose** (25/50/25, 2.000 palavras por cena, 2 min por cena, 15 cenas obrigatórias): são afirmações do autor sem dado nem fonte. Pela regra 1 da skill, não entram como dose.
+- **Números de mercado** (70% de compradoras, 300 mil livros por ano, 80 a 100 mil palavras): sem fonte nas notas. Não entram em nenhum processo.
+- **Títulos, miniaturas, CTR e métricas de plataforma:** o livro não trata deles. Qualquer uso seria extrapolação.
+- **Escala de valor 1 a 11 e reversibilidade 1 a 10 como medida:** invenção do autor, sem medição. Só como hipótese, com nota de que não foi medido.
+- **Cliffhanger de fim de bloco como fechamento:** contradiz 04 §3 e a skill (erro "Termine cada bloco com suspense").
+- **Falso final em caso real:** risco de distorcer fato. Vedado sem checagem.
+- **Anti-plot e mini-plot como modelos para caso real:** o anti-plot quebra causalidade e tempo, o que é incompatível com caso verificável. [INFERÊNCIA] O mini-plot (final aberto) só cabe se houver fonte que deixe o final em aberto.
+- **Kübler-Ross como modelo de narrativa:** é modelo clínico sobre luto. Usar como estrutura de vídeo é transferência sem medida.
+- **Exemplos de ficção como conteúdo:** só a forma serve de molde. O conteúdo de *Chinatown*, *Rocky*, *Kramer vs. Kramer* e *The Silence of the Lambs* não entra em vídeo sobre caso real.
+- **Citações de Grosz, Gladwell, Mamet e Lucifer/Milton/Marcus Aurelius** como evidência: são referências do autor. Não verificadas, e não sustentam nada sobre retenção.
+
 ## Ficha: Save the Cat Strikes Back - Blake Snyder
 ## Ficha de livro: *Save the Cat Strikes Back*, de Blake Snyder
 
@@ -993,6 +2569,165 @@ Exemplos de cinema (*Star Wars*, *Gladiator*, *Casablanca*, *Liar Liar*) são [C
 - **Imagens não transcritas:** o gráfico do Beat Sheet, *The Board* e o "flow chart" da página 47. A ficha usa apenas o texto das legendas e as notas de página.
 - **Trecho truncado** em "conflict (denoted by the >" (trecho 1). A lista de símbolos pode estar incompleta.
 - **Referências ausentes:** Ben Frahm e *Dr. Sensitive* são citados para discussão posterior que não está nas notas. Não consta.
+
+## Ficha: In the Blink of an Eye - Walter Murch (edicao de filme)
+## Ficha de livro: *In the Blink of an Eye*, de Walter Murch (edição de filme)
+
+**Cobertura e limite desta ficha.** A ficha se baseia em duas notas de leitura: trecho 1 (aberturas, capítulos de "Cuts and Shadow Cuts" a "A Galaxy of Winking Dots", e o início do Afterword) e trecho 2 (de "Transition from Analog to Digital" ao fim da biografia, incluindo "Gesamtkunstkino"). As notas não esclarecem a ordem exata entre os dois trechos, nem se há sobreposição. Não foi possível confirmar que a obra inteira foi coberta.
+
+**Pedido não atendido: estudo com dados do YouTube.** Não consta nenhum estudo com dados de plataforma. Não há métrica de CTR, retenção, AVD ou APV, nem amostra com duração, categoria ou ano. A obra trata de edição de longas-metragens, com material de 1900 a 2001.
+
+---
+
+### 1. Identificação
+
+- **Obra:** *In the Blink of an Eye*, de Walter Murch, sobre edição de filme.
+- **Autor:** Walter Murch, montador de cinema. As notas citam como casos seus trabalhos em *Apocalypse Now* e *The English Patient*.
+- **Do que trata:** a prática da montagem. Cobre o corte como unidade de pensamento, a hierarquia de decisões de edição, a relação entre planejamento e espontaneidade, e a passagem da edição analógica para a digital (Avid, EditDroid, Montage). Inclui prefácio de Francis Coppola e o Afterword "Past, Present, and Imagined Future".
+- **Data de publicação:** não resolvida nas notas. O Afterword diz 1992; o *Preface to the Second Edition* diz que a primeira edição nos EUA foi em 1995.
+
+### 2. Tese em três frases
+
+1. O corte é uma "piscada" (*blink*) que separa e pontua ideias; o público aceita a descontinuidade e a lê como pensamento. Citação: "the cut is a “blink” that separates and punctuates those ideas" (a piscada separa e pontua essas ideias).
+2. A decisão de corte segue uma hierarquia de prioridades: emoção, história, ritmo, *eye-trace*, planaridade e continuidade espacial tridimensional. Em conflito, sacrifica-se o item mais baixo.
+3. O material bruto é uma floresta. Sem mapa (notas), fio (planejamento) e disciplina, a edição vira "thrashing about" (agitação sem direção), e a ferramenta digital amplia opções sem dar direção. Citação: "Instead of 'speed' digital systems would be more honest to advertise 'increased options.'" (Em vez de "velocidade", os sistemas digitais seriam mais honestos se anunciassem "mais opções".)
+
+### 3. Framework principal
+
+**Rule of Six (hierarquia de prioridades do corte)**, definição do autor, conforme as notas:
+1. Emoção
+2. História
+3. Ritmo
+4. *Eye-trace* (para onde o olho vai)
+5. Planaridade
+6. Continuidade espacial tridimensional
+
+Se for preciso sacrificar algum item, sacrifique de baixo para cima. O autor diz que cada item recebe um "valor", mas esses valores não estão no trecho.
+
+**Componentes acessórios:**
+- **Shadow cuts:** cortes feitos, considerados e desfeitos. Segundo o autor, havia cerca de quinze *shadow cuts* para cada corte do filme final de *Apocalypse Now* [CASO, sem método].
+- **Blink point e branch points:** cada plano tem vários pontos de corte possíveis, e a escolha depende do que o público deve pensar naquele momento.
+- **Discontinuidade:** o corte é um deslocamento total e instantâneo do campo visual. O autor diz, na produção, "Discontinuity is King". O deslocamento intermediário, entre dois planos "quase iguais", gera "mental jarring" (um solavanco mental). Não é movimento nem mudança de contexto.
+
+### 4. Conceitos centrais que mudam decisão de roteiro
+
+- **Discontinuidade e deslocamento intermediário.** Decide quando uma troca de plano parece natural e quando causa estranhamento. Em narração, o equivalente é a troca entre imagens quase idênticas, que o autor trataria como solavanco. [ADAPTAÇÃO]
+- **Blink point e branch points.** A escolha do ponto de corte depende da ideia que o público deve ter naquele instante. Em canal narrado, a troca de imagem deveria acompanhar a frase que pede atenção naquele momento. [ADAPTAÇÃO]
+- **Pace versus detalhe.** Segundo o autor, quanto menos detalhe a imagem mostra, mais cedo o olho termina de absorvê-la, e o editor tende a cortar antes. [PRATICANTE], sem medição no trecho.
+- **Referred pain (dor referida).** Analogia médica: a reação aparece num ponto, e a causa costuma estar antes. [PRATICANTE]
+- **Decisive moment.** Escolher o frame que destila um plano, tomado de Cartier-Bresson. [PRATICANTE]
+- **Shooting ratio e acesso linear versus aleatório.** Conceitos de produção e de ferramenta. Têm pouca relevância para o roteiro de um canal narrado.
+
+### 5. Regras acionáveis
+
+Todas as regras são do autor. Os números que aparecem nas notas não entram aqui (ver seção 7).
+
+1. **Se** duas opções de corte entram em conflito, **então** sacrifique primeiro o item mais baixo da Rule of Six e preserve emoção e história. [PRATICANTE]: heurística sem teste comparativo.
+2. **Se** está escolhendo o ponto de saída de um plano, **então** marque-o em tempo real, repetidamente. Se não acertar o mesmo frame, o ritmo está errado. Não escolha comparando frames um a um. [PRATICANTE]
+3. **Se** a audiência aponta uma cena como problema, **então** procure a causa num trecho anterior, porque a cena pode estar boa. [PRATICANTE]
+4. **Se** a intenção é que o público observe o fenômeno com distância, **então** reduza os cortes; **se** a intenção é envolver, **então** aumente. [PRATICANTE]
+5. **Se** a cena é de ação, **então** aumente o número de cortes; **se** é diálogo, **então** reduza. O autor não dá fonte para os números. [PRATICANTE, sem dado]
+6. **Se** o material é grande, **então** mantenha a ordem de gravação em blocos para revisão contínua, em vez de buscar planos só pelo nome. [PRATICANTE]
+7. **Se** a edição está presa em dúvida de estrutura, **então** volte ao planejamento (mapa, notas, fio) antes de cortar mais. [PRATICANTE]
+8. **Se** a sequência tem muitos planos fechados porque a imagem de trabalho é pequena, **então** reavalie o plano mais aberto na tela grande. [PRATICANTE]
+9. **Se** a imagem de trabalho é comprimida, **então** verifique o detalhe no formato final antes de fixar o ritmo, porque o autor relata cortes precoces nesse caso. [PRATICANTE]
+10. **Se** está usando busca aleatória, **então** revise as notas do primeiro visionamento em intervalos regulares, porque notas antigas podem esconder material que passou a servir. [PRATICANTE]
+11. **Se** o trabalho usa cortes por sensação, **então** use feedback imediato e quantificado (o autor descreve o Avid indicando "três quadros adiantado"). [PRATICANTE]
+12. **Se** o teste é com público, **então** colete as respostas alguns dias depois, não logo após a sessão, porque a reação imediata é "skewed" (enviesada). [PRATICANTE]
+13. **Se** o ritmo parece "choppy" (picado) na tela grande, **então** considere que a imagem comprimida pode ter escondido detalhe. Relato de diretores, não medição. [PRATICANTE]
+
+### 6. Exemplos mais úteis
+
+Tratados como casos do autor, sem validação.
+
+- ***Apocalypse Now* [CASO]:** cerca de 1,25 milhão de pés de workprint (cerca de 230 horas) e 1,47 cortes por editor por dia, em um ano de edição. O autor atribui a lentidão à exploração de muitos caminhos, não à execução. Molde: o custo de explorar alternativas, não uma meta de produtividade.
+- ***Julia*, flashbacks aninhados [CASO]:** um plano que ocupava um *time-frame* único foi removido, e a sequência ficou mais compreensível. Molde: o plano que confunde pode sair, mesmo que seja bonito.
+- ***The Conversation* [CASO]:** o autor percebeu que as piscadas de Gene Hackman caíam perto dos pontos de corte que ele havia escolhido. Molde: observar onde o próprio ritmo natural cai e alinhar o corte a ele.
+- ***The English Patient* (1995–96) [CASO]:** após a doença do filho, o autor mudou para Avid em casa, no celeiro de Bolinas, e editou a partir de dailies enviados de Roma e Tunísia. Segundo ele, a obra tinha "shifting time structure" (estrutura de tempo móvel), que pedia flexibilidade. Molde: a estrutura da obra decide a ferramenta, não o contrário.
+- **Contagem de cortes em filmes** (*Sunset Boulevard* 85; *The Third Man* 225; *The Sixth Sense* 170 nos primeiros 20 min; *Fight Club* 375 nos últimos 20 min) [PRATICANTE]. Molde apenas de método: mesma janela, mesmo critério. Os números não servem como referência, porque o método de contagem não é descrito.
+- ***Unbearable Lightness of Being*, painéis de fotos de setup [CASO]:** o autor os usou como "hieroglyphs for emotions" (hieróglifos para emoções). Molde: visualizar o mapa emocional do vídeo antes de montar.
+
+### 7. Evidência e limites
+
+**Estudos citados pelo autor (sem medidas no trecho):**
+- Stokoe (1979), *Language in Four Dimensions*, New York Academy of Sciences: [ESTUDO citado pelo autor]. O autor usa a comparação entre língua de sinais e montagem. As notas não descrevem amostra, medidas nem resultados.
+- Stern (1987), Washington University in St. Louis: [ESTUDO citado pelo autor]. Trabalho sobre psicofisiologia do piscar, que segundo o autor "seems to confirm" (parece confirmar) sua hipótese. Não há medidas nem tamanho de efeito no trecho.
+
+**Opinião e relato:** Huston (1973), entrevista; Bergman (1987), citação literária; Cartier-Bresson; Picasso; Renoir e Balzac. [PRATICANTE] ou [CASO].
+
+**Afirmações sem fonte no trecho (não usar como fato):**
+- Taxa de piscar de 4 a 40 por minuto.
+- Oito cortes por dia para um longa médio.
+- Razão de material média de 20:1.
+- Diferença de 99% entre DNA humano e de chimpanzé (usada como analogia).
+- Anedota das abelhas.
+- Faturamento da Avid e preço de US$ 1 milhão por estação.
+- Custos de equipamento (US$ 160.000 contra US$ 65.000).
+- Moore's Law, citada como "doubles every eighteen months".
+- "Avid 3,000 times less resolution".
+- Ritmo de cortes em ação (cerca de 25 por minuto) e em diálogo (6 ou menos).
+- Vencedores do Oscar de edição digital.
+- Relato de gravação de Richter tocando Mussorgsky, sem que ninguém tossisse.
+
+**Fórmula combinatória.** O autor usa C = (e × n!) − 1, chamando C de "minimum number". Verificação [INFERÊNCIA]: e × 25! ≈ 4,2 × 10²⁵, o que bate com o "40 followed by 24 zeros" do texto. Porém, a soma de sequências ordenadas (Σ n!/k!) é que se aproxima de e × n!, e o número de "250 shots" dá 88 seguido de 91 zeros, que não bate com 250! (cerca de 3 × 10⁴⁹²). Não use esse número.
+
+**Contagens de cortes por filme.** Correlação temporal entre ano e ritmo, sem método descrito e sem causa demonstrada. Não há dado de visualização ou de público. O autor não usa views como argumento.
+
+**Generalizações do autor:**
+- Trata de longa-metragem com dezenas ou centenas de horas de material filmado e aplica as ideias a qualquer edição.
+- "Look at" versus "look into" (televisão como superfície, cinema como janela) é uma tese sobre sala de cinema, não sobre tela pequena.
+- Termos como "mass intimacy" e "theater of thought" são descritivos. Não são operacionais.
+
+**Textos e OCR.** As notas registram erros de OCR, a discordância entre "Gesamtkunstkino" (cabeçalho) e "Gesamtkunstwerk" (corpo), e a data de publicação em conflito.
+
+**Não consta na obra:** estudo com dados do YouTube; CTR; retenção por minuto; AVD; APV; títulos e miniaturas; estrutura em atos; loops abertos; payoff; nada sobre vídeos de 10 a 60 minutos.
+
+### 8. Uso por etapa do pipeline
+
+| Etapa | O que usar | Transferência | Cuidado |
+|---|---|---|---|
+| Ideia | "Dreaming in pairs": gerar alternativas de estrutura antes de escolher uma | [ADAPTAÇÃO] | O texto trata de diretor e editor, não de escolha de tema. Não há evidência sobre tema. |
+| Título | Não consta | (nenhuma) | Não transferir nada |
+| Thumbnail | "Decisive moment": escolher o frame que destila o vídeo, não o mais bonito | [ADAPTAÇÃO] | Sem dado de CTR. Qualquer efeito sobre o clique é hipótese. |
+| Hook (0–90 s) | "Suggestion is always more effective than exposition" (a sugestão é sempre mais eficaz que a exposição) | [ADAPTAÇÃO] | Não há regra de abertura no trecho. Nada sobre retenção. |
+| Roteiro e ritmo | Rule of Six como checklist de cada transição; estrutura antes da superfície | [ADAPTAÇÃO] | Em narração, "eye-trace" e "continuidade espacial" viram a relação entre narração e imagem. Essa tradução é minha, não do autor. |
+| Ritmo narração × cortes | Comparar palavras por minuto da narração com cortes por minuto de 2 a 3 vídeos de referência | [INFERÊNCIA] (processo) | O trecho não dá números nem liga a relação à retenção. Validar no canal. |
+| Montagem | Primeira montagem com a narração gravada como guia de tempo | [INFERÊNCIA] | Depende de a narração já existir. Hábito do autor, não validado. |
+| Revisão | Revisar em blocos, na ordem de gravação; reler o mapa ao fim de cada bloco | [ADAPTAÇÃO] | Para canal solo, o ganho é menor. |
+| Retenção (diagnóstico) | Referred pain: a queda pode ter causa num trecho anterior | [PRATICANTE], como hipótese de diagnóstico | Não há curva de retenção no trecho. |
+| Payoff | Não consta | (nenhuma) | Não transferir. Usar a base (01 §2.7). |
+| Teste e pós-publicação | Ouvir a reação do público alguns dias depois | [PRATICANTE] | Sem medida. |
+
+### 9. Relação com a base do projeto
+
+**Ressalva de método.** A relação abaixo foi feita a partir dos títulos das seções do índice da base. O texto integral das seções não estava disponível nesta consolidação. Antes de usar qualquer uma destas relações como confirmação, leia a seção indicada.
+
+- **01 Master Playbook, §2.5 (roteiro) e §5 (dependências):** o princípio "estrutura antes da superfície" e a exigência de mapa antes de cortar são compatíveis com a cadeia de dependências. A hierarquia de prioridades (Rule of Six) não aparece nos títulos do índice e é um acréscimo potencial.
+- **04 Retention Blueprint, §3 (mecanismos de sustentação que não são suspense):** a prioridade "emoção" da Rule of Six aponta para um motivo de permanência que não é suspense. Mas Murch trata de decisão de corte, não de permanência. Não há medição de retenção nas notas. Trate como acréscimo de ofício.
+- **04 Retention Blueprint, §7 (ritmo e densidade; §7.1, "o que a medida captura"):** as contagens de cortes de Murch não medem retenção e não têm método descrito. Reforçam a cautela que a base já tem sobre medidas de densidade. Não usar como referência de corpus.
+- **04 Retention Blueprint, §2.3 (o que o material não permite diagnosticar) e §8 (fadiga cognitiva):** o referred pain dá uma hipótese de diagnóstico (a causa pode estar antes), mas não há evidência de retenção nas notas. Hipótese, não confirmação.
+- **05 Storytelling Framework, §2 (os sete movimentos) e §4 (seleção de estrutura):** Murch não trata de atos, movimentos nem blocos de plataforma. Não contradiz nem confirma. Não há base em Murch para a divisão em atos.
+- **05 Storytelling Framework, §5 (reviravoltas honestas):** o caso *Julia* (remover o plano que confunde) é um exemplo de clareza de estrutura. Acrescenta molde, não regra.
+- **03 Thumbnail Playbook, §5.2 (passo a passo) e §2.6 (personagens):** "decisive moment" é uma hipótese de escolha de frame, sem CTR. Acrescenta, sem confirmar.
+- **03 Thumbnail Playbook, §3.4 (promessa pagável):** a frase "suggestion is always more effective than exposition" é compatível com a ideia de que a embalagem sugere e o corpo paga. Não é evidência.
+- **01 Master Playbook, §2.1 (ideia) e 10 Framework de experimentação, §2.1 (backlog de ideia):** "dreaming in pairs" é um método de gerar alternativas antes de escolher. Acrescenta uma prática de ideação com a condição de não ser validada.
+- **10 Framework de experimentação, §1.5 (comparar vídeos diferentes confunde tema com tratamento):** as contagens de cortes entre filmes de épocas e gêneros diferentes têm exatamente esse problema. Reforça o princípio.
+- **10 Framework de experimentação, §4.4 (janelas de observação) e 09 Sistema de avaliação, §5.2 (depois da publicação):** o alerta de Murch sobre reação imediata enviesada é compatível. Acrescenta a razão, sem medida.
+- **02 Hook Database, §1 (anatomia dos 90 s):** Murch não trata de abertura de forma operacional. Não contradiz nem acrescenta regra.
+- **06 Engenharia reversa, §5 (densidade):** a contagem de cortes nos primeiros 20 minutos oferece um método replicável para comparar densidade inicial. Só serve se a janela e o critério forem idênticos.
+
+### 10. O que não usar, e por quê
+
+- **Qualquer número das notas sem fonte** (taxa de piscar, cortes por dia, razão de material, custos, storage, ritmo de ação e diálogo, DNA). Não têm método nem fonte no trecho.
+- **A fórmula C = e × n! − 1 com o número de "250 shots".** A fórmula está mal rotulada e o número não bate. Verificado e descartado.
+- **Contagens de cortes entre filmes como referência de ritmo.** Não têm método, misturam épocas e gêneros, e são correlação sem causa.
+- **Stern (1987) como base para o piscar como mecanismo de atenção.** O trecho não traz medidas. O autor diz apenas que o trabalho "seems to confirm" a hipótese dele.
+- **Stokoe (1979) como base para qualquer regra de corte.** O trecho não descreve amostra nem resultados.
+- **"Look at" versus "look into" como regra de tela ou de plataforma.** É tese sobre sala de cinema, não sobre tela pequena, e não foi testada em vídeo longo de canal. Não concluir que TV exige cortes rápidos.
+- **Anedotas como evidência de atenção coletiva** (Richter e Mussorgsky, Picasso). São relatos sem medida.
+- **Hierarquia da Rule of Six como ordem de retenção.** É prioridade editorial do autor. Não é medida de permanência, e os valores que o autor diz existir não estão no trecho.
+- **"Mass intimacy" e "theater of thought" como princípios operacionais.** São descrições, não regras.
+- **Qualquer aplicação direta a Shorts, Reels ou TikTok.** Fora do escopo do sistema.
 
 ## Ficha: On Writing - Stephen King
 ## Ficha de livro: *On Writing* (Stephen King)

@@ -530,35 +530,93 @@ Não leia um documento inteiro: procure aqui a seção e leia só ela.
   122    6. Relação com a base
   140    7. Hipóteses a testar
 
-## 17_fichas_da_biblioteca.md  (2023 linhas)
+## 17_fichas_da_biblioteca.md  (3758 linhas)
     1  Fichas das obras da biblioteca
-    5    Ficha: The Psychology of Curiosity - George Loewenstein
-    6    Ficha de artigo científico: Loewenstein (1994)
-  119    Ficha: The Extended Transportation-Imagery Model - van Laer et al
-  120    Ficha: The Extended Transportation-Imagery Model (van Laer et al., 2014)
-  256    Ficha: Storytelling in the Digital Era - van Laer et al
-  257    Ficha: *Storytelling in the Digital Era* (van Laer, Feiereisen e Visconti, 2019)
-  366    Ficha: Impact of Narratives on Persuasion in Health Communication - Shen et al
-  367    Ficha: Shen, Sheer & Li (2015), *Impact of Narratives on Persuasion in Health Communication*
-  521    Ficha: Story - Robert McKee
-  522    Ficha: *Story*, Robert McKee
-  679    Ficha: The Anatomy of Story - John Truby
-  680    Ficha de livro: *The Anatomy of Story*, John Truby
-  813    Ficha: Save the Cat Strikes Back - Blake Snyder
-  814    Ficha de livro: *Save the Cat Strikes Back*, de Blake Snyder
-  997    Ficha: On Writing - Stephen King
-  998    Ficha de livro: *On Writing* (Stephen King)
- 1136    Ficha: Made to Stick - Chip Heath
- 1137    Ficha de livro: *Made to Stick* (Chip Heath)
- 1253    Ficha: Contagious - Jonah Berger
- 1254    Ficha de livro: *Contagious: Why Things Catch On*, Jonah Berger
- 1447    Ficha: Hook Point - Brendan Kane
- 1448    Ficha de livro: *Hook Point*, de Brendan Kane
- 1612    Ficha: Hooked - Nir Eyal
- 1750    Ficha: Stories That Stick - Kindra Hall
- 1751    Ficha de livro: *Stories That Stick*, de Kindra Hall
- 1918    Ficha: Invisible Ink - John A Nagy
- 1919    Ficha de obra lida por amostragem: *Invisible Ink: Spycraft of the American Revolution*, John A. Nagy
- 1958    Ficha: In the Blink of An Eye - Baggett, Jerry
- 1959    Ficha de obra lida por amostragem: *In the Blink of An Eye*, de Jerry Baggett
+    5    Ficha: YouTube Help - Measure key moments for audience retention
+    6    Ficha: YouTube Help, "Measure key moments for audience retention"
+  171    Ficha: Park, Naaman & Berger 2016 - View Duration on YouTube
+  172    Ficha de artigo científico: Park, Naaman & Berger (2016)
+  286    Ficha: Wu, Rizoiu & Xie 2017 - Beyond Views (engagement in online videos)
+  287    Ficha de artigo científico: Wu, Rizoiu & Xie (2017/2018), *Beyond Views: Measuring and Predicting Engagement in Online Videos*
+  427    Ficha: Bassolas et al 2025 - Energy transition discourse on YouTube (retention)
+  428    Ficha de artigo científico: Bassolas et al. (2025), *Energy transition discourse on YouTube (retention)*
+  551    Ficha: The Psychology of Curiosity - George Loewenstein
+  552    Ficha de artigo científico: Loewenstein (1994)
+  665    Ficha: Golman, Loewenstein et al 2021 - Demand for and Avoidance of Information
+  666    Ficha de artigo científico: Golman, Loewenstein, Molnar & Saccardo (2021), "Demand for and Avoidance of Information"
+  823    Ficha: Green & Brock 2000 - Transportation in the Persuasiveness of Public Narratives
+  824    Ficha de artigo científico: Green & Brock (2000), transporte narrativo e persuasão
+  971    Ficha: The Extended Transportation-Imagery Model - van Laer et al
+  972    Ficha: The Extended Transportation-Imagery Model (van Laer et al., 2014)
+ 1108    Ficha: Storytelling in the Digital Era - van Laer et al
+ 1109    Ficha: *Storytelling in the Digital Era* (van Laer, Feiereisen e Visconti, 2019)
+ 1218    Ficha: Green & Appel 2024 - Narrative Transportation (review)
+ 1219    Ficha de artigo científico: Green & Appel (2024), *Narrative Transportation* (revisão)
+ 1360    Ficha: Impact of Narratives on Persuasion in Health Communication - Shen et al
+ 1361    Ficha: Shen, Sheer & Li (2015), *Impact of Narratives on Persuasion in Health Communication*
+ 1515    Ficha: Berger & Milkman 2012 - What Makes Online Content Viral
+ 1516    Ficha de artigo científico: Berger & Milkman (2012)
+ 1669    Ficha: Documentary Storytelling - Sheila Curran Bernard
+ 1670    Ficha de livro: *Documentary Storytelling*, Sheila Curran Bernard
+ 1776    Ficha: Story - Robert McKee
+ 1777    Ficha: *Story*, Robert McKee
+ 1934    Ficha: The Anatomy of Story - John Truby
+ 1935    Ficha de livro: *The Anatomy of Story*, John Truby
+ 2068    Ficha: Into the Woods - John Yorke
+ 2069    Ficha de livro: *Into the Woods*, John Yorke
+ 2239    Ficha: The Story Grid - Shawn Coyne
+ 2389    Ficha: Save the Cat Strikes Back - Blake Snyder
+ 2390    Ficha de livro: *Save the Cat Strikes Back*, de Blake Snyder
+ 2573    Ficha: In the Blink of an Eye - Walter Murch (edicao de filme)
+ 2574    Ficha de livro: *In the Blink of an Eye*, de Walter Murch (edição de filme)
+ 2732    Ficha: On Writing - Stephen King
+ 2733    Ficha de livro: *On Writing* (Stephen King)
+ 2871    Ficha: Made to Stick - Chip Heath
+ 2872    Ficha de livro: *Made to Stick* (Chip Heath)
+ 2988    Ficha: Contagious - Jonah Berger
+ 2989    Ficha de livro: *Contagious: Why Things Catch On*, Jonah Berger
+ 3182    Ficha: Hook Point - Brendan Kane
+ 3183    Ficha de livro: *Hook Point*, de Brendan Kane
+ 3347    Ficha: Hooked - Nir Eyal
+ 3485    Ficha: Stories That Stick - Kindra Hall
+ 3486    Ficha de livro: *Stories That Stick*, de Kindra Hall
+ 3653    Ficha: Invisible Ink - John A Nagy
+ 3654    Ficha de obra lida por amostragem: *Invisible Ink: Spycraft of the American Revolution*, John A. Nagy
+ 3693    Ficha: In the Blink of An Eye - Baggett, Jerry
+ 3694    Ficha de obra lida por amostragem: *In the Blink of An Eye*, de Jerry Baggett
+
+## 18_mapa_evidencia_de_retencao_em_video.md  (222 linhas)
+    1  Retenção e engajamento em vídeo: a evidência do YouTube
+    5  Mapa temático: Retenção e engajamento em vídeo, a evidência do YouTube
+   21    1. O que as obras dizem em comum
+   52    2. Onde os autores divergem, e o que fazer enquanto isso não se resolve
+   77    3. Técnicas por etapa do pipeline
+  124    4. O que é evidência e o que é ofício
+  138    5. O que não transportar para vídeo longo
+  150    6. Relação com a base
+  178    7. Hipóteses a testar com a curva do canal
+
+## 19_mapa_narrativa_documental_e_edicao.md  (334 linhas)
+    1  Narrativa documental e edição
+    5  Mapa temático: Narrativa documental e edição
+   13    1. O que as obras dizem em comum
+   67    2. Onde os autores divergem
+  106    3. Técnicas por etapa do pipeline
+  212    4. O que é evidência e o que é ofício
+  234    5. O que não transportar para vídeo longo
+  249    6. Relação com a base
+  276    7. Hipóteses a testar
+
+## 20_atualizacao_dos_mapas_11_a_16.md  (389 linhas)
+    1  Atualização dos mapas 11 a 16 com a segunda leva
+    5  Atualização dos mapas 11 a 16 com a segunda leva
+   15    Mapa 11 — Hook, abertura e curiosidade
+   64    Mapa 12 — Estrutura narrativa
+  126    Mapa 13 — Viralização e compartilhamento
+  175    Mapa 14 — Retenção e hábito
+  222    Mapa 15 — Persuasão por narrativa
+  282    Mapa 16 — Ofício de escrita e revisão
+  367    O que muda no conjunto
+  378    Lacunas da segunda leva
+  385    Operacional
 

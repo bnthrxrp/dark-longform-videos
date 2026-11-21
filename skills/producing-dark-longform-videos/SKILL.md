@@ -7,7 +7,7 @@ description: Use when planning, titling, thumbnailing, scripting, auditing or di
 
 ## Princípio
 
-O vídeo é uma sequência de perguntas que o roteiro paga. Título e thumbnail prometem a primeira pergunta e nada além dela. A base é uma pesquisa em dez documentos (`references/01` a `10`), mais os mapas e fichas de uma biblioteca de livros e artigos (`11` a `17`). Nenhuma recomendação tem efeito medido sobre retenção, então tudo o que não é regra oficial da plataforma é aposta a testar - e deve ser dito assim.
+O vídeo é uma sequência de perguntas que o roteiro paga. Título e thumbnail prometem a primeira pergunta e nada além dela. A base é uma pesquisa em dez documentos (`references/01` a `10`), mais os mapas e fichas de uma biblioteca de 27 livros e artigos (`11` a `20`). Nenhuma recomendação tem efeito medido sobre retenção, então tudo o que não é regra oficial da plataforma é aposta a testar - e deve ser dito assim.
 
 Não se aplica a Shorts.
 
@@ -56,6 +56,7 @@ Todo vídeo tem um dossiê (copie `dossie-modelo.md`). Cada etapa preenche uma p
 ## Sinais de que você está pulando a skill
 
 - "O pedido é de entrega direta, não preciso dos briefings."
+- Respondeu sem abrir o briefing do papel da etapa (inclusive em pergunta de Analytics).
 - Título ou hook entregue sem registro de promessas.
 - Ponte, pagamento ou frase copiados de um exemplo das referências.
 - Dose escrita sem a seção de onde veio.

@@ -10,6 +10,7 @@
 **Faça, nesta ordem**
 1. Peça o que falta antes de concluir: origem das impressões de cada vídeo, a curva de retenção (onde cai), e o histórico dos vídeos recentes de duração parecida. Sem isso, diga o que não dá para afirmar.
 2. CTR só se compara dentro da mesma origem de tráfego e com volume parecido de impressões.
+   Vídeos de durações diferentes só se comparam pela fração assistida (duração média ÷ duração do vídeo) e, de preferência, dentro da mesma faixa de duração: a fração cai com a duração entre vídeos, então minuto bruto engana (`18` §1; dois estudos com dados do YouTube, correlacionais). Nenhuma fonte pública tem curva minuto a minuto de vídeo longo: "onde o público sai" só vem da curva do próprio canal.
 3. CTR alto + duração média baixa + impressões abaixo do esperado: confira a assinatura descrita em `08` §5 antes de elogiar o pacote.
 4. Audite a promessa: o que título e thumbnail prometem, e em que minuto o vídeo paga? Queda logo após a abertura costuma apontar para essa distância.
 5. Localize a queda na curva e associe a uma fronteira de bloco do dossiê.

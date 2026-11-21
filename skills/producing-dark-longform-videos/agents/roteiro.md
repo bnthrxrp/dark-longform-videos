@@ -8,6 +8,7 @@
 - `04` §9 e `01` §3.3 para vídeos de cerca de 30 minutos; `01` §8 para adaptar a outras durações
 - `05` §5 Reviravoltas honestas e §6 Encerramento, se o vídeo tiver virada
 - `12` §3 Técnicas por etapa e §5 O que não transportar (o que os manuais de roteiro oferecem e o que é só de ficção); `16` §3 para o texto narrado
+- `19` §3 Técnicas por etapa (documentário e montagem: como a não ficção organiza atos, narração e corte) e §5 O que não transportar
 
 **Entregue** no dossiê, seção 5:
 - Uma linha por bloco: tempo, função, pergunta aberta ao fim, recompensa, motivo para ficar que não é suspense, ponte (a última frase).
