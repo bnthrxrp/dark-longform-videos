@@ -14,7 +14,7 @@
 
 2. **A miniatura e o título prometem a pergunta, não a resposta.** A Central diz que título e miniatura devem fazer o espectador entender o assunto, para que ele não gaste tempo com o vídeo errado [OFICIAL, AJ-TESTE]. CTR alto com AVD baixa e impressões abaixo do esperado é a assinatura de clickbait descrita pela FAQ [OFICIAL, FAQ-CTR]. Não há medida de CTR por variante de miniatura em vídeo longo. Rosto, objeto ou texto como elemento principal é hipótese a testar [LACUNA] (03 §2).
 
-3. **Os 90 segundos instalam a pergunta e pagam um primeiro pedaço.** Âncora concreta antes de 30 s, promessa explícita entre 30 e 60 s, recompensa parcial antes de 90 s, contexto de personagem ou lugar só depois dela (02 §1). A única métrica oficial de abertura é a retenção aos 30 s (Intro), sem limiar publicado [OFICIAL, 9314415]. Os critérios de 60 e 90 s são processo, não efeito medido. Nenhum vídeo do corpus tem curva (04 §1; 06 §9.3).
+3. **Os 90 segundos instalam a pergunta e pagam um primeiro pedaço.** Âncora concreta antes de 30 s, promessa explícita entre 30 e 60 s, recompensa parcial antes de 90 s, contexto de personagem ou lugar só depois dela (02 §1). A única métrica oficial de abertura é a retenção aos 30 s (Intro), sem limiar publicado [OFICIAL, 9314415]. Os critérios de 60 e 90 s são processo, não efeito medido. Nenhum vídeo do corpus tem curva (04 §1; 06 §9).
 
 4. **Cada bloco de cerca de 5 minutos precisa de quatro elementos:** uma pergunta, um mecanismo ou caso, uma recompensa parcial e uma ponte para o bloco seguinte. O motivo para continuar não pode ser só a pergunta pendente. A segmentação funcionou em lições de aprendizagem: retenção d = 0,42 quando o sistema marca as quebras, e d = 0,19, não significativo, quando o aprendiz as controla (Rey et al., 2019) [ESTUDO]. Não há estudo de segmentação em narrativa de canal (04 §4; 07 P1).
 
@@ -24,7 +24,7 @@
 
 7. **Não há receita de duração nem pesos de sinais.** Pesos de ranqueamento e duração recomendada não são publicados. A declaração oficial mais próxima é "faça o vídeo tão longo quanto precisar" (Beaupré, VidCon 2022, via TechCrunch) [OFICIAL, via terceiros] (08 §1.3).
 
-**O que é sólido e o que é aposta.** Sólido, por fonte oficial ou processo verificável: alinhamento entre promessa e conteúdo; checagem de fato, data e direito de imagem; registro de promessas; leitura da curva na ordem certa. Aposta, a testar com a curva do próprio canal: duração do bloco, número de perguntas abertas, posição do clímax, rosto ou objeto na miniatura, e a dose de cada elemento do hook (04 §11; 06 §6.5). A tabela de confiança da seção 6 separa as duas coisas recomendação por recomendação.
+**O que é sólido e o que é aposta.** Sólido, por fonte oficial ou processo verificável: alinhamento entre promessa e conteúdo; checagem de fato, data e direito de imagem; registro de promessas; leitura da curva na ordem certa. Aposta, a testar com a curva do próprio canal: duração do bloco, número de perguntas abertas, posição do clímax, rosto ou objeto na miniatura, e a dose de cada elemento do hook (04 §11; 06 §9). A tabela de confiança da seção 6 separa as duas coisas recomendação por recomendação.
 
 **Limite de tudo isso.** A amostra é de vídeos de alto desempenho, sem denominador. Os 9 vídeos em português do corpus têm transcrição, mas a classificação dos canais como dark/faceless vem da busca na web feita na descoberta e não foi conferida vídeo a vídeo (02 §5; nota do orquestrador). O sistema garante coerência e checagem; não garante desempenho.
 
@@ -34,7 +34,7 @@ O sistema tem sete etapas em sequência. Cada uma só avança quando o critério
 
 | # | Etapa | Pergunta que a etapa responde | Detalhe |
 |---|---|---|---|
-| 1 | IDEIA | A pergunta tem resposta documentada e material para 30 min? | 05 §§3–4; 06 §5.3 |
+| 1 | IDEIA | A pergunta tem resposta documentada e material para 30 min? | 05 §§3–4; 03 §5.3 |
 | 2 | TÍTULO | Cada promessa do título tem minuto de pagamento? | 03 §3; 06 §2.1 |
 | 3 | THUMBNAIL | A imagem mostra a âncora da pergunta, é legível e tem direito de uso? | 03 §§2, 5, 6 |
 | 4 | HOOK | Nos 90 s há âncora, promessa, lacuna e primeira recompensa? | 02 §§1–4; 04 §§1–2 |
@@ -45,20 +45,20 @@ O sistema tem sete etapas em sequência. Cada uma só avança quando o critério
 ### 2.1 IDEIA
 
 - **Objetivo.** Escolher um tema com uma pergunta específica, resposta verificável e material documental suficiente para 30 minutos.
-- **Entrada.** Lista de temas candidatos; pergunta candidata; arquétipo pretendido (documentário, mistério, história real ou curiosidade, conforme 06 §5.3).
+- **Entrada.** Lista de temas candidatos; pergunta candidata; arquétipo pretendido (documentário, mistério, história real ou curiosidade, conforme 03 §5.3).
 - **Processo.**
-  1. Escreva a pergunta central em uma frase, com "quem", "por que", "como" ou "o que aconteceu", e a resposta esperada. Se não houver resposta pública consensual, escreva "sem resposta pública" e só siga se o arquétipo for mistério (06 §5.3-B).
+  1. Escreva a pergunta central em uma frase, com "quem", "por que", "como" ou "o que aconteceu", e a resposta esperada. Se não houver resposta pública consensual, escreva "sem resposta pública" e só siga se o arquétipo for mistério (03 §5.3-B).
   2. Liste as fontes primárias prováveis por bloco: datas, documentos, registros, decisões judiciais, versões em conflito. Sem fonte para dois blocos, reduza o escopo ou troque o tema [INFERÊNCIA, 05 §4].
   3. Escolha a estrutura primária pela tabela de seleção (05 §4). Caso com "quem" ou "por quê" e provas parciais: investigativa. Desfecho conhecido com causas em disputa: cronológica com flash-forward. Duas explicações concorrentes: julgamento por hipótese. Catálogo com gabarito fixo: episódica, com pelo menos oito itens e um desfecho para cada um.
   4. Defina o número de linhas. Para 30 minutos, o material sugere uma pergunta-mestra e no máximo duas frentes [INFERÊNCIA]. Os dois mapas de tempo do material divergem nesse ponto (ver seção 7).
-  5. Classifique o risco: pessoa real identificável, criança, acusado sem sentença definitiva, familiares vivos, imagem de terceiros (03 §6.1 G1 e G5; 02 §11).
-  6. Verifique saturação: busque o tema e leia os primeiros resultados. Fórmulas dominantes, como "O que está escondido sob...", já aparecem em vários títulos da busca [DADO, 06 §5.3-B]. Diferencie por ângulo ou escopo.
+  5. Classifique o risco: pessoa real identificável, criança, acusado sem sentença definitiva, familiares vivos, imagem de terceiros (03 §6.1 G1 e G5; 02 §5, riscos éticos e jurídicos).
+  6. Verifique saturação: busque o tema e leia os primeiros resultados. Fórmulas dominantes, como "O que está escondido sob...", já aparecem em vários títulos da busca [DADO, 03 §5.3-B]. Diferencie por ângulo ou escopo.
 - **Critério de saída.** Pergunta escrita com resposta esperada; fontes para ao menos três blocos; estrutura primária escolhida; risco de pessoas e de imagens mapeado; ângulo distinto dos primeiros resultados.
 - **Erros comuns.**
-  - Mistério para caso já sentenciado (06 §5.3-B).
+  - Mistério para caso já sentenciado (03 §5.3-B).
   - Pergunta de julgamento ("O melhor rei?") sem critério declarado (03 §3.3).
   - Escolher o tema pela razão de outlier. Ela compara o vídeo com a mediana do próprio canal, e não mede o tema (06 §1).
-  - Tema de teoria conspiratória. O dossiê descartou páginas desse tipo (06 §5.3-B).
+  - Tema de teoria conspiratória. O dossiê descartou páginas desse tipo (03 §5.3-B).
 - **Limite.** Os arquétipos descrevem vídeos de alto desempenho. Não há comparação entre temas.
 
 ### 2.2 TÍTULO
@@ -266,7 +266,7 @@ No corpus, as palavras nos primeiros 90 s vão de 58 (Flight 370) a 296, com med
 - **Pergunta paga em partes.** Três pagamentos parciais (8:00, 12:00 e 20:30) reduzem o intervalo máximo entre pagamentos. O intervalo máximo sem pagamento no blueprint é de cerca de 6,5 min (de 1:30 a 8:00). A regra de alerta em 12 min sem pagamento intermediário é heurística de `05`, sem fonte primária [INFERÊNCIA].
 - **Reviravolta grande só uma, antes do minuto 20.** Viradas raras e mais fortes vêm de um modelo teórico de Ely, Frankel e Kamenica (2015), lido por resumo; é hipótese [ESTUDO, modelo; `04` §3.2 e `05` §5.5].
 - **Recapitulação curta.** Recapitulações longas dão sensação de repetição. O corpus traz recapitulações de cerca de 34 s (Norway, 27:59 a 28:33) [DADO].
-- **Promessa-chave até 40% do tempo (12:00).** Essa regra é de praticante [PRATICANTE, `02` §4 e `03` §2.8]. Epítetos e superlativos da miniatura ou do título devem ser pagos antes desse ponto.
+- **Promessa-chave até 40% do tempo (12:00).** Regra de um único praticante (Enrique Blanco, Delitos de Sangre), não validada [PRATICANTE, uma fonte; origem em `04` §10, item B8; `02` §4 e `03` §2.8 não a trazem]. Epítetos e superlativos da miniatura ou do título tendem a ser pagos antes desse ponto, mas isto é alerta, não critério de saída.
 - **Escala ou perspectiva entre 10 e 16 min.** A regra vem de `04_retention_engineering_blueprint.md` (checklist A7), que a deriva de um padrão de corpus e não de medida [INFERÊNCIA].
 
 **Erros comuns no roteiro de 30 min**
@@ -286,9 +286,11 @@ No corpus, as palavras nos primeiros 90 s vão de 58 (Flight 370) a 296, com med
 3. Cada número ou nome da miniatura tem fonte, data e minuto de pagamento (`03`, portões G1 a G4).
 4. Um marcador de escala ou de perspectiva entre 10:00 e 16:00.
 5. Uma reviravolta grande, antes de 20 min.
-6. Promessa-chave paga até 12:00.
+6. Promessa-chave paga até 12:00 (alerta [PRATICANTE, uma fonte, não validada; `04` §10 B8]; não bloqueia o avanço).
 7. Blocos com menos de 6 min sem pagamento, ou com divisão marcada.
 8. Densidade estimada entre 3.660 e 4.140 palavras, com a sua voz cronometrada.
+
+Etiquetas dos números deste checklist: itens 4, 5 e 7 são [INFERÊNCIA] (ver 3.3 e 3.5); item 6 é [PRATICANTE]; item 8 é [PRATICANTE] para os 130 palavras por minuto e [DADO] para a faixa de 122 a 138 do corpus. Nenhum é dose validada.
 
 ### 3.5 Divergências que afetam o blueprint (regra provisória)
 
@@ -362,6 +364,8 @@ Texto de cerca de 150 palavras. A 130 palavras por minuto, cobre cerca de 70 s. 
 | 0:20–0:45 | "Nenhum dos dois papéis diz qual está errado. Este vídeo mostra o que cada um mede, onde cada um se cala, e o que sobra depois de conferir." | Lacuna sobre o método, não sobre o caso | Promessa de "o que sobra" (fecha em 25:00 a 28:30) |
 | 0:45–1:00 | "A pergunta principal é: quantas pessoas estavam a bordo de fato? Uma segunda aparece mais tarde: o que a embarcação que cruzou com a balsa viu?" | Promessa e exatamente duas perguntas (limite de `02` §1) | Pergunta 1: parcial em 1:30, total em 23:00. Pergunta 2: resposta com ressalva em 25:00 a 28:30 |
 | 1:00–1:30 | "A diferença começa no critério. Um papel conta quem comprou bilhete no guichê. O outro conta quem estava no convés. Vamos ver a regra de cada um, e onde ela deixa de servir." | Recompensa parcial (`02` §1, 60–90 s) | Teste da regra no bloco 3:30–9:30 |
+
+**Nota (revisão 2).** As falas de 0:20–0:45 e de 1:00–1:30 anunciam formato ("Este vídeo mostra...", "Vamos ver..."). Num teste cego com juízes de IA [TESTE-IA], os hooks que gastavam o meio listando o método ficaram em último com mais frequência (ver `21`, seção das heurísticas). Na produção, escreva a mesma promessa como a pergunta, dita de dentro da cena. As 150 palavras são o tamanho deste exemplo, não uma dose; para o tamanho do hook, ver `00_kit_de_bolso.md` (doses).
 
 **Afirmação a confirmar antes de gravar:** a frase sobre o critério de cada papel é o que o exemplo supõe. Só pode ir ao ar com as cópias dos dois registros na mão.
 

@@ -281,6 +281,8 @@ Cada movimento tem a função, a técnica em não ficção narrada, o exemplo do
 
 ## 3. Modelos por duração (continuação) — 30, 45 e 60 minutos
 
+> **Nota de numeração.** Esta parte continua a seção 3, e os números 3.1 a 3.3 se repetem (antes: 10, 15 e 20 minutos; aqui: 30, 45 e 60). Cite como `05` §3.1 (10 min) ou `05` §3.1 (30 min).
+
 **Como usar estes modelos.** As marcas de tempo são pontos de partida, não normas. Nenhuma fonte disponível publica curva de retenção de vídeo longo; os dados do corpus são só metadados e transcrições, e a amostra contém apenas vídeos de alto desempenho. Ajuste cada faixa com a curva de retenção do próprio canal. Os minutos dos exemplos vêm da transcrição do corpus [DADO]. As proporções e a atribuição de funções aos blocos são [INFERÊNCIA].
 
 **Posição do clímax no corpus (30 a 63 min).** Em vez de uma regra, o corpus mostra dispersão. Os valores são proporção do tempo total, calculada a partir do minuto marcado no corpus. Algumas marcações de clímax são do próprio corpus e foram rotuladas lá como [INFERÊNCIA].

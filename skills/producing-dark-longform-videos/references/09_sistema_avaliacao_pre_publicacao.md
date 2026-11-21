@@ -81,7 +81,7 @@ O destino com minuto é checado no portão de roteiro (1.5) e no de corte (1.6).
 
 **Exemplos do corpus.**
 - *Archivo Criminal*, "...Todo quedó grabado" (youtube.com/watch?v=5dBKrFQyHkg): a miniatura mostra um recorte em tons de cinza no estilo de câmera de segurança, com seta vermelha. A pesquisa não encontrou reportagem sobre o caso do título, e o registro não tem fonte. **P-4 falha (B).** O dossiê conclui que prova visual só entra com a fonte do registro (a2 §5.2, passo 11).
-- *Designers Que Usaram 100% Do Cérebro* (youtube.com/watch?v=ha_mqcCBcQo): a imagem recebida traz "GUARDA-CHUVA MÁGICO" e um guarda-chuva, sem relação com o título ou a descrição. **P-3 não pode ser confirmado (B).** O corpus usou esse caso como alerta de integridade (a5 §9.3). Enquanto o ID não confirmar, o pacote não passa.
+- *Designers Que Usaram 100% Do Cérebro* (youtube.com/watch?v=ha_mqcCBcQo): a imagem recebida traz "GUARDA-CHUVA MÁGICO" e um guarda-chuva, sem relação com o título ou a descrição. **P-3 não pode ser confirmado (B).** O corpus usou esse caso como alerta de integridade (a5 §9). Enquanto o ID não confirmar, o pacote não passa.
 - *Doppelgänger-Mord in Ingolstadt* (youtube.com/watch?v=am_Jp5hV-vg): duas fotos de mulheres, seta e "DER INSTAGRAM-MORD". A seta afirma relação entre as duas. Uma delas é acusada e o caso tem recurso (a2 §2.8). **P-2 e P-5 exigem** status verificado na data e a não afirmação de relação sem fonte.
 
 **Ao reprovar:** volta à miniatura, ao título ou à descrição. Não volta ao roteiro. O pacote corrigido refaz o portão inteiro, incluindo o teste da seção 3.1.
@@ -609,6 +609,8 @@ Registre também: teste de promessa (3.5): elementos do pacote sem pagamento: __
 - Item de peso 2 com nota 0 impede os status "Aprovado" e "Aprovado com ressalva". Essa regra vem de 03 (§6.2).
 - Mesmo quando um portão é reprovado, os portões seguintes continuam sendo pontuados para diagnóstico. Eles não liberam publicação.
 
+> **Qual tabela vale (revisão 2).** Para máximos, passagem e faixa de revisão, vale a seção 2: PR 30 (passa com 23), HR 24 (18), RR 34 (26), CR 22 (17); revisar a partir de 55% do máximo. Os pesos de 2.2 a 2.5 somam 15, 12, 17 e 11 pontos, o que dá esses máximos. A tabela abaixo e os totais da ficha em 4.1 (26, 28, 32 e 24) vêm da versão inicial da ficha, com outra lista de itens e pesos; quem audita usa os números da seção 2 e registra o máximo usado.
+
 **Cortes iniciais** [PRATICANTE, heurística minha]. Os percentuais foram escolhidos para reproduzir os cortes de pacote de 03 (§6.2: 20 ou mais, de 14 a 19, e 13 ou menos, em 26 pontos). Não há fonte no material para outro valor.
 
 | Portão | Máximo | Passa (75% ou mais) | Revisar (53% a 74%) | Refazer (abaixo de 53%) |
@@ -776,7 +778,7 @@ Os critérios abaixo reprovam independentemente da nota. Não entram na soma nem
 | E-05 | Fontes divergem (data, número, local) e o pacote, o hook ou o roteiro escolhe uma versão sem declarar a divergência nem o critério. | 2, 3, 4 | G4 (03, §6.1, caso de data divergente); 02, H-24 | Não |
 | E-06 | Acusado tratado como culpado; "o responsável" sem sentença ou fonte oficial; status jurídico não verificado na data de publicação. | 2, 4, 5 | 03, §2.8; 02, H-29 e riscos éticos | Não |
 | E-07 | Vítima, familiar, testemunha ou pessoa comum identificável (rosto ou nome) aparece sem origem, direito de uso ou avaliação ética registrada. | 2, 5 | 03, §2.6 (regra 1); 02, riscos éticos | Não |
-| E-08 | Criança vítima aparece com imagem, nome ou enquadramento de horror, ou com foto sem avaliação ética registrada. | 2, 5 | 03, §2.8 (caso Bulger); 04, §9.4 | Não |
+| E-08 | Criança vítima aparece com imagem, nome ou enquadramento de horror, ou com foto sem avaliação ética registrada. | 2, 5 | 03, §2.8 (caso Bulger); 03, §6.1 (G5) | Não |
 | E-09 | Corpo, sangue ou cena de ataque em destaque na miniatura ou no trecho de abertura. | 2, 5 | Política de miniaturas (03, §2.8); 02, H-42 ("descrever, não exibir") | Sim, só como exceção documental ou educativa, com justificativa escrita e segundo revisor registrados. Não decidida só pelo produtor |
 | E-10 | Miniatura ou título faz o espectador esperar conteúdo que o vídeo não tem. | 2, 5 | Política (03, §2.8 e §3.4) | Não |
 | E-11 | Reconstrução, ilustração ou dramatização aparece como registro, sem rótulo na tela na primeira aparição. | 4, 5 | 05, §5.5; 03, §5.3 (ilustração marcada como ilustração) | Não |

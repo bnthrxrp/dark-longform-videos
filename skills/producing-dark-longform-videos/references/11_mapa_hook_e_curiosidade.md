@@ -2,6 +2,8 @@
 
 > Mapa temático da biblioteca de livros e artigos (15 obras lidas por agentes). Livro de autor é `[PRATICANTE]`; estudo que o livro cita é `[ESTUDO citado pelo autor]`, não verificado pelo projeto; metanálise lida na íntegra é `[ESTUDO]`. Nenhuma obra mede retenção em vídeo longo: tudo aqui é hipótese de ofício.
 
+> **Atualizado pela segunda leva:** ver `20` §Mapa 11. As correções pontuais estão aplicadas abaixo, marcadas com "(2ª leva)"; os acréscimos (N1, N2...) e as divergências novas ficam só em `20`.
+
 # Mapa temático: hook, abertura e curiosidade
 
 **Escopo deste mapa.** Lacuna de informação, loops abertos, surpresa, promessa e forma de abrir, separados em dois grupos: o que vale para os primeiros 90 segundos de um vídeo longo narrado e o que é tática de feed curto.
@@ -37,11 +39,12 @@
 **P4. Surpresa precisa estar ligada ao núcleo da mensagem.**
 - Heath: surpresa que não tem relação com a mensagem é *gimmick*; a surpresa útil é a que, depois de pensar, faz sentido com pistas já apresentadas (*post-dictable*) [PRATICANTE].
 - Kane: o hook não é clickbait; precisa estar ligado a uma história que entregue valor [PRATICANTE].
-- Berger (*Contagious*): surpresa e alta ativação favorecem comentário imediato, não permanência [ESTUDO citado pelo autor, sobre word of mouth de produto].
+- Berger (*Contagious*): surpresa e alta ativação favorecem comentário imediato, não permanência [ESTUDO citado pelo autor, sobre word of mouth de produto]. (2ª leva) Berger & Milkman (2012) codificaram surpresa, mas as notas não trazem o coeficiente dela: não há base para afirmar algo mais sobre surpresa.
 
 **P5. A pergunta do espectador precisa de base prévia para gerar curiosidade.**
 - Loewenstein (1994): curiosidade exige alguma base de conhecimento; pergunta sem base prévia tende a não gerar curiosidade [ESTUDO, teoria com dados de laboratório].
 - Loewenstein et al. (1992, working paper não publicado): pergunta de resposta única (insight) gera mais curiosidade que fatos incrementais [ESTUDO citado pelo autor].
+- (2ª leva) Golman et al. (2021) testaram outra variável: a **importância** da pergunta (consequência real para quem responde, Exp. 1A), não a base de conhecimento. A base prévia continua sustentada só pela teoria de Loewenstein; precisa de um segundo critério, a consequência explícita (`20` §Mapa 11, N1).
 
 ---
 
@@ -75,10 +78,11 @@ Cada técnica traz origem, o que é, como aplicar em vídeo longo narrado, rótu
 - *Origem:* Loewenstein (1994) [ESTUDO]; Heath; base 02 H-05 e H-15.
 - *Aplicação:* Se a pergunta-mestra é aberta ("o que aconteceu?"), então reescreva-a como pergunta com resposta documentada e de que o público já tem alguma base para sentir falta.
 - *Rótulo:* [ESTUDO] para o princípio; transferência [ADAPTAÇÃO].
+- *Ressalva (2ª leva):* o estudo mais recente (Golman et al., 2021, laboratório) variou a importância da pergunta, não a base de conhecimento. Some um segundo critério: a pergunta tem consequência explícita, dita no primeiro bloco e com fonte (`20` §Mapa 11, N1).
 - *Contraindicação:* sem base prévia, a pergunta não gera curiosidade (Loewenstein). Não formular perguntas sobre pessoas reais sem fonte.
 
 **T2. Palpite antes da resposta.**
-- *Origem:* Loewenstein (1994) cita feedback de palpite como fator de saliência da lacuna; a fonte primária não foi localizada na ficha. Kang et al. (2009, Exp. 1, n = 19), citado em 01 §1: curiosidade maior quando a confiança no palpite fica perto de 50%. Este último não está verificado pela biblioteca.
+- *Origem:* Loewenstein (1994) cita feedback de palpite como fator de saliência da lacuna; a fonte primária não foi localizada na ficha. Kang et al. (2009, Exp. 1, n = 19), citado em 01 §1: curiosidade maior quando a confiança no palpite fica perto de 50%. Conflito de leitura (2ª leva): `07` §2.1.2 registra o PDF de Kang et al. como lido integralmente (n = 19, r = 0,44, pico de curiosidade entre 0,45 e 0,55 de confiança), enquanto Golman (2021) apenas cita Kang sem esses números. Para o número, vale `07` §2.1.2 [ESTUDO]; ainda assim, é trivia em laboratório, sem vídeo.
 - *Aplicação:* Se o caso admite uma hipótese plausível, então apresente a hipótese (do espectador ou de uma fonte nomeada) e revele o resultado no bloco seguinte.
 - *Rótulo:* [ESTUDO citado pelo autor] e [ADAPTAÇÃO].
 - *Contraindicação:* palpite de caso real precisa de fonte. Não criar palpite para personagem real. Dado de laboratório, não de vídeo.
@@ -154,7 +158,7 @@ Cada técnica traz origem, o que é, como aplicar em vídeo longo narrado, rótu
 - Shen, Sheer e Li (2015), meta-análise de narrativa em saúde (r = .063). Desfecho: atitude, intenção e comportamento. Estímulos de 72 s a 11 min. Não é evidência para vídeo de 30 min.
 
 **Com estudo citado, não verificado pela biblioteca:**
-- Kang et al. (2009), via 01 §1: n = 19, palpite perto de 50%. [ESTUDO citado pelo Master Playbook].
+- Kang et al. (2009): n = 19, palpite perto de 50%. [ESTUDO]; lido integralmente em `07` §2.1.2 (a leitura que este mapa usou era a citação de `01` §1).
 - Loewenstein et al. (1992), working paper não publicado, citado em Loewenstein (1994).
 - Rey et al. (2019), segmentação em aprendizagem (d = 0,42 e 0,19), citado em 01 §1.
 - Hinds (1999), citado em Heath: especialistas estimaram 13 min para tarefas que novatos levaram 33 min. Sem n.
@@ -219,6 +223,6 @@ Todas dependem da curva do próprio canal. Antes de cada teste, fixe a métrica 
 - **H6. Pessoa documentada no primeiro bloco versus dado ou documento.** Métrica: retenção aos 30 s e aos 60 s. Origem: T7, T8.
 - **H7. Setup no bloco 4 e payoff no bloco 10.** Métrica: retenção no bloco do payoff e AVD. Origem: T9. O efeito sobre permanência é desconhecido; o teste mede o que a base chama de pagamento.
 - **H8. Decaimento da embalagem (hook fatigue).** Quando o hook repete embalagem de vídeos recentes, a retenção aos 30 s cai? Métrica: retenção aos 30 s comparada com a média de vídeos de mesma origem. Origem: Kane, D6.
-- **H9. Transitoriedade da curiosidade.** Se a pergunta pendente fica sem pagamento parcial por mais de um bloco, a curva cai mais do que nos blocos com recompensa? Métrica: queda entre blocos. Origem: Loewenstein (1994), transitoriedade; 01 §1, item 4.
+- **H9. Transitoriedade da curiosidade.** Se a pergunta pendente fica sem pagamento parcial por mais de um bloco, a curva cai mais do que nos blocos com recompensa? Métrica: queda entre blocos. Origem: Loewenstein (1994), transitoriedade; 01 §1, item 4. (2ª leva) A janela observada em laboratório é de horas, não de blocos: no Exp. 2B de Golman et al. (2021), a procura de informação foi maior só na primeira hora (29,7% contra 19,1%; p = 0,020), e o efeito geral não foi significativo (p = 0,104). Trate H9 como hipótese de sinal fraco.
 
 **Limite geral.** Nenhuma destas hipóteses tem desenho pronto. Os canais dark têm amostra pequena. A comparação entre vídeos diferentes confunde tema com tratamento (10 §1.5), e curvas de terceiros não são públicas.

@@ -4,6 +4,8 @@
 
 # Atualização dos mapas 11 a 16 com a segunda leva
 
+**Estado (2ª leva).** As correções pontuais deste arquivo (troca de fonte, etiqueta, ressalva ou limite) já foram aplicadas dentro dos mapas `11` a `16` e aparecem lá marcadas com "(2ª leva)". Quem lê um mapa vê a correção; o que fica só aqui são os acréscimos (N1, N2...), as divergências novas e as hipóteses.
+
 **Como ler.** Cada mapa tem quatro partes: **correções** ao que já está escrito; o que a segunda leva **confirma**; o que **acrescenta**, numerado em N1, N2... para não colidir com T, D e H dos mapas originais; e **hipóteses novas**. Não repito o que os mapas já dizem.
 
 **Etiquetas.** [ESTUDO] para o que foi lido nas notas (integral, salvo indicação); [ESTUDO citado pelo autor] para o que uma obra cita; [OFICIAL] para a central de ajuda do YouTube; [PRATICANTE] para livros de ofício; [CASO] para exemplos relatados.
@@ -17,7 +19,7 @@
 ### Correções
 
 - **§1 P5 e T1 (base prévia).** Golman et al. (2021) testaram outra variável: a **importância** da pergunta, isto é, consequência real para quem responde (Exp. 1A). Não testaram base de conhecimento. T1 precisa de um segundo critério: pergunta com consequência explícita (N1).
-- **§4 e T2 (Kang et al., 2009).** A segunda leva não resolve. Golman cita Kang (2009) sem trazer o n = 19 nem o ponto de 50%. A afirmação do Playbook (§1, ponto 1) segue sem fonte verificada. T2 mantém a etiqueta de "citado, não verificado".
+- **§4 e T2 (Kang et al., 2009).** A segunda leva não resolve. Golman cita Kang (2009) sem trazer o n = 19 nem o ponto de 50%. Por esse caminho, a afirmação do Playbook (§1, ponto 1) segue sem confirmação. Conflito a resolver: `07` §2.1.2 registra o PDF de Kang et al. (2009) como lido integralmente (n = 19, r = 0,44, pico entre 0,45 e 0,55). Vale `07` §2.1.2 para o número [ESTUDO]; a etiqueta "citado, não verificado" de T2 foi trocada por essa leitura em `11`.
 - **§7 H9 (transitoriedade).** A janela observada é curta. No Exp. 2B, a procura de informação foi maior só na primeira hora (29,7% contra 19,1%; χ² = 5,453; p = 0,020). O efeito geral não foi significativo (45,7% contra 37,2%; p = 0,104). H9 passa a ser uma hipótese de janela de horas, com sinal fraco.
 - **P4 (surpresa).** O mapa atribui a Berger a relação entre surpresa e comentário imediato, a partir de *Contagious*. Berger & Milkman (2012) codificaram surpresa, mas as notas não trazem o coeficiente dela. Não há base na segunda leva para afirmar algo sobre surpresa.
 
@@ -380,7 +382,7 @@
 - Nenhuma das fichas mede retorno ao canal, inscrição, compartilhamento de vídeo ou retenção de vídeo longo.
 - Os números de Golman e de Berger & Milkman são de MTurk e de texto de notícia; não há conversão para vídeo.
 - Park (2016) não traz data de coleta. Wu (2017) usa dados de 2016. Bassolas (2025) é preprint, com inconsistência de datas e figuras ilegíveis.
-- Kang et al. (2009), a fonte do ponto de 50% no Playbook, continua não verificado.
+- Kang et al. (2009): a segunda leva não o verifica (Golman só o cita). A leitura integral está em `07` §2.1.2, que prevalece para o número.
 
 ## Operacional
 

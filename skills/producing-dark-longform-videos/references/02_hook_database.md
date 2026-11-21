@@ -2,7 +2,7 @@
 
 # Hook Database: seções operacionais: anatomia, matriz, decisão, erros, limites
 
-# Hook Database: seções 1 a 5 (coerentes com H-01 a H-54)
+# Hook Database: seções 1 a 5 (coerentes com H-01 a H-59)
 
 Este documento não reescreve as estruturas. Ele define a sequência de 0 a 90 s, a matriz de gêneros, a árvore de decisão, os erros observados e os limites da evidência.
 
@@ -285,6 +285,8 @@ Enquanto essas pendências não forem resolvidas, nenhuma estrutura deste docume
 
 # As estruturas de hook
 
+> **Nota (revisão 2).** Fórmulas como H-26 ("Vamos descobrir como..."), H-27, H-36 e H-50 anunciam o formato do vídeo. No projeto, escreva a mesma promessa como a pergunta dita de dentro da cena, e não como anúncio de método: em teste cego com juízes de IA [TESTE-IA], hooks que listavam o método ficaram em último com mais frequência (ver `21`). Os exemplos reais abaixo mostram o que o canal fez; não são o formato a copiar.
+
 ## Lacuna de informação
 
 ### H-01 - Nome retido após a cena
@@ -472,7 +474,7 @@ Enquanto essas pendências não forem resolvidas, nenhuma estrutura deste docume
 - **Exemplo real**: sem exemplo verificado no material. O único caso com dilema (Enrique Blanco) está em outra posição e não permite trocar sem reescrever o hook.
 - **Exemplo construído**: "Para uns, ele foi o homem que fechou a ponte. Para outros, foi o único que avisou a vila antes da cheia. Ambos têm documentos." (Exemplo construído.)
 - **Como o contexto entra**: o fato verificável vem antes do julgamento de qualquer um dos lados.
-- **Payoff exigido**: resolver o dilema com fatos documentados até 40% do vídeo.
+- **Payoff exigido**: resolver o dilema com fatos documentados até 40% do vídeo [PRATICANTE, uma fonte, não validada; origem em `04` §10, item B8].
 - **Riscos e contraindicações**: sem dois lados documentados, vira manipulação.
 
 ---

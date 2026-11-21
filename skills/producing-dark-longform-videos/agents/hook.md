@@ -1,37 +1,48 @@
 # Papel: hook (0 a 90 segundos)
 
-**Objetivo.** Texto narrado dos primeiros 90 segundos: instala a pergunta-mestra e paga um primeiro pedaço dela.
+**Objetivo.** Texto narrado de 80 a 95 s (cerca de 180 a 215 palavras a 135 palavras/min) que instala a pergunta central de dentro da história e paga um primeiro pedaço dela.
 
-**Leia**
-- `02` §1 Anatomia dos 90 segundos e §3 Árvore de decisão: escolha a família de estrutura pelo material que existe
-- `02` as fichas H-NN que a árvore indicar (duas ou três, não todas)
-- `02` §4 Erros de abertura observados
-- `01` §3.2 Os primeiros 90 segundos
+**Entregue** em `## 4. Hook`: texto contínuo, sem marcas; código(s) H-NN; resultado de `medir_texto.py`; cada pergunta instalada, com bloco e minuto de pagamento, no registro de promessas; ids da tabela de fatos por parágrafo. No modo enxuto (`SKILL.md`), abertura escolhida e códigos H-NN só se o usuário pedir.
 
-**Entregue** no dossiê, seção 4:
-- Código(s) H-NN usados e por que servem a este material.
-- O texto em três janelas, com a função de cada uma:
-  - 0–30 s: cena ou fato com âncora concreta (data, lugar, objeto) e a primeira lacuna.
-  - 30–60 s: promessa explícita do que será respondido; no máximo duas perguntas abertas.
-  - 60–90 s: recompensa parcial - um dado com fonte, um nome ou uma imagem que responde parte da pergunta. O contexto vem depois dela.
-- Contagem de palavras e as linhas do registro de promessas que o hook abre (cada pergunta instalada, com o bloco e o minuto em que será paga).
+**Leia:** `00` §2 (aberturas reais, só pela forma); `02` §3 e duas ou três fichas H-NN; `02` §4; `01` §3.2; `20` Mapa 11, D-N1. H-26, H-27, H-36 e H-50 anunciam o formato ("vamos descobrir..."): reescreva a promessa como a pergunta dita de dentro da cena. `[TESTE-IA]`: ver `21` §1.
 
-- Teste de remoção: a surpresa ou o objeto do hook tem de ser parte da pergunta-mestra. **Passa** quando, sem ele, a pergunta deixa de fazer sentido. **Falha** quando dá para tirá-lo e a história segue igual: aí é enfeite - corte ou ligue à pergunta (`11` §3, T5; ofício).
+**Antes de escrever**
+1. **Tamanho.** Ritmo do narrador em `## 0. Canal` (padrão 135 palavras/min). Faixa: ritmo × 1,33 a × 1,58. Mediana do corpus em 90 s: 203 palavras `[DADO]`.
+2. **Abertura.** Escolha pela anomalia (`## 1. Ideia`); nomeie a escolhida e uma alternativa:
+   - objeto ou documento parado: **o objeto que não deveria existir**, mostrado primeiro, data depois;
+   - achado ou gente em risco numa sequência: **cena fria no momento da descoberta**, em presente;
+   - dois fatos que colidem: **a contagem que não fecha**;
+   - pessoa com registro final (fala, anotação, rádio): **a pessoa e o último registro dela**.
 
-**Para o hook prender.** Num teste comparativo com juízes cegos, a versão anterior desta skill perdeu para o texto escrito sem ela em 21 de 24 ordenações: os hooks saíam curtos, "soavam como aula" e paravam antes do melhor momento. Com as quatro correções abaixo, numa segunda rodada com juízes novos, empatou com ele (18 a 18 primeiros lugares em 36 ordenações). Todas ficam dentro das regras de fato e de promessa `[DADO do teste com juízes de IA; não é medida de audiência]`:
-1. **Use os 90 segundos inteiros: 190 a 230 palavras.** A mediana do corpus é 203 `[DADO]`. Com menos de 170 você escreveu um minuto, não um minuto e meio.
-2. **Nenhuma frase sobre o vídeo.** "Este vídeo vai responder", "vamos separar o que é fato do que é hipótese", "a pergunta deste vídeo é": tudo isso é aula. A promessa é a própria pergunta, feita uma vez, de dentro da história.
-3. **Mostre as cartas fortes.** Os fatos mais estranhos do caso entram no hook, inclusive a virada mais recente, como isca. Guarde a explicação, não os fatos.
-4. **Termine no ponto de maior tensão:** a pergunta mais forte ou a contradição que ninguém resolveu. Não termine anunciando o que vem a seguir.
-Escreva cena que se vê: hora, clima, objeto, gesto - só com o que está na tabela de fatos. Detalhe de cenário inventado ("a mata ficava logo atrás da casa") é fato sem fonte: na segunda rodada, o auditor achou isso em 3 de 4 hooks corrigidos de temas novos `[trava acrescentada depois do teste; ainda não testada]`.
+   Abrir pelo que se vê e datar depois é opção `[TESTE-IA]` (`21` §6, H5, fraca).
 
-**Só avança quando** as três funções estão cumpridas, o texto tem de 190 a 230 palavras, não há frase sobre o vídeo e nenhum número ou superlativo do hook está sem fonte na tabela de fatos.
+**Escreva** em 5 a 9 parágrafos curtos, para ser ouvido, com frase de uma linha nos pontos de virada. A 135 palavras/min, 30 s são cerca de 68 palavras.
+- **Até 30 s:** âncora concreta e primeira lacuna. Os fatos mais estranhos da ficha entram cedo, como afirmações. Guarde a explicação.
+- **Até 60 s:** a pergunta central, uma vez, com nome ou objeto do caso ("Por que dez pessoas deixariam um navio que ainda flutuava?"). No máximo duas perguntas no hook. Nenhuma frase sobre o vídeo ("vamos responder", "neste vídeo", "vamos separar fato de hipótese"). Uma frase assim é Corrige; duas ou mais, ou apelo, bloqueiam.
+- **60 a 90 s:** recompensa parcial (dado com fonte, nome, imagem). Contexto depois. Fato forte entra se reabre a pergunta; o que a responde fica para o bloco.
+- **Fecho:** pergunta ou afirmação que nomeia algo concreto ainda sem resposta (laço aberto específico), sem repetir a pergunta central. Pergunta: a mais forte que a história abriu (até 12 palavras, com nome ou objeto do caso). Afirmação: a contradição ou o dado estranho que ninguém resolveu, com nome ou objeto. Afirmação que encerra o assunto solta a tensão. Sem anúncio do que vem, sem "o que isso significa" (`21` §6, H3).
 
-**Armadilhas** (todas apareceram em hooks escritos sem esta skill)
-- Sumário: "nos próximos 30 minutos vamos ver quem, como e por quê". Promessa é uma pergunta, não um índice. Qualquer frase que comece por "neste vídeo vamos..." ou "este vídeo vai..." e liste o que vem é sumário, mesmo curta: troque pela pergunta, dita como pergunta.
-- "Fique até o fim", "se você acha que conhece o caso", pedido de inscrição.
-- Pergunta de trivia para o espectador ("quantas pessoas você acha que...") no lugar da pergunta-mestra.
-- Superlativo sem fonte ("um dos maiores desastres").
+**Cena sem invenção.** A cena vem só da coluna "cena possível" de `## 2. Tabela de fatos`. Em cópia de trabalho, marque cada frase:
+- **F:** fato da ficha, ainda que parafraseado.
+- **I:** inferência dita como inferência ("isso sugere"), de duas linhas da ficha.
+- **R:** ritmo ou pergunta, sem fato novo ("Pense nisso.").
+- **X:** hora, clima, distância, gesto, estado interno, tentativa ou causa que a ficha não traz.
+
+X também é: relação entre pessoas (amigo, parente, rival), veículo (barco, carro), nacionalidade ou sede que a ficha não dá, quantidade ou comparação ("bem menor", "tanta gente") e adjetivo que embeleza o objeto. Anote o id da ficha ao lado de todo substantivo concreto; sem id, corte. X sai, ou vira F ou R. Cena pobre se resolve com ritmo e ordem, nunca com cenário. Frases de ritmo ("Pense nisso."): no máximo duas, e só se o fato seguinte está na ficha. Fato "a verificar": escreva sem ele ou marque `[VERIFICAR]`, única marca permitida, que sai antes de narrar. Fato de uma só parte entra atribuído.
+
+**Meça.** Salve o texto sem marcas em `hook.txt` e a coluna Fato da tabela em `fatos.txt` (um por linha). Rode `python scripts/medir_texto.py hook.txt --tipo hook --fatos fatos.txt` (`--wpm N` se o canal tem outro ritmo) e registre palavras e tempo. Sem rodar, escreva "não medi". Se a saída traz "fecho em afirmação", cole a última frase e escreva o que ela deixa sem resposta; sem isso, refaça o fecho. Abaixo da faixa: use fatos ainda não usados; se a ficha não alcança, diga ao usuário. Acima: corte.
+
+**Teste de remoção:** sem a surpresa ou o objeto do hook, a pergunta perde o sentido (`11` §3, T5).
+
+**Só avança quando**
+- o texto medido ocupa 80 a 95 s;
+- a pergunta central aparece uma vez, até 60 s, e o script não aponta metalinguagem;
+- toda frase é F, I ou R (superlativo sem fonte é X); todo número tem linha na tabela de fatos;
+- a recompensa parcial vem antes de 90 s e o texto fecha em laço aberto específico (cole a última frase e diga que laço ela abre);
+- o teste de remoção passa.
+
+**Armadilhas**
+- Sumário disfarçado de promessa, mesmo curto.
+- "Fique até o fim", pedido de inscrição, pergunta de trivia.
+- Abrir pelo desfecho que o vídeo paga. Flash-forward só com pergunta de mecanismo ou consequência (`20` Mapa 11, D-N1).
 - Contexto antes da primeira recompensa.
-- Abrir pelo desfecho que o vídeo existe para pagar. Flash-forward só com pergunta de mecanismo ou de consequência ("como chegou a isso?"), nunca entregando a resposta da pergunta-mestra (`19` §2; regra provisória, com um caso a favor e um contra).
-- Fato "a verificar" narrado como certo: escreva a frase de modo que ela não dependa do dado, ou marque `[VERIFICAR]` no texto.

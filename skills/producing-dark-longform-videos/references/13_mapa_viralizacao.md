@@ -2,6 +2,8 @@
 
 > Mapa temático da biblioteca de livros e artigos (15 obras lidas por agentes). Livro de autor é `[PRATICANTE]`; estudo que o livro cita é `[ESTUDO citado pelo autor]`, não verificado pelo projeto; metanálise lida na íntegra é `[ESTUDO]`. Nenhuma obra mede retenção em vídeo longo: tudo aqui é hipótese de ofício.
 
+> **Atualizado pela segunda leva:** ver `20` §Mapa 13. As correções pontuais estão aplicadas abaixo, marcadas com "(2ª leva)"; os acréscimos (N1, N2...) e as divergências novas ficam só em `20`.
+
 # Mapa: Viralização e compartilhamento
 
 **Escopo deste mapa.** Como o conteúdo é compartilhado e lembrado: moeda social, gatilhos, emoção, visibilidade, utilidade, simplicidade, concretude e histórias. Nenhuma obra desta biblioteca mede retenção, AVD, APV, CTR ou tempo assistido em vídeo longo. O que as fontes medem é envio, lembrança, compra, doação, persuasão e atitude, quase sempre em produtos, anúncios, artigos, saúde ou laboratório. Compartilhar um vídeo e continuar assistindo a ele são resultados diferentes. Este mapa trata a viralização como hipótese sobre um desfecho que o canal não mede diretamente.
@@ -30,7 +32,7 @@
 - van Laer et al. (2014): transportação se associa a afeto consistente com a história (r = .57) e a pensamento crítico menor (r = −.20) [ESTUDO].
 - Apoio: [ESTUDO], com desfecho de persuasão, não de compartilhamento.
 
-**P5. Emoção de alta ativação se associa a mais compartilhamento; tristeza a menos.** Berger et al. (ano não consta), sobre cerca de 7 mil artigos do NYT na lista Most E-Mailed: interesse +25%, utilidade +30%, awe +30%, tristeza −16%, positividade +13% na chance de entrar na lista [ESTUDO citado pelo autor, correlacional].
+**P5. Emoção de alta ativação se associa a mais compartilhamento; tristeza a menos.** Berger & Milkman (2012, *Journal of Marketing Research*), sobre cerca de 7 mil artigos do NYT na lista Most E-Mailed: interesse +25%, utilidade +30%, awe +30%, tristeza −16%, positividade +13% na chance de entrar na lista [ESTUDO, lido em texto integral; correlacional]. (2ª leva) A fonte do número é o artigo, não *Contagious*; a coleta cobre 30/08 a 30/11/2008 (três meses; a ficha do livro diz seis). A Figura 2 fala em "% change in fitted probability" e o texto em "odds": ao citar o percentual, diga qual leitura usou.
 - Limite: entrar na lista não é compartilhar, e a pontuação foi subjetiva por equipe (ficha Berger §7.1).
 
 **P6. Não confundir o que circula com o que dura.** Berger (cap. 6, segundo a ficha): sucesso não se conta só por visualizações. O próprio livro usa views como medida de alcance em outros trechos [CASO]. Hall: "Ninety percent..." e números similares, sem fonte. Os autores mais cuidadosos (Berger, Heath) não medem permanência.
@@ -46,7 +48,7 @@
 **D2. Pessoa antes do número, ou fato primeiro?** Heath e Hall dizem começar por pessoa e momento, e Heath relata que o caso individual (Rokia) gerou mais doação que a estatística, $2,38 contra $1,14 [ESTUDO citado pelo autor, sem n, ano 2004 segundo a ficha]. Hall recomenda o "normal" antes da explosão e, no cap. 9, o oposto [PRATICANTE].
 - *Enquanto isso:* o desfecho do estudo é doação, não permanência. Testar a ordem no canal, uma variável por vez (10 §1.1).
 
-**D3. Emoção negativa ajuda ou atrapalha?** Berger (NYT) associa tristeza a menos compartilhamento. Berger também cita casos de raiva e ansiedade como alta ativação, e Heath/Hall usam emoção autêntica sem restrição de valência [PRATICANTE].
+**D3. Emoção negativa ajuda ou atrapalha?** Berger & Milkman (2012, NYT) associam tristeza a menos compartilhamento (−16%); (2ª leva) no artigo, a raiva é o preditor de maior coeficiente (+0,38; +34% por desvio-padrão). Berger também cita casos de raiva e ansiedade como alta ativação, e Heath/Hall usam emoção autêntica sem restrição de valência [PRATICANTE].
 - *Enquanto isso:* o canal trata crime, desaparecimento e morte (03 §3.4, caso Clodimar). Não usar a regra de tristeza para decidir tema. Testar temas de alta ativação positiva (assombro) contra negativa dentro de séries comparáveis, com métrica de compartilhamento definida antes (10 §1.3).
 
 **D4. Fato repetível ou fato verificável em detalhe?** Berger elogia o fato para repetir (Snapple, nos rótulos) [CASO]. Heath diz que o detalhe verificável dá credibilidade, mas alerta que a verificação pode levar à conclusão errada (caso Snapple, trecho 3) [CASO].
@@ -91,7 +93,7 @@ Formato: o que é; fonte; como aplicar em vídeo longo de canal dark; rótulo de
 
 **T5. Emoção de alta ativação, de valência a testar.**
 - *O que é:* escolher a emoção do conteúdo entre as de alta ativação (assombro, indignação, surpresa).
-- *Fonte:* Berger, NYT [ESTUDO citado pelo autor, correlacional].
+- *Fonte:* Berger & Milkman (2012), NYT [ESTUDO, texto integral; correlacional; três meses de coleta em 2008].
 - *Aplicação:* na escolha de tema e no hook. Não tratar como regra de retenção.
 - *Transferência:* NÃO VALIDADO EM LONG-FORM.
 - *Contraindicação:* evitar tratar a emoção como substituto de fato. Crime e morte exigem tom verificável e cuidado com vítimas.
@@ -137,8 +139,8 @@ Formato: o que é; fonte; como aplicar em vídeo longo de canal dark; rótulo de
 
 | Tipo | Fontes | Observação |
 |---|---|---|
-| **Evidência, lida na biblioteca** [ESTUDO] | Shen et al. (2015); van Laer et al. (2014); van Laer et al. (2019); Loewenstein (1994) | Meta-análises de persuasão e teoria de curiosidade. Nenhuma mede compartilhamento de vídeo nem retenção. |
-| **Evidência citada pelo autor, não verificada** [ESTUDO citado pelo autor] | Berger (estudos de produto, anúncio, carro, transplante, NYT); Heath (Hinds, Pennington e Hastie, Rokia, Truth); Hall (Zak, Steller, Adaptly) | Vários sem n, ano ou desenho. Steller e Hall/Steller têm conflito de interesse. Zak é neuroquímica sem mecanismo (07 §3.1). |
+| **Evidência, lida na biblioteca** [ESTUDO] | Shen et al. (2015); van Laer et al. (2014); van Laer et al. (2019); Loewenstein (1994); (2ª leva) Berger & Milkman (2012), texto integral | Meta-análises de persuasão, teoria de curiosidade e o estudo de lista de e-mails do NYT. Nenhuma mede compartilhamento de vídeo nem retenção. |
+| **Evidência citada pelo autor, não verificada** [ESTUDO citado pelo autor] | Berger (estudos de produto, anúncio, carro, transplante; o do NYT saiu desta linha, ver acima); Heath (Hinds, Pennington e Hastie, Rokia, Truth); Hall (Zak, Steller, Adaptly) | Vários sem n, ano ou desenho. Steller e Hall/Steller têm conflito de interesse. Zak é neuroquímica sem mecanismo (07 §3.1). |
 | **Ofício, com framework próprio** [PRATICANTE] | STEPPS (Berger); SUCCESs (Heath); Hooked (Eyal); Hook Point (Kane); Story (McKee); Stories That Stick (Hall) | Organizam observações. Um framework não é prova de efeito, mesmo quando o autor o chama de "science-based". |
 | **Caso** [CASO] | Snapple, Jared/Subway, Mint.com, McDonald's UK, Rings | Ilustração. Nenhum tem medida de desempenho. |
 

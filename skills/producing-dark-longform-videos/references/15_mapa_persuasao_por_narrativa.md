@@ -2,6 +2,8 @@
 
 > Mapa temático da biblioteca de livros e artigos (15 obras lidas por agentes). Livro de autor é `[PRATICANTE]`; estudo que o livro cita é `[ESTUDO citado pelo autor]`, não verificado pelo projeto; metanálise lida na íntegra é `[ESTUDO]`. Nenhuma obra mede retenção em vídeo longo: tudo aqui é hipótese de ofício.
 
+> **Atualizado pela segunda leva:** ver `20` §Mapa 15. As correções pontuais estão aplicadas abaixo, marcadas com "(2ª leva)"; os acréscimos (N1, N2...) e as divergências novas ficam só em `20`.
+
 # Mapa temático: Persuasão por narrativa, a evidência
 
 **Escopo.** Este mapa cobre o que três metanálises e algumas fontes de apoio dizem sobre transporte narrativo e efeito de histórias. O desfecho medido em todas é persuasão (atitude, intenção, crença), não retenção, AVD, APV ou CTR. Por isso, tudo o que vai do efeito persuasivo para vídeo longo de canal dark é [ADAPTAÇÃO] ou [NÃO VALIDADO EM LONG-FORM].
@@ -34,6 +36,7 @@
 **P4. O transporte é um mecanismo candidato, não medido em retenção.**
 - van Laer (2014) mede transporte como empatia com personagem mais imaginação ativada, com efeito maior sobre afeto do que sobre cognição. [ESTUDO]
 - Nenhum dos três estudos mede tempo assistido, retenção ou volta ao canal.
+- (2ª leva) O único estudo do corpus com manipulação de transporte é Green & Brock (2000), Exp. 4 [ESTUDO]: a instrução de atenção à forma reduziu o transporte (58,97 contra 63,81; p = 0,01) e a crença mudou 0,21 ponto numa escala de 1 a 7 (p = 0,02, unilateral). O efeito causal sobre crença é pequeno; a associação de van Laer não deve ser lida como efeito da narrativa.
 
 **P5. Pergunta específica e lacuna percebida geram curiosidade.**
 - Apoio: Loewenstein (1994), teoria da lacuna de informação, com experimentos de laboratório citados (Loewenstein et al., 1992, não publicado na data; Felcher et al., 1993, n = 30). [ESTUDO]
@@ -109,7 +112,7 @@
 - *Se* a narração pode vir de quem viveu o caso ou de documento lido em voz própria, *então* considere testar essa voz como variável (ver H3). [INFERÊNCIA: van Laer 2019, origem usuário ρ = .40 contra profissional ρ = .29, sem vídeo]
 
 **Medição de transporte**
-- *Se* quiser medir transporte com espectadores, *então* use a escala de Green e Brock (2000), que teve r = .34 contra r = .56 das outras escalas. [ESTUDO citado pelo autor]
+- *Se* quiser medir transporte com espectadores, *então* use a escala de Green e Brock (2000) como total, não por subescala (α = .76, N = 274; as subescalas quase não previram desfechos). (2ª leva) O contraste r = .34 contra r = .56 entre escalas é de van Laer et al. (2014), não de Green & Brock. [ESTUDO]
 - *Limite:* as notas dizem que as outras escalas são "inflados pela ordem dos itens de afeto", mas o mecanismo não está explicado. A medida é de survey, não de retenção.
 
 **Curiosidade (hook)**
@@ -210,7 +213,7 @@ Só o canal pode medi-las. Todas usam mesmo tema e fonte verificada entre as ver
 - Limite: nenhum estudo cobre 10 a 60 minutos. Não há dose a partir daqui.
 
 **H7. Transporte medido por survey (Green e Brock) se correlaciona com AVD.**
-- Base: van Laer (2014), escala r = .34.
+- Base: van Laer (2014), escala r = .34 (2ª leva: valor de van Laer, não de Green & Brock).
 - Métrica primária: correlação entre survey e AVD em amostra pequena.
 - Limite: correlação, não causa. A amostra precisa ser de espectadores reais do canal.
 

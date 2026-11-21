@@ -2,6 +2,8 @@
 
 > Mapa temático da biblioteca de livros e artigos (15 obras lidas por agentes). Livro de autor é `[PRATICANTE]`; estudo que o livro cita é `[ESTUDO citado pelo autor]`, não verificado pelo projeto; metanálise lida na íntegra é `[ESTUDO]`. Nenhuma obra mede retenção em vídeo longo: tudo aqui é hipótese de ofício.
 
+> **Atualizado pela segunda leva:** ver `20` §Mapa 12. As correções pontuais estão aplicadas abaixo, marcadas com "(2ª leva)"; os acréscimos (N1, N2...) e as divergências novas ficam só em `20`.
+
 # Mapa: Estrutura narrativa (cena, beat, virada, atos, desejo e oponente) em não ficção narrada
 
 **Fontes deste mapa:** fichas de Truby, McKee, Snyder, King, Hall, Heath, Berger, Kane, Eyal, Loewenstein (1994), van Laer et al. (2014 e 2019) e Shen et al. (2015). Dos documentos 01 a 10, só o Master Playbook §1 e a SKILL foram lidos; os demais são citados pelo índice. Onde a relação depende de seção não lida, está marcado.
@@ -31,6 +33,7 @@
 - McKee: setup ganha outro sentido depois do insight; curiosidade é fechar um padrão aberto [PRATICANTE].
 - Heath: ordem de história que leva a uma decisão (Pennington e Hastie, 1988) [ESTUDO citado pelo autor].
 - Loewenstein (1994): curiosidade depende de lacuna percebida, com conhecimento prévio [ESTUDO, teoria; dados de laboratório].
+- (2ª leva) Há conflito na literatura sobre a ordem: estudos citados por Green & Appel (2024) mostram que estrutura não cronológica pode aumentar suspense e transporte, e que eventos embaralhados ao acaso reduzem o transporte. A distinção provisória é a causalidade sinalizada (`20` §Mapa 12, D-N1). Nenhum mede retenção.
 
 **P4. Plantar cedo e pagar depois.** Elemento introduzido tarde demais não importa.
 - King: "a arma na lareira" deve aparecer antes [PRATICANTE].
@@ -138,7 +141,7 @@ Formato: o que é · obra · como aplicar em não ficção narrada · rótulo ·
 | Moderadores de persuasão: comercial, usuário | van Laer et al. (2019), meta-análise | [ESTUDO] | Persuasão, não permanência; diferenças não testadas formalmente |
 | Lacuna de curiosidade, feedback do palpite | Loewenstein (1994), teoria com dados de laboratório | [ESTUDO] | Curiosidade, não assistir; sem vídeo |
 | Ordem de história e decisão (condenação 31% vs. 78%) | Pennington e Hastie (1988), via Heath | [ESTUDO citado pelo autor] | n não consta; não verificado |
-| Segmentação de blocos com retenção d = 0,42 | Rey et al. (2019), via base 01 §1 | [ESTUDO citado pelo base] | Aprendizagem, não narrativa |
+| Segmentação de blocos com retenção d = 0,42 | Rey et al. (2019), via base 01 §1 | [ESTUDO citado pela base] | Aprendizagem, não narrativa |
 | Beats, atos, 22 passos, 15 beats, clímax, Controlling Idea, valor por cena | Truby, McKee, Snyder, King, Hall, Heath | [PRATICANTE] | Ofício; nenhum mede desempenho |
 
 **Conclusão de §4.** Nenhum estudo do conjunto mede estrutura de roteiro (beats, atos, número de viradas) contra retenção, AVD ou APV. O que existe é ofício convergente e alguns estudos de desfechos vizinhos. A estrutura narrativa para long-form dark é, portanto, hipótese de ofício a testar com a curva do próprio canal.

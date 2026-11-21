@@ -2,6 +2,8 @@
 
 > Mapa temático da biblioteca de livros e artigos (15 obras lidas por agentes). Livro de autor é `[PRATICANTE]`; estudo que o livro cita é `[ESTUDO citado pelo autor]`, não verificado pelo projeto; metanálise lida na íntegra é `[ESTUDO]`. Nenhuma obra mede retenção em vídeo longo: tudo aqui é hipótese de ofício.
 
+> **Atualizado pela segunda leva:** ver `20` §Mapa 16. As correções pontuais estão aplicadas abaixo, marcadas com "(2ª leva)"; os acréscimos (N1, N2...) e as divergências novas ficam só em `20`.
+
 # Mapa: Ofício de escrita e revisão (texto narrado)
 
 **Escopo.** Regras de prosa, corte, revisão, exposição e relação com o leitor aplicáveis ao texto narrado de um roteiro. Nenhuma obra desta biblioteca mede retenção, AVD ou APV de texto. Todas as regras abaixo são de ofício ou de método, salvo onde indicado.
@@ -31,6 +33,7 @@
 **P4. Informação entra quando serve a uma pergunta ou decisão.**
 - McKee: exposição é munição; se a informação não é necessária, não a revele. [PRATICANTE]
 - Hall: dado no meio, com a narrativa abrindo e fechando. [PRATICANTE]
+- (2ª leva) Bernard acrescenta que a informação entra "onde e quando é necessária, e não antes": a regra é de timing, não de proibição. A exposição não deve ser evitada, só não despejada no começo.
 
 **P5. Plantar cedo o que volta.** King (plantar e retornar), McKee (setup com sentido na primeira leitura e outro após o insight), Truby (revelações em ordem crescente). [PRATICANTE]
 
@@ -61,6 +64,7 @@
 - Hall: "lista é isca para o Sistema 2". [ESTUDO citado pelo autor, sem n, ano ou efeito]
 - Base 04 §7: densidade é variável a medir, sem medida de retenção no corpus.
 - Não usar a tese de Hall como regra. Tratar como hipótese.
+- (2ª leva) Continua sem número, mas a carga concorrente é efeito de laboratório mais próximo do tema (Green & Appel, 2024, citando estudos de transporte). Atualização: densidade tem evidência fraca de laboratório e nenhuma de vídeo (`20` §Mapa 16, D-N3).
 
 ---
 

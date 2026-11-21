@@ -1,31 +1,68 @@
 # dark-longform-videos
 
-Skill `producing-dark-longform-videos`.
+Skill `producing-dark-longform-videos`, versão 2.0.0.
 
-Skill para agentes (Claude Code e compatíveis) que conduz a produção de um vídeo longo de YouTube
-(10 a 60+ minutos) para canal dark — narrado, sem apresentador em câmera — da ideia à leitura do
-Analytics.
+Skill para agentes (Claude Code, claude.ai e compatíveis) que conduz a produção de um vídeo longo de
+YouTube (10 a 60+ minutos) para canal dark, narrado e sem apresentador em câmera. Vai da ideia ao texto
+narrado, à auditoria antes de publicar e à leitura do Analytics.
 
-Ela nasceu de uma pesquisa multiagente sobre retenção, hooks, thumbnails, storytelling e o algoritmo
-do YouTube. Os dez documentos dessa pesquisa vêm junto, como base de consulta, com os mapas e as fichas de uma
+Ela nasceu de uma pesquisa multiagente sobre retenção, hooks, thumbnails, storytelling e o algoritmo do
+YouTube. Os documentos da pesquisa vêm junto, como base de consulta, com os mapas e as fichas de uma
 biblioteca de 27 livros e artigos sobre histórias, atenção, persuasão e retenção em vídeo.
 
 ## O que ela faz
 
-Quando o pedido é roteiro, hook, título, thumbnail, auditoria ou diagnóstico de um vídeo longo, a
-skill leva o vídeo por seis etapas. Cada etapa tem um briefing de agente e um critério de saída:
+Quando o pedido é ideia, título, thumbnail, hook, roteiro, narração, auditoria ou diagnóstico de um vídeo
+longo, a skill leva o trabalho por sete etapas. Cada etapa tem um briefing de agente e um critério de saída.
 
-| Etapa | Agente | Só avança quando |
+A skill parte de duas metades que não se substituem:
+
+1. **Motivo para clicar e para continuar.** O espectador não conhece o caso. Ele clica por uma cena
+   concreta ou uma anomalia que cabe numa frase e fica por uma pergunta central paga aos poucos.
+2. **Disciplina de fato e promessa.** Só se afirma o que tem fonte. Só se promete o que o vídeo paga.
+
+Seguir o processo evita erro. Não faz ninguém clicar.
+
+## O fluxo em 7 etapas
+
+| Etapa | Briefing | Só avança quando |
 |---|---|---|
-| Ideia | `agents/ideia.md` | há pergunta-mestra com resposta esperada e fontes para 3+ blocos |
-| Pacote | `agents/pacote.md` | cada promessa do título e da thumbnail tem bloco e minuto de pagamento |
-| Hook | `agents/hook.md` | âncora antes de 30 s, promessa entre 30 e 60 s, recompensa antes de 90 s |
-| Roteiro | `agents/roteiro.md` | cada bloco tem pergunta, recompensa, ponte e motivo para ficar |
-| Auditoria | `agents/auditor.md` | rubrica aplicada por quem não escreveu, só com o dossiê |
-| Pós-publicação | `agents/analytics.md` | leitura na ordem oficial e um experimento de uma variável |
+| 1. Ideia | `agents/ideia.md` | a anomalia cabe em uma frase, a pergunta-mestra tem resposta esperada ou recompensa entregável, há fatos independentes para a duração e pelo menos 3 têm cena |
+| 2. Pacote | `agents/pacote.md` | toda promessa do título e da thumbnail tem bloco e minuto de pagamento, a ficha de layout está completa e a legibilidade foi checada |
+| 3. Hook | `agents/hook.md` | o texto medido ocupa 80 a 95 s, a pergunta central aparece uma vez até 60 s e o fecho é um laço aberto |
+| 4. Roteiro (mapa e sinopse em três tempos) | `agents/roteiro.md` | a sinopse tem começo, meio e fim, e todo bloco tem fato novo, imagem, motivo concreto para ficar e ponte em forma de pergunta |
+| 5. Narração (texto narrado) | `agents/narracao.md` | todo bloco tem texto dentro de 10% do tempo do mapa, toda frase de fato tem fonte e não há metalinguagem |
+| 6. Auditoria | `agents/auditor.md` | as checagens por código rodaram, cada item tem trecho citado e nenhum bloqueio está aberto |
+| 7. Pós-publicação | `agents/analytics.md` | há hipótese, resultado com nível de evidência e o briefing a mudar |
 
-Cada vídeo ganha um dossiê (`dossie-modelo.md`) com tabela de fatos, registro de promessas, hook,
-mapa de blocos, auditoria e experimento.
+O projeto vive num dossiê (`dossie-modelo.md`), com uma seção por etapa. Pedido parcial ou com pressa
+usa o modo enxuto: menos cerimônia, mesmo critério. Subagente só na auditoria, que recebe o dossiê e
+nunca a conversa de quem escreveu.
+
+## Ferramentas por código
+
+Contagem e legibilidade não se medem de cabeça. Três scripts, só com a biblioteca padrão:
+
+| Script | O que faz |
+|---|---|
+| `scripts/medir_texto.py` | Mede um hook ou bloco narrado: palavras, frases, tempo estimado, perguntas, frases sobre o próprio vídeo e números e nomes que não estão na ficha de fatos. |
+| `scripts/checar_thumbnail.py` | Checa uma thumbnail em SVG 1280x720: texto cortado, sobreposto ou fora da área segura, contraste e legibilidade em 320x180. |
+| `scripts/checar_pacote.py` | Valida a skill antes de publicar: frontmatter, caminhos e citações, índice, `--help` dos scripts, tamanho dos briefings, arquivos indesejados e segredos. Com `--zip`, monta o pacote para upload. |
+
+`scripts/build_index.py` refaz `references/INDEX.md` depois de editar uma referência.
+
+**O que precisam.** Python 3.10+. Para `checar_thumbnail.py` medir por completo, Playwright com
+Chromium instalado. Com `cairosvg`, o fundo é renderizado e as caixas de texto continuam estimadas. Sem
+nenhum dos dois, a checagem é estática e parcial, e o relatório avisa. Sem como rodar um script, a skill
+escreve "não medi".
+
+Uso rápido, na pasta da skill:
+
+```bash
+python scripts/medir_texto.py hook.txt --tipo hook --fatos fatos.txt
+python scripts/checar_thumbnail.py thumb.svg --titulo "TÍTULO" --png thumb.png
+python scripts/checar_pacote.py --zip producing-dark-longform-videos.zip
+```
 
 ## Instalação
 
@@ -40,52 +77,51 @@ cp -r dark-longform-videos/skills/producing-dark-longform-videos ~/.claude/skill
 
 A skill aparece na sessão seguinte.
 
+**claude.ai:** use o zip pronto em [`dist/producing-dark-longform-videos.zip`](dist/producing-dark-longform-videos.zip), ou monte o seu com `python scripts/checar_pacote.py --zip producing-dark-longform-videos.zip`
+(a pasta da skill fica na raiz do zip) e envie o arquivo na área de Skills das configurações da conta.
+O nome do menu muda com o tempo; hoje costuma estar em Configurações > Capacidades. Os scripts só rodam
+se o ambiente tiver execução de código. Sem ela, a skill funciona e informa o que não mediu.
+
 ## Conteúdo
 
 ```
 skills/producing-dark-longform-videos/
-  SKILL.md              fluxo, regras e erros comuns
+  SKILL.md              fluxo, regras e entrega
   dossie-modelo.md      modelo do dossiê de um vídeo
-  agents/               um briefing por papel
-  references/           os dez documentos da pesquisa, os mapas e fichas da biblioteca + INDEX.md (índice por seção)
-  scripts/build_index.py  refaz o índice depois de editar uma referência
+  agents/               um briefing por etapa (ideia, pacote, hook, roteiro, narração, auditor, analytics)
+  references/           kit de bolso, pesquisa, mapas e fichas da biblioteca, testes + INDEX.md
+  scripts/              medir_texto.py, checar_thumbnail.py, checar_pacote.py, build_index.py
 ```
 
 ## O que saber antes de confiar
 
-- **Nenhuma recomendação tem efeito medido sobre retenção.** A base separa o que é regra oficial da
-  plataforma do que é estudo de outro contexto, relato de praticante ou inferência. Marcas de tempo
-  e doses são ponto de partida, a calibrar com os dados do canal.
-- **Não há curvas de retenção de terceiros na base**: o YouTube não as publica. A engenharia reversa
+- **Nenhuma recomendação tem efeito medido em audiência.** A base separa o que é regra oficial da
+  plataforma do que é estudo de outro contexto, relato de praticante ou inferência, cada um com etiqueta.
+  Marcas de tempo e doses são ponto de partida, a calibrar com os dados do canal.
+- **Não há curvas de retenção de terceiros na base.** O YouTube não as publica. A engenharia reversa
   se apoia em transcrições, títulos, thumbnails e contagens públicas de 38 vídeos de alto desempenho,
   sem grupo de comparação.
-- **Os mapas e fichas da biblioteca são resumos em palavras próprias**, com citações curtas. Livro de autor entra como
-  relato de praticante. Nenhuma das obras mede o efeito de uma técnica de roteiro sobre a retenção em
-  vídeo longo; os estudos com dados do YouTube medem duração e fração assistida entre vídeos.
-- **A skill não pesquisa o caso do vídeo.** Sem fonte, os fatos entram como "a verificar" e o texto
-  narrado não os afirma.
-- **Testes de processo.** A skill foi escrita a partir de cenários de pressão rodados com e sem ela.
-  Foram exercitadas as etapas de criação e de leitura de Analytics; o papel de auditor e o despacho
-  real de subagentes ainda não.
-- **Teste comparativo com juízes cegos.** O mesmo pedido (título, thumbnail, primeira tela, hook e
-  mapa de blocos, com a mesma ficha de fatos) foi feito ao Claude Haiku 5.5 sem a skill e com cada
-  versão dela; agentes Claude Opus 5.5 ordenaram as entregas sem saber a origem.
-  - **1ª rodada (8 temas):** a skill perdeu. Hook: 21 de 24 primeiros lugares para o texto sem skill.
-    Pacote: a versão mais completa da skill não ficou em primeiro nenhuma vez. Os juízes disseram por
-    quê: hook curto que "soa como aula", thumbnail sem a anomalia do caso, texto encavalado.
-  - **Correção:** esses motivos viraram oito instruções em `agents/hook.md` e `agents/pacote.md`.
-  - **2ª rodada (12 temas, 4 deles novos, juízes novos):** a skill corrigida empatou com o texto sem
-    skill (hook 18 a 18, pacote 17 a 18 primeiros lugares em 36), e a versão anterior ficou em último.
-    O auditor achou um efeito colateral: detalhes de cena fora da ficha de fatos. O briefing do hook
-    ganhou uma trava contra isso, ainda não testada.
-  - O que a skill garante e o texto sem ela não garante: promessa do título com minuto de pagamento,
-    registro de promessas e um motivo para ficar em cada bloco além do suspense.
-  - Os juízes são modelos, não espectadores. O teste que decide é no seu canal.
+- **Os mapas e fichas da biblioteca são resumos em palavras próprias**, com citações curtas. Livro de
+  autor entra como relato de praticante. Os estudos com dados do YouTube medem duração e fração
+  assistida entre vídeos, não o efeito de uma técnica de roteiro.
+- **A skill não pesquisa o caso do vídeo.** Sem fonte, os fatos entram como "a verificar" e a narração
+  não os afirma.
+- **Testes com juízes de IA, etiqueta `[TESTE-IA]`.** O mesmo pedido foi feito a um modelo pequeno sem
+  a skill e com cada versão dela, e modelos maiores ordenaram as entregas sem saber a origem. A versão
+  de pesquisa perdeu na primeira rodada, as correções a levaram a empatar com o texto sem skill na
+  segunda, e o roteiro e o texto narrado nunca foram julgados. Juízes de IA são modelos, não
+  espectadores: o resultado não mede clique, retenção nem satisfação. O resumo, com os limites, está em
+  `references/21_testes_comparativos.md`. O teste que decide é no seu canal.
+- **Testes de uso da versão 2.** Cinco pedidos reais foram feitos a Claude Haiku 5.5 seguindo a skill e
+  avaliados por um revisor independente; os dois que falharam foram corrigidos e refeitos. Isso testa se
+  as instruções são seguidas, não se o vídeo performa.
 
 ## Referências incluídas
 
 | Arquivo | Conteúdo |
 |---|---|
+| `00_kit_de_bolso.md` | Doses com etiqueta, aberturas reais, checklist de thumbnail e pontes entre blocos |
+| `INDEX.md` | Trilha por papel e índice de seções com faixa de linhas, para ler só o necessário |
 | `01_master_playbook.md` | Sistema IDEIA → PAYOFF, blueprint do vídeo de 30 minutos, grau de confiança |
 | `02_hook_database.md` | 59 estruturas para os primeiros 90 segundos |
 | `03_thumbnail_engineering_playbook.md` | Modelo do clique, design, título + thumbnail, testes A/B |
@@ -95,13 +131,17 @@ skills/producing-dark-longform-videos/
 | `07_biblioteca_cientifica.md` | Fichas de estudo: curiosidade, atenção, narrativa, memória |
 | `08_algoritmo_e_analytics.md` | Recomendação, métricas e roteiro de leitura do Analytics |
 | `09_sistema_avaliacao_pre_publicacao.md` | Portões, rubricas e testes práticos |
-| `10_framework_experimentacao.md` | Hipóteses testáveis e desenhos de experimento |
-| `11` a `16` (`*_mapa_*.md`) | Mapas temáticos da primeira leva da biblioteca (15 obras): hook e curiosidade, estrutura narrativa, viralização, retenção e hábito, persuasão por narrativa, ofício de escrita |
-| `17_fichas_da_biblioteca.md` | Uma ficha por obra, 27 obras: manuais de roteiro e de documentário (McKee, Truby, Snyder, Yorke, Coyne, Bernard, Murch, King), livros de divulgação (Heath, Berger, Kane, Eyal, Hall) e artigos científicos lidos na íntegra |
-| `18_mapa_evidencia_de_retencao_em_video.md` | O que os estudos com dados do próprio YouTube permitem dizer sobre duração, fração assistida e engajamento |
+| `10_framework_experimentacao.md` | Hipóteses testáveis, desenhos de experimento e como o aprendizado volta |
+| `11` a `16` (`*_mapa_*.md`) | Mapas temáticos da primeira leva da biblioteca: hook e curiosidade, estrutura narrativa, viralização, retenção e hábito, persuasão por narrativa, ofício de escrita |
+| `17_fichas_da_biblioteca.md` | Uma ficha por obra, 27 obras: manuais de roteiro e de documentário, livros de divulgação e artigos científicos |
+| `18_mapa_evidencia_de_retencao_em_video.md` | O que os estudos com dados do YouTube permitem dizer sobre duração, fração assistida e engajamento |
 | `19_mapa_narrativa_documental_e_edicao.md` | Narrativa documental e montagem aplicadas a vídeo narrado |
 | `20_atualizacao_dos_mapas_11_a_16.md` | O que a segunda leva (12 obras) muda nos mapas da primeira |
+| `21_testes_comparativos.md` | Os testes cegos com juízes de IA, a etiqueta `[TESTE-IA]` e os limites do que provam |
+
+`06`, `07`, `15` e `17` são consulta de fundo: não é preciso abri-los para escrever.
 
 ## Licença
 
-MIT. Veja [LICENSE](LICENSE). As referências citam trechos curtos de legendas de vídeos de terceiros, identificados por canal e título, para fins de análise.
+MIT. Veja [LICENSE](LICENSE). As referências citam trechos curtos de legendas de vídeos de terceiros,
+identificados por canal e título, para fins de análise.

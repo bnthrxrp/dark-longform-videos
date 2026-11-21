@@ -136,20 +136,20 @@ Não consta nenhum vídeo, canal ou caso nomeado.
 ### 13. Relação com a base do projeto
 
 - **Confirma:**
-  - A Intro é a única métrica oficial de abertura, sem limiar publicado (01 §1.3; 04 §2.1). Esta página confirma a janela de 30 s e a ausência de limiar.
+  - A Intro é a única métrica oficial de abertura, sem limiar publicado (01 §1, item 3; 04 §2.1). Esta página confirma a janela de 30 s e a ausência de limiar.
   - O relatório existe só no nível do vídeo (08 §4 glossário, para conferir a definição de cada métrica).
-  - A Intro liga a promessa de título e miniatura à retenção (01 §1.2 e §2.2–2.3; 03 §3.4 sobre promessa pagável). O documento faz essa ligação, mas não mede CTR.
+  - A Intro liga a promessa de título e miniatura à retenção (01 §1, item 2, e §2.2–2.3; 03 §3.4 sobre promessa pagável). O documento faz essa ligação, mas não mede CTR.
   - Dips e spikes exigem leitura manual, sem critério oficial. Isso é coerente com 04 §1.2 (formatos e diagnóstico diferencial). Confira se 04 §1.2 já trata da ambiguidade do spike. A fonte confirma a ambiguidade e não dá critério para resolvê-la.
-  - Os números de segmentos podem exceder o total de views, por reassistência. Isso reforça a instrução de anotar as quebras de contagem (01 §1.6 e 08 §7.3). O documento dá a explicação do fenômeno.
+  - Os números de segmentos podem exceder o total de views, por reassistência. Isso reforça a instrução de anotar as quebras de contagem (01 §1, item 6, e 08 §7.3). O documento dá a explicação do fenômeno.
 - **Acrescenta:**
   - A descrição de cada rótulo da curva, com a ressalva de que o documento junta "pulado" e "abandonado".
   - A definição oficial de AVD como função de "engaged views", que não é definido. A base deve tratar o AVD como dependente de um denominador não especificado.
 - **Não sustenta, ou em tensão com a base:**
   - A regra de "trazer o conteúdo mais forte para antes" aparece como recomendação da plataforma. O playbook trata a posição do clímax como **aposta a testar** (01 §1, item 7). A fonte dá a direção, mas sem medida, e não muda o status da aposta.
-  - A ordem de leitura do playbook (01 §1.6 e 08 §7.3) não vem deste documento. Ela é do projeto, não da plataforma. Não atribua essa ordem ao YouTube.
+  - A ordem de leitura do playbook (01 §1, item 6, e 08 §7.3) não vem deste documento. Ela é do projeto, não da plataforma. Não atribua essa ordem ao YouTube.
   - APV não aparece no documento. Se a base usa APV, o cálculo deve ser tratado como cálculo do próprio projeto, e não como definição oficial.
   - A comparação com typical retention tem confundidor de tema e época. Relacionar com 10 §1.5 (por que comparar vídeos diferentes confunde tema com tratamento).
-- **Sem relação:** 60 e 90 s do hook. A base já os trata como processo (01 §1.3). A fonte não os mede.
+- **Sem relação:** 60 e 90 s do hook. A base já os trata como processo (01 §1, item 3). A fonte não os mede.
 
 ### 14. Dúvidas e problemas do texto
 
@@ -408,7 +408,7 @@ A base não é verificável por este trecho: tenho o índice dos documentos 01 a
 - **Confirma:**
   - `08` §5 ("Por que CTR alto nem sempre é melhor"): views e tempo assistido divergem (Fig. 1; Spearman). [ESTUDO]
   - Sistema, regra 4 (views não medem qualidade): o artigo mostra divergência entre views e tempo assistido. Não mede qualidade narrativa. [ESTUDO]
-  - `04` §1 (leitura de curvas) e `06` §9.3 (limites do corpus): o artigo confirma que uma média por vídeo não mostra o padrão interno. [ESTUDO] + [INFERÊNCIA]
+  - `04` §1 (leitura de curvas) e `06` §9 (limites do corpus): o artigo confirma que uma média por vídeo não mostra o padrão interno. [ESTUDO] + [INFERÊNCIA]
   - `10` §1.5 ("comparar vídeos diferentes confunde tema com tratamento"): o artigo mostra tópico associado a engajamento, sem explicação causal. [ESTUDO]
 - **Acrescenta:**
   - Normalização por faixa de duração (η̄) como método de comparação. Pode complementar `01` §8 ("Adaptações por duração") ou `08` §6. Não consta se já está no documento.
@@ -3139,7 +3139,7 @@ Listados na seção 9.
 
 **O que a obra confirma**
 
-- **Lacuna de retenção.** Nenhuma curva, AVD ou APV no livro. Isso confirma o que o Master Playbook §1 (item 3) já diz sobre a falta de curvas no corpus: nenhum vídeo do corpus tem curva (`04` §1, `06` §9.3). A obra não preenche essa lacuna.
+- **Lacuna de retenção.** Nenhuma curva, AVD ou APV no livro. Isso confirma o que o Master Playbook §1 (item 3) já diz sobre a falta de curvas no corpus: nenhum vídeo do corpus tem curva (`04` §1, `06` §9). A obra não preenche essa lacuna.
 - **Visualização não é qualidade.** O próprio livro, no capítulo 6, diz que o sucesso não se conta por visualizações; isso é consistente com `08` §5 ("Por que CTR alto nem sempre é melhor") e com a regra da skill de que visualização não prova estrutura. Consistente, mas só como princípio: o livro não mede isso.
 - **Integridade.** O cuidado com fato não verificado e com afirmação sem fonte bate com a regra 3 da skill (fato do caso só com fonte) e com o que o Master Playbook diz sobre checagem de fato antes da gravação (§5.5).
 

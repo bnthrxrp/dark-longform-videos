@@ -249,7 +249,7 @@ Etapa de escolher o assunto e a promessa, antes de qualquer embalagem. A pergunt
 
 **H-H3. Contexto geográfico antes do primeiro evento versus primeiro evento antes do contexto.**
 - **Enunciado:** entrar no primeiro evento antes de 60 s aumenta o Intro, em comparação com abrir com 60 s ou mais de geografia ou história geral.
-- **Origem:** Scary Interesting (The Most Dangerous Ocean Crossing) tem primeiro evento em 01:12, depois de 72 s de geografia; a medição não separa o efeito [`02_hook`, 4.5]. Hipótese de posicionamento, [INFERÊNCIA].
+- **Origem:** Scary Interesting (The Most Dangerous Ocean Crossing) tem primeiro evento em 01:12, depois de 72 s de geografia; a medição não separa o efeito [`02_hook`, §4, item 5]. Hipótese de posicionamento, [INFERÊNCIA].
 - **Intervenção:** antecipar o primeiro evento; o restante do vídeo fica igual.
 - **Métrica primária:** Intro.
 - **Proteção:** AVD (para ver se a antecipação não tira contexto necessário).
@@ -383,7 +383,7 @@ Etapa de escolher o assunto e a promessa, antes de qualquer embalagem. A pergunt
 
 **H-P1. Pagamento parcial de loop antes de 5 min versus pagamento apenas no fim do bloco.**
 - **Enunciado:** uma resposta parcial à pergunta de abertura antes de 5 min eleva o Intro e reduz a queda do primeiro bloco, em comparação com pagamento só no fim do bloco.
-- **Origem:** Schibler et al. (2023) mostram desejo declarado por continuar com fim de capítulo (não vídeo), e Loewenstein (1994) sustenta que informação parcial alimenta a curiosidade [`07_biblioteca`]. O corpus tem pagamento parcial em Villach (01:59) e Sleepy History (02:38) [`04_retention`, 6.1; `06_engenharia`, 6.1]. Hipótese [INFERÊNCIA].
+- **Origem:** Schibler et al. (2023) mostram desejo declarado por continuar com fim de capítulo (não vídeo), e Loewenstein (1994) sustenta que informação parcial alimenta a curiosidade [`07_biblioteca`]. O corpus tem pagamento parcial em Villach (01:59) e Sleepy History (02:38) [`04_retention`, §6; `06_engenharia`, 6.1]. Hipótese [INFERÊNCIA].
 - **Intervenção:** existência e posição do pagamento parcial.
 - **Métrica primária:** queda no primeiro bloco (leitura visual).
 - **Proteção:** Intro; AVD.
@@ -393,7 +393,7 @@ Etapa de escolher o assunto e a promessa, antes de qualquer embalagem. A pergunt
 
 **H-P2. Pagamento de promessa no minuto anunciado versus pagamento depois do minuto anunciado.**
 - **Enunciado:** quando o vídeo diz "veremos isso no minuto X", pagar até X ± 30 s mantém a curva; pagar depois reduz o AVD.
-- **Origem:** o dossiê de miniatura e o de retenção registram promessas com minuto declarado (Trafalgar 24:48 → 36:16; Tencent 31:03 → 44:24) e pagamentos que variam em torno de 11 a 13 min [`04_retention`, 6.1; `03_thumbnail`, 3.4]. Nenhuma medida de efeito.
+- **Origem:** o dossiê de miniatura e o de retenção registram promessas com minuto declarado (Trafalgar 24:48 → 36:16; Tencent 31:03 → 44:24) e pagamentos que variam em torno de 11 a 13 min [`04_retention`, §6; `03_thumbnail`, 3.4]. Nenhuma medida de efeito.
 - **Intervenção:** cumprir o minuto anunciado ou não cumprir.
 - **Métrica primária:** queda após o minuto de pagamento.
 - **Proteção:** satisfação por proxy; comentários de correção.
@@ -447,7 +447,7 @@ Etapa de escolher o assunto e a promessa, antes de qualquer embalagem. A pergunt
 
 **H-E3. Pedido de inscrição no fim versus no início do vídeo.**
 - **Enunciado:** pedir inscrição no fim não reduz o AVD, em comparação com pedido no início (que reduz o Intro).
-- **Origem:** o dossiê de storytelling registra pedido de inscrição em cerca de 6 de 36 encerramentos, sempre no fim, sem medida de efeito [`05_storytelling`, 6; `06_engenharia`, 6.3]. Cavaleiro do Tempo pede apoio em 00:04–00:35, antes de qualquer conteúdo (`02_hook`, 4.1). [INFERÊNCIA].
+- **Origem:** o dossiê de storytelling registra pedido de inscrição em cerca de 6 de 36 encerramentos, sempre no fim, sem medida de efeito [`05_storytelling`, 6; `06_engenharia`, 6.3]. Cavaleiro do Tempo pede apoio em 00:04–00:35, antes de qualquer conteúdo (`02_hook`, §4, item 1). [INFERÊNCIA].
 - **Intervenção:** posição do pedido (início contra fim).
 - **Métrica primária:** Intro (para a versão com pedido no início); AVD (para a versão com pedido no fim).
 - **Proteção:** inscritos novos (métrica de canal).

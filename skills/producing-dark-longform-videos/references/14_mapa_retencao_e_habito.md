@@ -2,13 +2,15 @@
 
 > Mapa temático da biblioteca de livros e artigos (15 obras lidas por agentes). Livro de autor é `[PRATICANTE]`; estudo que o livro cita é `[ESTUDO citado pelo autor]`, não verificado pelo projeto; metanálise lida na íntegra é `[ESTUDO]`. Nenhuma obra mede retenção em vídeo longo: tudo aqui é hipótese de ofício.
 
+> **Atualizado pela segunda leva:** ver `20` §Mapa 14. As correções pontuais estão aplicadas abaixo, marcadas com "(2ª leva)"; os acréscimos (N1, N2...) e as divergências novas ficam só em `20`.
+
 # Mapa temático: Retenção e hábito (retorno ao canal e à série)
 
 **Escopo.** O que faz o espectador voltar ao canal ou a uma série. Não trata de manter a atenção dentro de um vídeo; isso é o mapa de retenção intra-vídeo.
 
 **Fontes.** Fichas de Eyal (*Hooked*), Berger (*Contagious*), Kane (*Hook Point*), Loewenstein (1994), Heath (*Made to Stick*), McKee (*Story*), Snyder (*Save the Cat*), Truby, Hall (*Stories That Stick*), King, Baggett, Nagy, van Laer (2014 e 2019) e Shen (2015). Documentos 01 a 10 apenas pelo índice e pelo Master Playbook §1. O conteúdo das seções não foi lido.
 
-**Lacuna do corpus.** Nenhuma ficha mede retorno ao canal, inscrição, frequência de visita ou desempenho de série em vídeo. Os números que aparecem abaixo vêm de produto, marca, apostas ou animais. Não encontrei número de referência para retorno ou inscrição. Não há fonte oficial do YouTube sobre esses temas nas fichas.
+**Lacuna do corpus.** Nenhuma ficha mede retorno ao canal, inscrição, frequência de visita ou desempenho de série em vídeo. Os números que aparecem abaixo vêm de produto, marca, apostas ou animais. Não encontrei número de referência para retorno ou inscrição. (2ª leva) Correção: a frase "não há fonte oficial do YouTube sobre esses temas" estava errada. A Central de Ajuda do YouTube [OFICIAL] descreve retenção separada por novos e recorrentes, inscritos e não inscritos, e origem de tráfego (orgânico e pago). Ela não traz número de referência para retorno nem para inscrição.
 
 ---
 
@@ -86,7 +88,7 @@ Formato "Se X, faça Y". Cada técnica traz a fonte, a transferência e a contra
 - Transferência: [ADAPTAÇÃO].
 - Contraindicação: a escolha do público não decide fato nem pauta de caso sem checagem.
 
-**T9. Ler retorno, não só alcance (Pós-publicação).** Se a pergunta é voltar, então separe alcance de retorno e leia por origem de tráfego.
+**T9. Ler retorno, não só alcance (Pós-publicação).** Se a pergunta é voltar, então separe alcance de retorno e leia por origem de tráfego. (2ª leva) A origem muda também a retenção e o alcance, não só o CTR (Bassolas et al., 2025, preprint; segmentação de origem na Ajuda): compare retorno e retenção só dentro da mesma origem.
 - Fonte: Berger (imediato e contínuo) [ESTUDO citado pelo autor]; base 08 §5 (CTR alto nem sempre é melhor) e 08 §3 "Satisfação do espectador" (pelo índice, não lido).
 - Transferência: [INFERÊNCIA].
 - Contraindicação: o corpus não define métrica de retorno. Defina-a antes (10 §1.3).
